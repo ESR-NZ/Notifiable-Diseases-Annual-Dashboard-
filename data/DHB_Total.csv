@@ -6385,11 +6385,11 @@ Rheumatic fever - recurrent attack,Waitemata,2011,0,0
 Rheumatic fever - recurrent attack,Wairarapa,2011,0,0
 Rheumatic fever - recurrent attack,Waikato,2011,2,0.57
 Rheumatic fever - recurrent attack,Taranaki,2011,0,0
-Rheumatic fever - recurrent attack,Tairawhiti,2011,0,0
+Rheumatic fever - recurrent attack,Tairawhiti,2011,1,2.27
 Rheumatic fever - recurrent attack,Southern,2011,0,0
 Rheumatic fever - recurrent attack,South Canterbury,2011,0,0
 Rheumatic fever - recurrent attack,Northland,2011,1,0.68
-Rheumatic fever - recurrent attack,Nelson Marlborough,2011,1,0.74
+Rheumatic fever - recurrent attack,Nelson Marlborough,2011,0,0
 Rheumatic fever - recurrent attack,MidCentral,2011,0,0
 Rheumatic fever - recurrent attack,Lakes,2011,1,1
 Rheumatic fever - recurrent attack,Hutt Valley,2011,0,0
@@ -13774,7 +13774,7 @@ Hepatitis B,MidCentral,2018,0,0
 Hepatitis B,Lakes,2018,0,0
 Hepatitis B,Hutt Valley,2018,0,0
 Hepatitis B,Hawke's Bay,2018,0,0
-Hepatitis B,Counties Manukau,2018,6,1.08
+Hepatitis B,Counties Manukau,2018,5,0.9
 Hepatitis B,Capital&Coast,2018,1,0.32
 Hepatitis B,Canterbury,2018,3,0.53
 Hepatitis B,Bay of Plenty,2018,0,0
@@ -14435,7 +14435,7 @@ Tuberculosis disease - new case,Lakes,2018,4,3.65
 Tuberculosis disease - new case,Hutt Valley,2018,7,4.67
 Tuberculosis disease - new case,Hawke's Bay,2018,6,3.61
 Tuberculosis disease - new case,Counties Manukau,2018,67,12
-Tuberculosis disease - new case,Capital&Coast,2018,33,10.4
+Tuberculosis disease - new case,Capital&Coast,2018,31,9.77
 Tuberculosis disease - new case,Canterbury,2018,27,4.8
 Tuberculosis disease - new case,Bay of Plenty,2018,14,5.91
 Tuberculosis disease - new case,Auckland,2018,35,6.52
@@ -14994,7 +14994,7 @@ Legionellosis,MidCentral,2019,3,1.63
 Legionellosis,Lakes,2019,3,2.61
 Legionellosis,Hutt Valley,2019,3,1.92
 Legionellosis,Hawke's Bay,2019,2,1.14
-Legionellosis,Counties Manukau,2019,17,2.94
+Legionellosis,Counties Manukau,2019,18,3.11
 Legionellosis,Capital&Coast,2019,3,0.94
 Legionellosis,Canterbury,2019,41,7.2
 Legionellosis,Bay of Plenty,2019,11,4.29
@@ -15328,7 +15328,7 @@ Rheumatic fever - initial attack,Taranaki,2019,1,0.81
 Rheumatic fever - initial attack,Tairawhiti,2019,1,2
 Rheumatic fever - initial attack,Southern,2019,3,0.87
 Rheumatic fever - initial attack,South Canterbury,2019,0,0
-Rheumatic fever - initial attack,Northland,2019,14,7.38
+Rheumatic fever - initial attack,Northland,2019,13,6.85
 Rheumatic fever - initial attack,Nelson Marlborough,2019,0,0
 Rheumatic fever - initial attack,MidCentral,2019,6,3.26
 Rheumatic fever - initial attack,Lakes,2019,3,2.61
@@ -15546,7 +15546,7 @@ Tuberculosis disease - new case,Wairarapa,2019,0,0
 Tuberculosis disease - new case,Waikato,2019,29,6.76
 Tuberculosis disease - new case,Taranaki,2019,4,3.25
 Tuberculosis disease - new case,Tairawhiti,2019,4,7.98
-Tuberculosis disease - new case,Southern,2019,15,4.37
+Tuberculosis disease - new case,Southern,2019,14,4.08
 Tuberculosis disease - new case,South Canterbury,2019,3,4.89
 Tuberculosis disease - new case,Northland,2019,6,3.16
 Tuberculosis disease - new case,Nelson Marlborough,2019,7,4.43
@@ -15554,8 +15554,8 @@ Tuberculosis disease - new case,MidCentral,2019,5,2.71
 Tuberculosis disease - new case,Lakes,2019,3,2.61
 Tuberculosis disease - new case,Hutt Valley,2019,10,6.41
 Tuberculosis disease - new case,Hawke's Bay,2019,7,4
-Tuberculosis disease - new case,Counties Manukau,2019,75,12.95
-Tuberculosis disease - new case,Capital&Coast,2019,21,6.58
+Tuberculosis disease - new case,Counties Manukau,2019,74,12.78
+Tuberculosis disease - new case,Capital&Coast,2019,20,6.26
 Tuberculosis disease - new case,Canterbury,2019,27,4.74
 Tuberculosis disease - new case,Bay of Plenty,2019,7,2.73
 Tuberculosis disease - new case,Auckland,2019,45,9.04
@@ -15574,7 +15574,7 @@ Tuberculosis disease - relapse or reactivation,MidCentral,2019,0,0
 Tuberculosis disease - relapse or reactivation,Lakes,2019,0,0
 Tuberculosis disease - relapse or reactivation,Hutt Valley,2019,0,0
 Tuberculosis disease - relapse or reactivation,Hawke's Bay,2019,0,0
-Tuberculosis disease - relapse or reactivation,Counties Manukau,2019,3,0.52
+Tuberculosis disease - relapse or reactivation,Counties Manukau,2019,4,0.69
 Tuberculosis disease - relapse or reactivation,Capital&Coast,2019,0,0
 Tuberculosis disease - relapse or reactivation,Canterbury,2019,4,0.7
 Tuberculosis disease - relapse or reactivation,Bay of Plenty,2019,0,0
@@ -15744,7 +15744,7 @@ Campylobacteriosis,West Coast,2020,54,166.97
 Campylobacteriosis,Waitemata,2020,594,92.88
 Campylobacteriosis,Wairarapa,2020,85,173.9
 Campylobacteriosis,Waikato,2020,596,135.97
-Campylobacteriosis,Taranaki,2020,194,155.57
+Campylobacteriosis,Taranaki,2020,195,156.37
 Campylobacteriosis,Tairawhiti,2020,63,124.13
 Campylobacteriosis,Southern,2020,519,148.4
 Campylobacteriosis,South Canterbury,2020,129,207.9
@@ -15756,7 +15756,7 @@ Campylobacteriosis,Hutt Valley,2020,116,73.03
 Campylobacteriosis,Hawke's Bay,2020,232,129.99
 Campylobacteriosis,Counties Manukau,2020,420,70.57
 Campylobacteriosis,Capital&Coast,2020,241,74.29
-Campylobacteriosis,Canterbury,2020,548,94.04
+Campylobacteriosis,Canterbury,2020,550,94.38
 Campylobacteriosis,Bay of Plenty,2020,262,99.3
 Campylobacteriosis,Auckland,2020,389,76.97
 Chikungunya fever,Whanganui,2020,0,0
@@ -15768,7 +15768,7 @@ Chikungunya fever,Taranaki,2020,0,0
 Chikungunya fever,Tairawhiti,2020,0,0
 Chikungunya fever,Southern,2020,1,0.29
 Chikungunya fever,South Canterbury,2020,0,0
-Chikungunya fever,Northland,2020,1,0.51
+Chikungunya fever,Northland,2020,0,0
 Chikungunya fever,Nelson Marlborough,2020,0,0
 Chikungunya fever,MidCentral,2020,0,0
 Chikungunya fever,Lakes,2020,0,0
@@ -15903,10 +15903,10 @@ Gastroenteritis - unknown cause,Whanganui,2020,5,7.3
 Gastroenteritis - unknown cause,West Coast,2020,5,15.46
 Gastroenteritis - unknown cause,Waitemata,2020,5,0.78
 Gastroenteritis - unknown cause,Wairarapa,2020,1,2.05
-Gastroenteritis - unknown cause,Waikato,2020,5,1.14
+Gastroenteritis - unknown cause,Waikato,2020,4,0.91
 Gastroenteritis - unknown cause,Taranaki,2020,0,0
 Gastroenteritis - unknown cause,Tairawhiti,2020,0,0
-Gastroenteritis - unknown cause,Southern,2020,8,2.29
+Gastroenteritis - unknown cause,Southern,2020,6,1.72
 Gastroenteritis - unknown cause,South Canterbury,2020,1,1.61
 Gastroenteritis - unknown cause,Northland,2020,11,5.65
 Gastroenteritis - unknown cause,Nelson Marlborough,2020,4,2.48
@@ -15917,7 +15917,7 @@ Gastroenteritis - unknown cause,Hawke's Bay,2020,1,0.56
 Gastroenteritis - unknown cause,Counties Manukau,2020,1,0.17
 Gastroenteritis - unknown cause,Capital&Coast,2020,25,7.71
 Gastroenteritis - unknown cause,Canterbury,2020,23,3.95
-Gastroenteritis - unknown cause,Bay of Plenty,2020,37,14.02
+Gastroenteritis - unknown cause,Bay of Plenty,2020,32,12.13
 Gastroenteritis - unknown cause,Auckland,2020,3,0.59
 Gastroenteritis / foodborne intoxication,Whanganui,2020,1,1.46
 Gastroenteritis / foodborne intoxication,West Coast,2020,0,0
@@ -15946,9 +15946,9 @@ Giardiasis,Wairarapa,2020,16,32.73
 Giardiasis,Waikato,2020,153,34.91
 Giardiasis,Taranaki,2020,33,26.46
 Giardiasis,Tairawhiti,2020,27,53.2
-Giardiasis,Southern,2020,58,16.58
+Giardiasis,Southern,2020,57,16.3
 Giardiasis,South Canterbury,2020,11,17.73
-Giardiasis,Northland,2020,72,37.01
+Giardiasis,Northland,2020,71,36.49
 Giardiasis,Nelson Marlborough,2020,29,17.99
 Giardiasis,MidCentral,2020,33,17.62
 Giardiasis,Lakes,2020,41,34.93
@@ -16003,7 +16003,7 @@ Hepatitis B,Whanganui,2020,0,0
 Hepatitis B,West Coast,2020,0,0
 Hepatitis B,Waitemata,2020,1,0.16
 Hepatitis B,Wairarapa,2020,0,0
-Hepatitis B,Waikato,2020,5,1.14
+Hepatitis B,Waikato,2020,2,0.46
 Hepatitis B,Taranaki,2020,0,0
 Hepatitis B,Tairawhiti,2020,1,1.97
 Hepatitis B,Southern,2020,1,0.29
@@ -16035,7 +16035,7 @@ Hepatitis C,Lakes,2020,0,0
 Hepatitis C,Hutt Valley,2020,2,1.26
 Hepatitis C,Hawke's Bay,2020,2,1.12
 Hepatitis C,Counties Manukau,2020,0,0
-Hepatitis C,Capital&Coast,2020,2,0.62
+Hepatitis C,Capital&Coast,2020,1,0.31
 Hepatitis C,Canterbury,2020,8,1.37
 Hepatitis C,Bay of Plenty,2020,1,0.38
 Hepatitis C,Auckland,2020,0,0
@@ -16055,7 +16055,7 @@ Hepatitis NOS,Lakes,2020,0,0
 Hepatitis NOS,Hutt Valley,2020,0,0
 Hepatitis NOS,Hawke's Bay,2020,0,0
 Hepatitis NOS,Counties Manukau,2020,1,0.17
-Hepatitis NOS,Capital&Coast,2020,1,0.31
+Hepatitis NOS,Capital&Coast,2020,0,0
 Hepatitis NOS,Canterbury,2020,3,0.51
 Hepatitis NOS,Bay of Plenty,2020,0,0
 Hepatitis NOS,Auckland,2020,2,0.4
@@ -16089,7 +16089,7 @@ Invasive pneumococcal disease,Tairawhiti,2020,6,11.82
 Invasive pneumococcal disease,Southern,2020,19,5.43
 Invasive pneumococcal disease,South Canterbury,2020,7,11.28
 Invasive pneumococcal disease,Northland,2020,24,12.34
-Invasive pneumococcal disease,Nelson Marlborough,2020,3,1.86
+Invasive pneumococcal disease,Nelson Marlborough,2020,2,1.24
 Invasive pneumococcal disease,MidCentral,2020,11,5.87
 Invasive pneumococcal disease,Lakes,2020,14,11.93
 Invasive pneumococcal disease,Hutt Valley,2020,11,6.93
@@ -16140,7 +16140,7 @@ Leprosy,Canterbury,2020,0,0
 Leprosy,Bay of Plenty,2020,0,0
 Leprosy,Auckland,2020,1,0.2
 Leptospirosis,Whanganui,2020,1,1.46
-Leptospirosis,West Coast,2020,0,0
+Leptospirosis,West Coast,2020,1,3.09
 Leptospirosis,Waitemata,2020,2,0.31
 Leptospirosis,Wairarapa,2020,1,2.05
 Leptospirosis,Waikato,2020,19,4.33
@@ -16176,7 +16176,7 @@ Listeriosis,Hutt Valley,2020,0,0
 Listeriosis,Hawke's Bay,2020,0,0
 Listeriosis,Counties Manukau,2020,6,1.01
 Listeriosis,Capital&Coast,2020,3,0.92
-Listeriosis,Canterbury,2020,1,0.17
+Listeriosis,Canterbury,2020,2,0.34
 Listeriosis,Bay of Plenty,2020,4,1.52
 Listeriosis,Auckland,2020,4,0.79
 Listeriosis - perinatal,Whanganui,2020,0,0
@@ -16318,7 +16318,7 @@ Murine Typhus,Counties Manukau,2020,0,0
 Murine Typhus,Capital&Coast,2020,0,0
 Murine Typhus,Canterbury,2020,0,0
 Murine Typhus,Bay of Plenty,2020,0,0
-Murine Typhus,Auckland,2020,0,0
+Murine Typhus,Auckland,2020,1,0.2
 Neurologic shellfish poisoning,Whanganui,2020,0,0
 Neurologic shellfish poisoning,West Coast,2020,0,0
 Neurologic shellfish poisoning,Waitemata,2020,0,0
@@ -16398,7 +16398,7 @@ Pertussis,Counties Manukau,2020,10,1.68
 Pertussis,Capital&Coast,2020,24,7.4
 Pertussis,Canterbury,2020,9,1.54
 Pertussis,Bay of Plenty,2020,10,3.79
-Pertussis,Auckland,2020,17,3.36
+Pertussis,Auckland,2020,16,3.17
 Poliomyelitis,Whanganui,2020,0,0
 Poliomyelitis,West Coast,2020,0,0
 Poliomyelitis,Waitemata,2020,0,0
@@ -16443,7 +16443,7 @@ Rheumatic fever - initial attack,Whanganui,2020,0,0
 Rheumatic fever - initial attack,West Coast,2020,0,0
 Rheumatic fever - initial attack,Waitemata,2020,17,2.66
 Rheumatic fever - initial attack,Wairarapa,2020,0,0
-Rheumatic fever - initial attack,Waikato,2020,20,4.56
+Rheumatic fever - initial attack,Waikato,2020,19,4.33
 Rheumatic fever - initial attack,Taranaki,2020,0,0
 Rheumatic fever - initial attack,Tairawhiti,2020,2,3.94
 Rheumatic fever - initial attack,Southern,2020,2,0.57
@@ -16498,7 +16498,7 @@ Rickettsial disease,Counties Manukau,2020,0,0
 Rickettsial disease,Capital&Coast,2020,0,0
 Rickettsial disease,Canterbury,2020,0,0
 Rickettsial disease,Bay of Plenty,2020,0,0
-Rickettsial disease,Auckland,2020,1,0.2
+Rickettsial disease,Auckland,2020,0,0
 Ross River virus infection,Whanganui,2020,0,0
 Ross River virus infection,West Coast,2020,0,0
 Ross River virus infection,Waitemata,2020,0,0
@@ -16558,12 +16558,12 @@ Salmonellosis,Counties Manukau,2020,67,11.26
 Salmonellosis,Capital&Coast,2020,23,7.09
 Salmonellosis,Canterbury,2020,110,18.88
 Salmonellosis,Bay of Plenty,2020,22,8.34
-Salmonellosis,Auckland,2020,57,11.28
+Salmonellosis,Auckland,2020,58,11.48
 Shigellosis,Whanganui,2020,0,0
 Shigellosis,West Coast,2020,0,0
 Shigellosis,Waitemata,2020,10,1.56
 Shigellosis,Wairarapa,2020,0,0
-Shigellosis,Waikato,2020,8,1.83
+Shigellosis,Waikato,2020,3,0.68
 Shigellosis,Taranaki,2020,2,1.6
 Shigellosis,Tairawhiti,2020,0,0
 Shigellosis,Southern,2020,3,0.86
@@ -16572,10 +16572,10 @@ Shigellosis,Northland,2020,0,0
 Shigellosis,Nelson Marlborough,2020,1,0.62
 Shigellosis,MidCentral,2020,1,0.53
 Shigellosis,Lakes,2020,0,0
-Shigellosis,Hutt Valley,2020,3,1.89
-Shigellosis,Hawke's Bay,2020,3,1.68
+Shigellosis,Hutt Valley,2020,0,0
+Shigellosis,Hawke's Bay,2020,0,0
 Shigellosis,Counties Manukau,2020,16,2.69
-Shigellosis,Capital&Coast,2020,8,2.47
+Shigellosis,Capital&Coast,2020,4,1.23
 Shigellosis,Canterbury,2020,2,0.34
 Shigellosis,Bay of Plenty,2020,3,1.14
 Shigellosis,Auckland,2020,14,2.77
@@ -16583,7 +16583,7 @@ Taeniasis,Whanganui,2020,0,0
 Taeniasis,West Coast,2020,0,0
 Taeniasis,Waitemata,2020,2,0.31
 Taeniasis,Wairarapa,2020,0,0
-Taeniasis,Waikato,2020,1,0.23
+Taeniasis,Waikato,2020,0,0
 Taeniasis,Taranaki,2020,0,0
 Taeniasis,Tairawhiti,2020,0,0
 Taeniasis,Southern,2020,0,0
@@ -16663,22 +16663,22 @@ Tuberculosis disease - new case,Whanganui,2020,4,5.84
 Tuberculosis disease - new case,West Coast,2020,1,3.09
 Tuberculosis disease - new case,Waitemata,2020,46,7.19
 Tuberculosis disease - new case,Wairarapa,2020,1,2.05
-Tuberculosis disease - new case,Waikato,2020,33,7.53
+Tuberculosis disease - new case,Waikato,2020,32,7.3
 Tuberculosis disease - new case,Taranaki,2020,2,1.6
 Tuberculosis disease - new case,Tairawhiti,2020,3,5.91
 Tuberculosis disease - new case,Southern,2020,9,2.57
 Tuberculosis disease - new case,South Canterbury,2020,2,3.22
 Tuberculosis disease - new case,Northland,2020,5,2.57
-Tuberculosis disease - new case,Nelson Marlborough,2020,9,5.58
+Tuberculosis disease - new case,Nelson Marlborough,2020,8,4.96
 Tuberculosis disease - new case,MidCentral,2020,3,1.6
 Tuberculosis disease - new case,Lakes,2020,3,2.56
-Tuberculosis disease - new case,Hutt Valley,2020,16,10.07
+Tuberculosis disease - new case,Hutt Valley,2020,18,11.33
 Tuberculosis disease - new case,Hawke's Bay,2020,6,3.36
-Tuberculosis disease - new case,Counties Manukau,2020,69,11.59
-Tuberculosis disease - new case,Capital&Coast,2020,15,4.62
-Tuberculosis disease - new case,Canterbury,2020,23,3.95
-Tuberculosis disease - new case,Bay of Plenty,2020,13,4.93
-Tuberculosis disease - new case,Auckland,2020,49,9.7
+Tuberculosis disease - new case,Counties Manukau,2020,68,11.43
+Tuberculosis disease - new case,Capital&Coast,2020,14,4.32
+Tuberculosis disease - new case,Canterbury,2020,22,3.78
+Tuberculosis disease - new case,Bay of Plenty,2020,15,5.68
+Tuberculosis disease - new case,Auckland,2020,48,9.5
 Tuberculosis disease - relapse or reactivation,Whanganui,2020,0,0
 Tuberculosis disease - relapse or reactivation,West Coast,2020,0,0
 Tuberculosis disease - relapse or reactivation,Waitemata,2020,3,0.47
@@ -16744,18 +16744,18 @@ VTEC/STEC infection,West Coast,2020,1,3.09
 VTEC/STEC infection,Waitemata,2020,45,7.04
 VTEC/STEC infection,Wairarapa,2020,20,40.92
 VTEC/STEC infection,Waikato,2020,85,19.39
-VTEC/STEC infection,Taranaki,2020,46,36.89
+VTEC/STEC infection,Taranaki,2020,45,36.09
 VTEC/STEC infection,Tairawhiti,2020,1,1.97
 VTEC/STEC infection,Southern,2020,146,41.75
 VTEC/STEC infection,South Canterbury,2020,17,27.4
-VTEC/STEC infection,Northland,2020,66,33.92
-VTEC/STEC infection,Nelson Marlborough,2020,50,31.02
+VTEC/STEC infection,Northland,2020,65,33.41
+VTEC/STEC infection,Nelson Marlborough,2020,51,31.64
 VTEC/STEC infection,MidCentral,2020,5,2.67
 VTEC/STEC infection,Lakes,2020,24,20.45
 VTEC/STEC infection,Hutt Valley,2020,26,16.37
 VTEC/STEC infection,Hawke's Bay,2020,40,22.41
-VTEC/STEC infection,Counties Manukau,2020,33,5.54
-VTEC/STEC infection,Capital&Coast,2020,52,16.03
+VTEC/STEC infection,Counties Manukau,2020,34,5.71
+VTEC/STEC infection,Capital&Coast,2020,53,16.34
 VTEC/STEC infection,Canterbury,2020,82,14.07
 VTEC/STEC infection,Bay of Plenty,2020,55,20.84
 VTEC/STEC infection,Auckland,2020,46,9.1
@@ -16764,7 +16764,7 @@ Yersiniosis,West Coast,2020,3,9.28
 Yersiniosis,Waitemata,2020,152,23.77
 Yersiniosis,Wairarapa,2020,22,45.01
 Yersiniosis,Waikato,2020,109,24.87
-Yersiniosis,Taranaki,2020,44,35.28
+Yersiniosis,Taranaki,2020,43,34.48
 Yersiniosis,Tairawhiti,2020,7,13.79
 Yersiniosis,Southern,2020,100,28.59
 Yersiniosis,South Canterbury,2020,11,17.73
@@ -16799,3 +16799,1123 @@ Zika virus,Capital&Coast,2020,0,0
 Zika virus,Canterbury,2020,0,0
 Zika virus,Bay of Plenty,2020,0,0
 Zika virus,Auckland,2020,0,0
+Amnesic shellfish poisoning,Whanganui,2021,0,0
+Amnesic shellfish poisoning,West Coast,2021,0,0
+Amnesic shellfish poisoning,Waitemata,2021,0,0
+Amnesic shellfish poisoning,Wairarapa,2021,0,0
+Amnesic shellfish poisoning,Waikato,2021,0,0
+Amnesic shellfish poisoning,Taranaki,2021,0,0
+Amnesic shellfish poisoning,Tairawhiti,2021,0,0
+Amnesic shellfish poisoning,Southern,2021,0,0
+Amnesic shellfish poisoning,South Canterbury,2021,0,0
+Amnesic shellfish poisoning,Northland,2021,0,0
+Amnesic shellfish poisoning,Nelson Marlborough,2021,0,0
+Amnesic shellfish poisoning,MidCentral,2021,0,0
+Amnesic shellfish poisoning,Lakes,2021,0,0
+Amnesic shellfish poisoning,Hutt Valley,2021,0,0
+Amnesic shellfish poisoning,Hawke's Bay,2021,0,0
+Amnesic shellfish poisoning,Counties Manukau,2021,0,0
+Amnesic shellfish poisoning,Capital&Coast,2021,0,0
+Amnesic shellfish poisoning,Canterbury,2021,0,0
+Amnesic shellfish poisoning,Bay of Plenty,2021,0,0
+Amnesic shellfish poisoning,Auckland,2021,0,0
+Barmah Forest virus infection,Whanganui,2021,0,0
+Barmah Forest virus infection,West Coast,2021,0,0
+Barmah Forest virus infection,Waitemata,2021,0,0
+Barmah Forest virus infection,Wairarapa,2021,0,0
+Barmah Forest virus infection,Waikato,2021,0,0
+Barmah Forest virus infection,Taranaki,2021,0,0
+Barmah Forest virus infection,Tairawhiti,2021,0,0
+Barmah Forest virus infection,Southern,2021,0,0
+Barmah Forest virus infection,South Canterbury,2021,0,0
+Barmah Forest virus infection,Northland,2021,0,0
+Barmah Forest virus infection,Nelson Marlborough,2021,0,0
+Barmah Forest virus infection,MidCentral,2021,0,0
+Barmah Forest virus infection,Lakes,2021,0,0
+Barmah Forest virus infection,Hutt Valley,2021,0,0
+Barmah Forest virus infection,Hawke's Bay,2021,0,0
+Barmah Forest virus infection,Counties Manukau,2021,0,0
+Barmah Forest virus infection,Capital&Coast,2021,0,0
+Barmah Forest virus infection,Canterbury,2021,0,0
+Barmah Forest virus infection,Bay of Plenty,2021,0,0
+Barmah Forest virus infection,Auckland,2021,0,0
+Brucellosis,Whanganui,2021,0,0
+Brucellosis,West Coast,2021,0,0
+Brucellosis,Waitemata,2021,0,0
+Brucellosis,Wairarapa,2021,0,0
+Brucellosis,Waikato,2021,0,0
+Brucellosis,Taranaki,2021,0,0
+Brucellosis,Tairawhiti,2021,0,0
+Brucellosis,Southern,2021,0,0
+Brucellosis,South Canterbury,2021,0,0
+Brucellosis,Northland,2021,0,0
+Brucellosis,Nelson Marlborough,2021,0,0
+Brucellosis,MidCentral,2021,0,0
+Brucellosis,Lakes,2021,0,0
+Brucellosis,Hutt Valley,2021,0,0
+Brucellosis,Hawke's Bay,2021,0,0
+Brucellosis,Counties Manukau,2021,1,0.17
+Brucellosis,Capital&Coast,2021,0,0
+Brucellosis,Canterbury,2021,0,0
+Brucellosis,Bay of Plenty,2021,0,0
+Brucellosis,Auckland,2021,0,0
+Campylobacteriosis,Whanganui,2021,77,111.5
+Campylobacteriosis,West Coast,2021,69,211
+Campylobacteriosis,Waitemata,2021,683,106.82
+Campylobacteriosis,Wairarapa,2021,110,220.37
+Campylobacteriosis,Waikato,2021,572,128.48
+Campylobacteriosis,Taranaki,2021,253,199.81
+Campylobacteriosis,Tairawhiti,2021,69,134.06
+Campylobacteriosis,Southern,2021,499,142.03
+Campylobacteriosis,South Canterbury,2021,153,246.04
+Campylobacteriosis,Northland,2021,281,141.95
+Campylobacteriosis,Nelson Marlborough,2021,188,114.56
+Campylobacteriosis,MidCentral,2021,250,132.16
+Campylobacteriosis,Lakes,2021,123,103.86
+Campylobacteriosis,Hutt Valley,2021,146,91.11
+Campylobacteriosis,Hawke's Bay,2021,251,138.38
+Campylobacteriosis,Counties Manukau,2021,475,79
+Campylobacteriosis,Capital&Coast,2021,261,79.88
+Campylobacteriosis,Canterbury,2021,594,101.3
+Campylobacteriosis,Bay of Plenty,2021,253,93.78
+Campylobacteriosis,Auckland,2021,422,84.56
+Chikungunya fever,Whanganui,2021,0,0
+Chikungunya fever,West Coast,2021,0,0
+Chikungunya fever,Waitemata,2021,0,0
+Chikungunya fever,Wairarapa,2021,0,0
+Chikungunya fever,Waikato,2021,0,0
+Chikungunya fever,Taranaki,2021,0,0
+Chikungunya fever,Tairawhiti,2021,0,0
+Chikungunya fever,Southern,2021,0,0
+Chikungunya fever,South Canterbury,2021,0,0
+Chikungunya fever,Northland,2021,0,0
+Chikungunya fever,Nelson Marlborough,2021,0,0
+Chikungunya fever,MidCentral,2021,0,0
+Chikungunya fever,Lakes,2021,0,0
+Chikungunya fever,Hutt Valley,2021,0,0
+Chikungunya fever,Hawke's Bay,2021,0,0
+Chikungunya fever,Counties Manukau,2021,0,0
+Chikungunya fever,Capital&Coast,2021,0,0
+Chikungunya fever,Canterbury,2021,0,0
+Chikungunya fever,Bay of Plenty,2021,0,0
+Chikungunya fever,Auckland,2021,0,0
+Cholera,Whanganui,2021,0,0
+Cholera,West Coast,2021,0,0
+Cholera,Waitemata,2021,0,0
+Cholera,Wairarapa,2021,0,0
+Cholera,Waikato,2021,0,0
+Cholera,Taranaki,2021,0,0
+Cholera,Tairawhiti,2021,0,0
+Cholera,Southern,2021,0,0
+Cholera,South Canterbury,2021,0,0
+Cholera,Northland,2021,0,0
+Cholera,Nelson Marlborough,2021,0,0
+Cholera,MidCentral,2021,0,0
+Cholera,Lakes,2021,0,0
+Cholera,Hutt Valley,2021,0,0
+Cholera,Hawke's Bay,2021,0,0
+Cholera,Counties Manukau,2021,0,0
+Cholera,Capital&Coast,2021,0,0
+Cholera,Canterbury,2021,0,0
+Cholera,Bay of Plenty,2021,0,0
+Cholera,Auckland,2021,0,0
+Cryptosporidiosis,Whanganui,2021,14,20.27
+Cryptosporidiosis,West Coast,2021,5,15.29
+Cryptosporidiosis,Waitemata,2021,54,8.45
+Cryptosporidiosis,Wairarapa,2021,7,14.02
+Cryptosporidiosis,Waikato,2021,116,26.05
+Cryptosporidiosis,Taranaki,2021,63,49.76
+Cryptosporidiosis,Tairawhiti,2021,7,13.6
+Cryptosporidiosis,Southern,2021,98,27.89
+Cryptosporidiosis,South Canterbury,2021,24,38.59
+Cryptosporidiosis,Northland,2021,32,16.17
+Cryptosporidiosis,Nelson Marlborough,2021,10,6.09
+Cryptosporidiosis,MidCentral,2021,42,22.2
+Cryptosporidiosis,Lakes,2021,15,12.67
+Cryptosporidiosis,Hutt Valley,2021,13,8.11
+Cryptosporidiosis,Hawke's Bay,2021,15,8.27
+Cryptosporidiosis,Counties Manukau,2021,38,6.32
+Cryptosporidiosis,Capital&Coast,2021,32,9.79
+Cryptosporidiosis,Canterbury,2021,47,8.02
+Cryptosporidiosis,Bay of Plenty,2021,19,7.04
+Cryptosporidiosis,Auckland,2021,51,10.22
+Cysticercosis,Whanganui,2021,0,0
+Cysticercosis,West Coast,2021,0,0
+Cysticercosis,Waitemata,2021,0,0
+Cysticercosis,Wairarapa,2021,0,0
+Cysticercosis,Waikato,2021,0,0
+Cysticercosis,Taranaki,2021,0,0
+Cysticercosis,Tairawhiti,2021,0,0
+Cysticercosis,Southern,2021,0,0
+Cysticercosis,South Canterbury,2021,0,0
+Cysticercosis,Northland,2021,0,0
+Cysticercosis,Nelson Marlborough,2021,0,0
+Cysticercosis,MidCentral,2021,0,0
+Cysticercosis,Lakes,2021,0,0
+Cysticercosis,Hutt Valley,2021,0,0
+Cysticercosis,Hawke's Bay,2021,0,0
+Cysticercosis,Counties Manukau,2021,0,0
+Cysticercosis,Capital&Coast,2021,0,0
+Cysticercosis,Canterbury,2021,0,0
+Cysticercosis,Bay of Plenty,2021,0,0
+Cysticercosis,Auckland,2021,0,0
+Dengue fever,Whanganui,2021,0,0
+Dengue fever,West Coast,2021,0,0
+Dengue fever,Waitemata,2021,0,0
+Dengue fever,Wairarapa,2021,0,0
+Dengue fever,Waikato,2021,1,0.22
+Dengue fever,Taranaki,2021,0,0
+Dengue fever,Tairawhiti,2021,0,0
+Dengue fever,Southern,2021,1,0.28
+Dengue fever,South Canterbury,2021,0,0
+Dengue fever,Northland,2021,0,0
+Dengue fever,Nelson Marlborough,2021,0,0
+Dengue fever,MidCentral,2021,0,0
+Dengue fever,Lakes,2021,0,0
+Dengue fever,Hutt Valley,2021,0,0
+Dengue fever,Hawke's Bay,2021,2,1.1
+Dengue fever,Counties Manukau,2021,1,0.17
+Dengue fever,Capital&Coast,2021,1,0.31
+Dengue fever,Canterbury,2021,0,0
+Dengue fever,Bay of Plenty,2021,0,0
+Dengue fever,Auckland,2021,1,0.2
+Diarrhoeic shellfish poisoning,Whanganui,2021,0,0
+Diarrhoeic shellfish poisoning,West Coast,2021,0,0
+Diarrhoeic shellfish poisoning,Waitemata,2021,0,0
+Diarrhoeic shellfish poisoning,Wairarapa,2021,0,0
+Diarrhoeic shellfish poisoning,Waikato,2021,0,0
+Diarrhoeic shellfish poisoning,Taranaki,2021,0,0
+Diarrhoeic shellfish poisoning,Tairawhiti,2021,0,0
+Diarrhoeic shellfish poisoning,Southern,2021,0,0
+Diarrhoeic shellfish poisoning,South Canterbury,2021,0,0
+Diarrhoeic shellfish poisoning,Northland,2021,0,0
+Diarrhoeic shellfish poisoning,Nelson Marlborough,2021,0,0
+Diarrhoeic shellfish poisoning,MidCentral,2021,0,0
+Diarrhoeic shellfish poisoning,Lakes,2021,0,0
+Diarrhoeic shellfish poisoning,Hutt Valley,2021,0,0
+Diarrhoeic shellfish poisoning,Hawke's Bay,2021,0,0
+Diarrhoeic shellfish poisoning,Counties Manukau,2021,0,0
+Diarrhoeic shellfish poisoning,Capital&Coast,2021,0,0
+Diarrhoeic shellfish poisoning,Canterbury,2021,0,0
+Diarrhoeic shellfish poisoning,Bay of Plenty,2021,0,0
+Diarrhoeic shellfish poisoning,Auckland,2021,1,0.2
+Diphtheria,Whanganui,2021,0,0
+Diphtheria,West Coast,2021,0,0
+Diphtheria,Waitemata,2021,0,0
+Diphtheria,Wairarapa,2021,0,0
+Diphtheria,Waikato,2021,0,0
+Diphtheria,Taranaki,2021,0,0
+Diphtheria,Tairawhiti,2021,0,0
+Diphtheria,Southern,2021,0,0
+Diphtheria,South Canterbury,2021,0,0
+Diphtheria,Northland,2021,0,0
+Diphtheria,Nelson Marlborough,2021,0,0
+Diphtheria,MidCentral,2021,0,0
+Diphtheria,Lakes,2021,0,0
+Diphtheria,Hutt Valley,2021,0,0
+Diphtheria,Hawke's Bay,2021,0,0
+Diphtheria,Counties Manukau,2021,0,0
+Diphtheria,Capital&Coast,2021,0,0
+Diphtheria,Canterbury,2021,0,0
+Diphtheria,Bay of Plenty,2021,0,0
+Diphtheria,Auckland,2021,0,0
+Gastroenteritis - unknown cause,Whanganui,2021,0,0
+Gastroenteritis - unknown cause,West Coast,2021,1,3.06
+Gastroenteritis - unknown cause,Waitemata,2021,4,0.63
+Gastroenteritis - unknown cause,Wairarapa,2021,4,8.01
+Gastroenteritis - unknown cause,Waikato,2021,2,0.45
+Gastroenteritis - unknown cause,Taranaki,2021,0,0
+Gastroenteritis - unknown cause,Tairawhiti,2021,0,0
+Gastroenteritis - unknown cause,Southern,2021,11,3.13
+Gastroenteritis - unknown cause,South Canterbury,2021,0,0
+Gastroenteritis - unknown cause,Northland,2021,14,7.07
+Gastroenteritis - unknown cause,Nelson Marlborough,2021,8,4.88
+Gastroenteritis - unknown cause,MidCentral,2021,2,1.06
+Gastroenteritis - unknown cause,Lakes,2021,5,4.22
+Gastroenteritis - unknown cause,Hutt Valley,2021,19,11.86
+Gastroenteritis - unknown cause,Hawke's Bay,2021,0,0
+Gastroenteritis - unknown cause,Counties Manukau,2021,2,0.33
+Gastroenteritis - unknown cause,Capital&Coast,2021,29,8.88
+Gastroenteritis - unknown cause,Canterbury,2021,30,5.12
+Gastroenteritis - unknown cause,Bay of Plenty,2021,17,6.3
+Gastroenteritis - unknown cause,Auckland,2021,6,1.2
+Gastroenteritis / foodborne intoxication,Whanganui,2021,0,0
+Gastroenteritis / foodborne intoxication,West Coast,2021,0,0
+Gastroenteritis / foodborne intoxication,Waitemata,2021,5,0.78
+Gastroenteritis / foodborne intoxication,Wairarapa,2021,0,0
+Gastroenteritis / foodborne intoxication,Waikato,2021,17,3.82
+Gastroenteritis / foodborne intoxication,Taranaki,2021,0,0
+Gastroenteritis / foodborne intoxication,Tairawhiti,2021,0,0
+Gastroenteritis / foodborne intoxication,Southern,2021,13,3.7
+Gastroenteritis / foodborne intoxication,South Canterbury,2021,3,4.82
+Gastroenteritis / foodborne intoxication,Northland,2021,8,4.04
+Gastroenteritis / foodborne intoxication,Nelson Marlborough,2021,6,3.66
+Gastroenteritis / foodborne intoxication,MidCentral,2021,0,0
+Gastroenteritis / foodborne intoxication,Lakes,2021,0,0
+Gastroenteritis / foodborne intoxication,Hutt Valley,2021,0,0
+Gastroenteritis / foodborne intoxication,Hawke's Bay,2021,2,1.1
+Gastroenteritis / foodborne intoxication,Counties Manukau,2021,5,0.83
+Gastroenteritis / foodborne intoxication,Capital&Coast,2021,2,0.61
+Gastroenteritis / foodborne intoxication,Canterbury,2021,10,1.71
+Gastroenteritis / foodborne intoxication,Bay of Plenty,2021,10,3.71
+Gastroenteritis / foodborne intoxication,Auckland,2021,5,1
+Giardiasis,Whanganui,2021,6,8.69
+Giardiasis,West Coast,2021,5,15.29
+Giardiasis,Waitemata,2021,100,15.64
+Giardiasis,Wairarapa,2021,11,22.04
+Giardiasis,Waikato,2021,131,29.42
+Giardiasis,Taranaki,2021,40,31.59
+Giardiasis,Tairawhiti,2021,27,52.46
+Giardiasis,Southern,2021,53,15.09
+Giardiasis,South Canterbury,2021,19,30.55
+Giardiasis,Northland,2021,63,31.83
+Giardiasis,Nelson Marlborough,2021,35,21.33
+Giardiasis,MidCentral,2021,49,25.9
+Giardiasis,Lakes,2021,35,29.55
+Giardiasis,Hutt Valley,2021,21,13.1
+Giardiasis,Hawke's Bay,2021,63,34.73
+Giardiasis,Counties Manukau,2021,68,11.31
+Giardiasis,Capital&Coast,2021,46,14.08
+Giardiasis,Canterbury,2021,74,12.62
+Giardiasis,Bay of Plenty,2021,96,35.58
+Giardiasis,Auckland,2021,98,19.64
+Haemophilus influenzae type b,Whanganui,2021,0,0
+Haemophilus influenzae type b,West Coast,2021,2,6.12
+Haemophilus influenzae type b,Waitemata,2021,0,0
+Haemophilus influenzae type b,Wairarapa,2021,0,0
+Haemophilus influenzae type b,Waikato,2021,1,0.22
+Haemophilus influenzae type b,Taranaki,2021,0,0
+Haemophilus influenzae type b,Tairawhiti,2021,0,0
+Haemophilus influenzae type b,Southern,2021,0,0
+Haemophilus influenzae type b,South Canterbury,2021,0,0
+Haemophilus influenzae type b,Northland,2021,0,0
+Haemophilus influenzae type b,Nelson Marlborough,2021,0,0
+Haemophilus influenzae type b,MidCentral,2021,0,0
+Haemophilus influenzae type b,Lakes,2021,0,0
+Haemophilus influenzae type b,Hutt Valley,2021,0,0
+Haemophilus influenzae type b,Hawke's Bay,2021,0,0
+Haemophilus influenzae type b,Counties Manukau,2021,0,0
+Haemophilus influenzae type b,Capital&Coast,2021,0,0
+Haemophilus influenzae type b,Canterbury,2021,0,0
+Haemophilus influenzae type b,Bay of Plenty,2021,0,0
+Haemophilus influenzae type b,Auckland,2021,0,0
+Hepatitis A,Whanganui,2021,0,0
+Hepatitis A,West Coast,2021,0,0
+Hepatitis A,Waitemata,2021,0,0
+Hepatitis A,Wairarapa,2021,0,0
+Hepatitis A,Waikato,2021,1,0.22
+Hepatitis A,Taranaki,2021,0,0
+Hepatitis A,Tairawhiti,2021,0,0
+Hepatitis A,Southern,2021,0,0
+Hepatitis A,South Canterbury,2021,0,0
+Hepatitis A,Northland,2021,0,0
+Hepatitis A,Nelson Marlborough,2021,0,0
+Hepatitis A,MidCentral,2021,3,1.59
+Hepatitis A,Lakes,2021,0,0
+Hepatitis A,Hutt Valley,2021,0,0
+Hepatitis A,Hawke's Bay,2021,1,0.55
+Hepatitis A,Counties Manukau,2021,0,0
+Hepatitis A,Capital&Coast,2021,0,0
+Hepatitis A,Canterbury,2021,0,0
+Hepatitis A,Bay of Plenty,2021,1,0.37
+Hepatitis A,Auckland,2021,2,0.4
+Hepatitis B,Whanganui,2021,1,1.45
+Hepatitis B,West Coast,2021,0,0
+Hepatitis B,Waitemata,2021,0,0
+Hepatitis B,Wairarapa,2021,0,0
+Hepatitis B,Waikato,2021,2,0.45
+Hepatitis B,Taranaki,2021,0,0
+Hepatitis B,Tairawhiti,2021,0,0
+Hepatitis B,Southern,2021,1,0.28
+Hepatitis B,South Canterbury,2021,0,0
+Hepatitis B,Northland,2021,3,1.52
+Hepatitis B,Nelson Marlborough,2021,0,0
+Hepatitis B,MidCentral,2021,0,0
+Hepatitis B,Lakes,2021,0,0
+Hepatitis B,Hutt Valley,2021,0,0
+Hepatitis B,Hawke's Bay,2021,1,0.55
+Hepatitis B,Counties Manukau,2021,2,0.33
+Hepatitis B,Capital&Coast,2021,0,0
+Hepatitis B,Canterbury,2021,0,0
+Hepatitis B,Bay of Plenty,2021,1,0.37
+Hepatitis B,Auckland,2021,3,0.6
+Hepatitis C,Whanganui,2021,0,0
+Hepatitis C,West Coast,2021,0,0
+Hepatitis C,Waitemata,2021,0,0
+Hepatitis C,Wairarapa,2021,0,0
+Hepatitis C,Waikato,2021,1,0.22
+Hepatitis C,Taranaki,2021,1,0.79
+Hepatitis C,Tairawhiti,2021,0,0
+Hepatitis C,Southern,2021,16,4.55
+Hepatitis C,South Canterbury,2021,1,1.61
+Hepatitis C,Northland,2021,1,0.51
+Hepatitis C,Nelson Marlborough,2021,5,3.05
+Hepatitis C,MidCentral,2021,0,0
+Hepatitis C,Lakes,2021,1,0.84
+Hepatitis C,Hutt Valley,2021,3,1.87
+Hepatitis C,Hawke's Bay,2021,3,1.65
+Hepatitis C,Counties Manukau,2021,1,0.17
+Hepatitis C,Capital&Coast,2021,1,0.31
+Hepatitis C,Canterbury,2021,4,0.68
+Hepatitis C,Bay of Plenty,2021,0,0
+Hepatitis C,Auckland,2021,0,0
+Hepatitis NOS,Whanganui,2021,0,0
+Hepatitis NOS,West Coast,2021,1,3.06
+Hepatitis NOS,Waitemata,2021,0,0
+Hepatitis NOS,Wairarapa,2021,0,0
+Hepatitis NOS,Waikato,2021,4,0.9
+Hepatitis NOS,Taranaki,2021,0,0
+Hepatitis NOS,Tairawhiti,2021,0,0
+Hepatitis NOS,Southern,2021,0,0
+Hepatitis NOS,South Canterbury,2021,0,0
+Hepatitis NOS,Northland,2021,0,0
+Hepatitis NOS,Nelson Marlborough,2021,0,0
+Hepatitis NOS,MidCentral,2021,0,0
+Hepatitis NOS,Lakes,2021,0,0
+Hepatitis NOS,Hutt Valley,2021,0,0
+Hepatitis NOS,Hawke's Bay,2021,0,0
+Hepatitis NOS,Counties Manukau,2021,1,0.17
+Hepatitis NOS,Capital&Coast,2021,2,0.61
+Hepatitis NOS,Canterbury,2021,0,0
+Hepatitis NOS,Bay of Plenty,2021,0,0
+Hepatitis NOS,Auckland,2021,1,0.2
+Hydatid disease,Whanganui,2021,0,0
+Hydatid disease,West Coast,2021,0,0
+Hydatid disease,Waitemata,2021,0,0
+Hydatid disease,Wairarapa,2021,0,0
+Hydatid disease,Waikato,2021,0,0
+Hydatid disease,Taranaki,2021,0,0
+Hydatid disease,Tairawhiti,2021,0,0
+Hydatid disease,Southern,2021,0,0
+Hydatid disease,South Canterbury,2021,0,0
+Hydatid disease,Northland,2021,0,0
+Hydatid disease,Nelson Marlborough,2021,0,0
+Hydatid disease,MidCentral,2021,0,0
+Hydatid disease,Lakes,2021,0,0
+Hydatid disease,Hutt Valley,2021,0,0
+Hydatid disease,Hawke's Bay,2021,0,0
+Hydatid disease,Counties Manukau,2021,0,0
+Hydatid disease,Capital&Coast,2021,0,0
+Hydatid disease,Canterbury,2021,1,0.17
+Hydatid disease,Bay of Plenty,2021,0,0
+Hydatid disease,Auckland,2021,0,0
+Invasive pneumococcal disease,Whanganui,2021,11,15.93
+Invasive pneumococcal disease,West Coast,2021,3,9.17
+Invasive pneumococcal disease,Waitemata,2021,56,8.76
+Invasive pneumococcal disease,Wairarapa,2021,7,14.02
+Invasive pneumococcal disease,Waikato,2021,46,10.33
+Invasive pneumococcal disease,Taranaki,2021,13,10.27
+Invasive pneumococcal disease,Tairawhiti,2021,15,29.14
+Invasive pneumococcal disease,Southern,2021,28,7.97
+Invasive pneumococcal disease,South Canterbury,2021,3,4.82
+Invasive pneumococcal disease,Northland,2021,44,22.23
+Invasive pneumococcal disease,Nelson Marlborough,2021,12,7.31
+Invasive pneumococcal disease,MidCentral,2021,15,7.93
+Invasive pneumococcal disease,Lakes,2021,12,10.13
+Invasive pneumococcal disease,Hutt Valley,2021,17,10.61
+Invasive pneumococcal disease,Hawke's Bay,2021,29,15.99
+Invasive pneumococcal disease,Counties Manukau,2021,46,7.65
+Invasive pneumococcal disease,Capital&Coast,2021,24,7.34
+Invasive pneumococcal disease,Canterbury,2021,29,4.95
+Invasive pneumococcal disease,Bay of Plenty,2021,34,12.6
+Invasive pneumococcal disease,Auckland,2021,24,4.81
+Legionellosis,Whanganui,2021,1,1.45
+Legionellosis,West Coast,2021,4,12.23
+Legionellosis,Waitemata,2021,18,2.82
+Legionellosis,Wairarapa,2021,0,0
+Legionellosis,Waikato,2021,13,2.92
+Legionellosis,Taranaki,2021,4,3.16
+Legionellosis,Tairawhiti,2021,4,7.77
+Legionellosis,Southern,2021,20,5.69
+Legionellosis,South Canterbury,2021,0,0
+Legionellosis,Northland,2021,3,1.52
+Legionellosis,Nelson Marlborough,2021,4,2.44
+Legionellosis,MidCentral,2021,1,0.53
+Legionellosis,Lakes,2021,3,2.53
+Legionellosis,Hutt Valley,2021,2,1.25
+Legionellosis,Hawke's Bay,2021,3,1.65
+Legionellosis,Counties Manukau,2021,27,4.49
+Legionellosis,Capital&Coast,2021,3,0.92
+Legionellosis,Canterbury,2021,35,5.97
+Legionellosis,Bay of Plenty,2021,20,7.41
+Legionellosis,Auckland,2021,16,3.21
+Leprosy,Whanganui,2021,0,0
+Leprosy,West Coast,2021,0,0
+Leprosy,Waitemata,2021,0,0
+Leprosy,Wairarapa,2021,0,0
+Leprosy,Waikato,2021,0,0
+Leprosy,Taranaki,2021,0,0
+Leprosy,Tairawhiti,2021,0,0
+Leprosy,Southern,2021,1,0.28
+Leprosy,South Canterbury,2021,0,0
+Leprosy,Northland,2021,0,0
+Leprosy,Nelson Marlborough,2021,0,0
+Leprosy,MidCentral,2021,0,0
+Leprosy,Lakes,2021,0,0
+Leprosy,Hutt Valley,2021,0,0
+Leprosy,Hawke's Bay,2021,0,0
+Leprosy,Counties Manukau,2021,1,0.17
+Leprosy,Capital&Coast,2021,0,0
+Leprosy,Canterbury,2021,3,0.51
+Leprosy,Bay of Plenty,2021,0,0
+Leprosy,Auckland,2021,0,0
+Leptospirosis,Whanganui,2021,4,5.79
+Leptospirosis,West Coast,2021,0,0
+Leptospirosis,Waitemata,2021,1,0.16
+Leptospirosis,Wairarapa,2021,2,4.01
+Leptospirosis,Waikato,2021,16,3.59
+Leptospirosis,Taranaki,2021,4,3.16
+Leptospirosis,Tairawhiti,2021,1,1.94
+Leptospirosis,Southern,2021,4,1.14
+Leptospirosis,South Canterbury,2021,2,3.22
+Leptospirosis,Northland,2021,11,5.56
+Leptospirosis,Nelson Marlborough,2021,1,0.61
+Leptospirosis,MidCentral,2021,1,0.53
+Leptospirosis,Lakes,2021,5,4.22
+Leptospirosis,Hutt Valley,2021,0,0
+Leptospirosis,Hawke's Bay,2021,5,2.76
+Leptospirosis,Counties Manukau,2021,5,0.83
+Leptospirosis,Capital&Coast,2021,1,0.31
+Leptospirosis,Canterbury,2021,5,0.85
+Leptospirosis,Bay of Plenty,2021,9,3.34
+Leptospirosis,Auckland,2021,1,0.2
+Listeriosis,Whanganui,2021,1,1.45
+Listeriosis,West Coast,2021,0,0
+Listeriosis,Waitemata,2021,2,0.31
+Listeriosis,Wairarapa,2021,0,0
+Listeriosis,Waikato,2021,2,0.45
+Listeriosis,Taranaki,2021,1,0.79
+Listeriosis,Tairawhiti,2021,1,1.94
+Listeriosis,Southern,2021,0,0
+Listeriosis,South Canterbury,2021,0,0
+Listeriosis,Northland,2021,1,0.51
+Listeriosis,Nelson Marlborough,2021,3,1.83
+Listeriosis,MidCentral,2021,1,0.53
+Listeriosis,Lakes,2021,1,0.84
+Listeriosis,Hutt Valley,2021,0,0
+Listeriosis,Hawke's Bay,2021,2,1.1
+Listeriosis,Counties Manukau,2021,3,0.5
+Listeriosis,Capital&Coast,2021,1,0.31
+Listeriosis,Canterbury,2021,2,0.34
+Listeriosis,Bay of Plenty,2021,2,0.74
+Listeriosis,Auckland,2021,5,1
+Listeriosis - perinatal,Whanganui,2021,0,0
+Listeriosis - perinatal,West Coast,2021,0,0
+Listeriosis - perinatal,Waitemata,2021,0,0
+Listeriosis - perinatal,Wairarapa,2021,0,0
+Listeriosis - perinatal,Waikato,2021,1,0.22
+Listeriosis - perinatal,Taranaki,2021,1,0.79
+Listeriosis - perinatal,Tairawhiti,2021,0,0
+Listeriosis - perinatal,Southern,2021,1,0.28
+Listeriosis - perinatal,South Canterbury,2021,0,0
+Listeriosis - perinatal,Northland,2021,0,0
+Listeriosis - perinatal,Nelson Marlborough,2021,0,0
+Listeriosis - perinatal,MidCentral,2021,0,0
+Listeriosis - perinatal,Lakes,2021,0,0
+Listeriosis - perinatal,Hutt Valley,2021,0,0
+Listeriosis - perinatal,Hawke's Bay,2021,0,0
+Listeriosis - perinatal,Counties Manukau,2021,0,0
+Listeriosis - perinatal,Capital&Coast,2021,0,0
+Listeriosis - perinatal,Canterbury,2021,1,0.17
+Listeriosis - perinatal,Bay of Plenty,2021,0,0
+Listeriosis - perinatal,Auckland,2021,0,0
+Malaria,Whanganui,2021,0,0
+Malaria,West Coast,2021,0,0
+Malaria,Waitemata,2021,1,0.16
+Malaria,Wairarapa,2021,0,0
+Malaria,Waikato,2021,0,0
+Malaria,Taranaki,2021,0,0
+Malaria,Tairawhiti,2021,0,0
+Malaria,Southern,2021,2,0.57
+Malaria,South Canterbury,2021,0,0
+Malaria,Northland,2021,0,0
+Malaria,Nelson Marlborough,2021,0,0
+Malaria,MidCentral,2021,0,0
+Malaria,Lakes,2021,0,0
+Malaria,Hutt Valley,2021,0,0
+Malaria,Hawke's Bay,2021,0,0
+Malaria,Counties Manukau,2021,0,0
+Malaria,Capital&Coast,2021,1,0.31
+Malaria,Canterbury,2021,1,0.17
+Malaria,Bay of Plenty,2021,0,0
+Malaria,Auckland,2021,3,0.6
+Measles,Whanganui,2021,0,0
+Measles,West Coast,2021,0,0
+Measles,Waitemata,2021,0,0
+Measles,Wairarapa,2021,0,0
+Measles,Waikato,2021,0,0
+Measles,Taranaki,2021,0,0
+Measles,Tairawhiti,2021,0,0
+Measles,Southern,2021,0,0
+Measles,South Canterbury,2021,0,0
+Measles,Northland,2021,0,0
+Measles,Nelson Marlborough,2021,0,0
+Measles,MidCentral,2021,0,0
+Measles,Lakes,2021,0,0
+Measles,Hutt Valley,2021,0,0
+Measles,Hawke's Bay,2021,0,0
+Measles,Counties Manukau,2021,0,0
+Measles,Capital&Coast,2021,0,0
+Measles,Canterbury,2021,0,0
+Measles,Bay of Plenty,2021,0,0
+Measles,Auckland,2021,0,0
+Meningococcal disease,Whanganui,2021,1,1.45
+Meningococcal disease,West Coast,2021,1,3.06
+Meningococcal disease,Waitemata,2021,4,0.63
+Meningococcal disease,Wairarapa,2021,0,0
+Meningococcal disease,Waikato,2021,3,0.67
+Meningococcal disease,Taranaki,2021,0,0
+Meningococcal disease,Tairawhiti,2021,0,0
+Meningococcal disease,Southern,2021,7,1.99
+Meningococcal disease,South Canterbury,2021,1,1.61
+Meningococcal disease,Northland,2021,3,1.52
+Meningococcal disease,Nelson Marlborough,2021,3,1.83
+Meningococcal disease,MidCentral,2021,0,0
+Meningococcal disease,Lakes,2021,2,1.69
+Meningococcal disease,Hutt Valley,2021,1,0.62
+Meningococcal disease,Hawke's Bay,2021,3,1.65
+Meningococcal disease,Counties Manukau,2021,5,0.83
+Meningococcal disease,Capital&Coast,2021,1,0.31
+Meningococcal disease,Canterbury,2021,7,1.19
+Meningococcal disease,Bay of Plenty,2021,2,0.74
+Meningococcal disease,Auckland,2021,0,0
+Meningoencephalitis - primary amoebic,Whanganui,2021,0,0
+Meningoencephalitis - primary amoebic,West Coast,2021,0,0
+Meningoencephalitis - primary amoebic,Waitemata,2021,0,0
+Meningoencephalitis - primary amoebic,Wairarapa,2021,0,0
+Meningoencephalitis - primary amoebic,Waikato,2021,0,0
+Meningoencephalitis - primary amoebic,Taranaki,2021,0,0
+Meningoencephalitis - primary amoebic,Tairawhiti,2021,0,0
+Meningoencephalitis - primary amoebic,Southern,2021,0,0
+Meningoencephalitis - primary amoebic,South Canterbury,2021,0,0
+Meningoencephalitis - primary amoebic,Northland,2021,0,0
+Meningoencephalitis - primary amoebic,Nelson Marlborough,2021,0,0
+Meningoencephalitis - primary amoebic,MidCentral,2021,0,0
+Meningoencephalitis - primary amoebic,Lakes,2021,0,0
+Meningoencephalitis - primary amoebic,Hutt Valley,2021,0,0
+Meningoencephalitis - primary amoebic,Hawke's Bay,2021,0,0
+Meningoencephalitis - primary amoebic,Counties Manukau,2021,0,0
+Meningoencephalitis - primary amoebic,Capital&Coast,2021,0,0
+Meningoencephalitis - primary amoebic,Canterbury,2021,0,0
+Meningoencephalitis - primary amoebic,Bay of Plenty,2021,0,0
+Meningoencephalitis - primary amoebic,Auckland,2021,0,0
+Mumps,Whanganui,2021,0,0
+Mumps,West Coast,2021,0,0
+Mumps,Waitemata,2021,0,0
+Mumps,Wairarapa,2021,0,0
+Mumps,Waikato,2021,0,0
+Mumps,Taranaki,2021,0,0
+Mumps,Tairawhiti,2021,0,0
+Mumps,Southern,2021,0,0
+Mumps,South Canterbury,2021,0,0
+Mumps,Northland,2021,0,0
+Mumps,Nelson Marlborough,2021,0,0
+Mumps,MidCentral,2021,0,0
+Mumps,Lakes,2021,0,0
+Mumps,Hutt Valley,2021,0,0
+Mumps,Hawke's Bay,2021,0,0
+Mumps,Counties Manukau,2021,0,0
+Mumps,Capital&Coast,2021,0,0
+Mumps,Canterbury,2021,0,0
+Mumps,Bay of Plenty,2021,1,0.37
+Mumps,Auckland,2021,0,0
+Murine Typhus,Whanganui,2021,0,0
+Murine Typhus,West Coast,2021,0,0
+Murine Typhus,Waitemata,2021,0,0
+Murine Typhus,Wairarapa,2021,0,0
+Murine Typhus,Waikato,2021,1,0.22
+Murine Typhus,Taranaki,2021,0,0
+Murine Typhus,Tairawhiti,2021,0,0
+Murine Typhus,Southern,2021,0,0
+Murine Typhus,South Canterbury,2021,0,0
+Murine Typhus,Northland,2021,0,0
+Murine Typhus,Nelson Marlborough,2021,0,0
+Murine Typhus,MidCentral,2021,0,0
+Murine Typhus,Lakes,2021,0,0
+Murine Typhus,Hutt Valley,2021,0,0
+Murine Typhus,Hawke's Bay,2021,0,0
+Murine Typhus,Counties Manukau,2021,0,0
+Murine Typhus,Capital&Coast,2021,0,0
+Murine Typhus,Canterbury,2021,0,0
+Murine Typhus,Bay of Plenty,2021,0,0
+Murine Typhus,Auckland,2021,0,0
+Neurologic shellfish poisoning,Whanganui,2021,0,0
+Neurologic shellfish poisoning,West Coast,2021,0,0
+Neurologic shellfish poisoning,Waitemata,2021,0,0
+Neurologic shellfish poisoning,Wairarapa,2021,0,0
+Neurologic shellfish poisoning,Waikato,2021,0,0
+Neurologic shellfish poisoning,Taranaki,2021,0,0
+Neurologic shellfish poisoning,Tairawhiti,2021,0,0
+Neurologic shellfish poisoning,Southern,2021,0,0
+Neurologic shellfish poisoning,South Canterbury,2021,0,0
+Neurologic shellfish poisoning,Northland,2021,0,0
+Neurologic shellfish poisoning,Nelson Marlborough,2021,0,0
+Neurologic shellfish poisoning,MidCentral,2021,0,0
+Neurologic shellfish poisoning,Lakes,2021,0,0
+Neurologic shellfish poisoning,Hutt Valley,2021,0,0
+Neurologic shellfish poisoning,Hawke's Bay,2021,0,0
+Neurologic shellfish poisoning,Counties Manukau,2021,0,0
+Neurologic shellfish poisoning,Capital&Coast,2021,0,0
+Neurologic shellfish poisoning,Canterbury,2021,0,0
+Neurologic shellfish poisoning,Bay of Plenty,2021,0,0
+Neurologic shellfish poisoning,Auckland,2021,0,0
+Paralytic shellfish poisoning,Whanganui,2021,0,0
+Paralytic shellfish poisoning,West Coast,2021,0,0
+Paralytic shellfish poisoning,Waitemata,2021,0,0
+Paralytic shellfish poisoning,Wairarapa,2021,0,0
+Paralytic shellfish poisoning,Waikato,2021,0,0
+Paralytic shellfish poisoning,Taranaki,2021,0,0
+Paralytic shellfish poisoning,Tairawhiti,2021,0,0
+Paralytic shellfish poisoning,Southern,2021,0,0
+Paralytic shellfish poisoning,South Canterbury,2021,0,0
+Paralytic shellfish poisoning,Northland,2021,0,0
+Paralytic shellfish poisoning,Nelson Marlborough,2021,0,0
+Paralytic shellfish poisoning,MidCentral,2021,0,0
+Paralytic shellfish poisoning,Lakes,2021,0,0
+Paralytic shellfish poisoning,Hutt Valley,2021,0,0
+Paralytic shellfish poisoning,Hawke's Bay,2021,0,0
+Paralytic shellfish poisoning,Counties Manukau,2021,0,0
+Paralytic shellfish poisoning,Capital&Coast,2021,0,0
+Paralytic shellfish poisoning,Canterbury,2021,0,0
+Paralytic shellfish poisoning,Bay of Plenty,2021,0,0
+Paralytic shellfish poisoning,Auckland,2021,0,0
+Paratyphoid fever,Whanganui,2021,0,0
+Paratyphoid fever,West Coast,2021,0,0
+Paratyphoid fever,Waitemata,2021,0,0
+Paratyphoid fever,Wairarapa,2021,0,0
+Paratyphoid fever,Waikato,2021,0,0
+Paratyphoid fever,Taranaki,2021,0,0
+Paratyphoid fever,Tairawhiti,2021,0,0
+Paratyphoid fever,Southern,2021,0,0
+Paratyphoid fever,South Canterbury,2021,0,0
+Paratyphoid fever,Northland,2021,0,0
+Paratyphoid fever,Nelson Marlborough,2021,0,0
+Paratyphoid fever,MidCentral,2021,0,0
+Paratyphoid fever,Lakes,2021,0,0
+Paratyphoid fever,Hutt Valley,2021,0,0
+Paratyphoid fever,Hawke's Bay,2021,0,0
+Paratyphoid fever,Counties Manukau,2021,1,0.17
+Paratyphoid fever,Capital&Coast,2021,0,0
+Paratyphoid fever,Canterbury,2021,0,0
+Paratyphoid fever,Bay of Plenty,2021,0,0
+Paratyphoid fever,Auckland,2021,1,0.2
+Pertussis,Whanganui,2021,6,8.69
+Pertussis,West Coast,2021,0,0
+Pertussis,Waitemata,2021,6,0.94
+Pertussis,Wairarapa,2021,0,0
+Pertussis,Waikato,2021,4,0.9
+Pertussis,Taranaki,2021,0,0
+Pertussis,Tairawhiti,2021,1,1.94
+Pertussis,Southern,2021,3,0.85
+Pertussis,South Canterbury,2021,0,0
+Pertussis,Northland,2021,3,1.52
+Pertussis,Nelson Marlborough,2021,3,1.83
+Pertussis,MidCentral,2021,2,1.06
+Pertussis,Lakes,2021,1,0.84
+Pertussis,Hutt Valley,2021,1,0.62
+Pertussis,Hawke's Bay,2021,1,0.55
+Pertussis,Counties Manukau,2021,2,0.33
+Pertussis,Capital&Coast,2021,2,0.61
+Pertussis,Canterbury,2021,3,0.51
+Pertussis,Bay of Plenty,2021,1,0.37
+Pertussis,Auckland,2021,4,0.8
+Poliomyelitis,Whanganui,2021,0,0
+Poliomyelitis,West Coast,2021,0,0
+Poliomyelitis,Waitemata,2021,0,0
+Poliomyelitis,Wairarapa,2021,0,0
+Poliomyelitis,Waikato,2021,0,0
+Poliomyelitis,Taranaki,2021,0,0
+Poliomyelitis,Tairawhiti,2021,0,0
+Poliomyelitis,Southern,2021,0,0
+Poliomyelitis,South Canterbury,2021,0,0
+Poliomyelitis,Northland,2021,0,0
+Poliomyelitis,Nelson Marlborough,2021,0,0
+Poliomyelitis,MidCentral,2021,0,0
+Poliomyelitis,Lakes,2021,0,0
+Poliomyelitis,Hutt Valley,2021,0,0
+Poliomyelitis,Hawke's Bay,2021,0,0
+Poliomyelitis,Counties Manukau,2021,0,0
+Poliomyelitis,Capital&Coast,2021,0,0
+Poliomyelitis,Canterbury,2021,0,0
+Poliomyelitis,Bay of Plenty,2021,0,0
+Poliomyelitis,Auckland,2021,0,0
+Q fever,Whanganui,2021,0,0
+Q fever,West Coast,2021,0,0
+Q fever,Waitemata,2021,0,0
+Q fever,Wairarapa,2021,0,0
+Q fever,Waikato,2021,0,0
+Q fever,Taranaki,2021,0,0
+Q fever,Tairawhiti,2021,0,0
+Q fever,Southern,2021,0,0
+Q fever,South Canterbury,2021,0,0
+Q fever,Northland,2021,0,0
+Q fever,Nelson Marlborough,2021,0,0
+Q fever,MidCentral,2021,0,0
+Q fever,Lakes,2021,0,0
+Q fever,Hutt Valley,2021,0,0
+Q fever,Hawke's Bay,2021,0,0
+Q fever,Counties Manukau,2021,0,0
+Q fever,Capital&Coast,2021,0,0
+Q fever,Canterbury,2021,0,0
+Q fever,Bay of Plenty,2021,0,0
+Q fever,Auckland,2021,0,0
+Rheumatic fever - initial attack,Whanganui,2021,0,0
+Rheumatic fever - initial attack,West Coast,2021,0,0
+Rheumatic fever - initial attack,Waitemata,2021,4,0.63
+Rheumatic fever - initial attack,Wairarapa,2021,0,0
+Rheumatic fever - initial attack,Waikato,2021,11,2.47
+Rheumatic fever - initial attack,Taranaki,2021,0,0
+Rheumatic fever - initial attack,Tairawhiti,2021,4,7.77
+Rheumatic fever - initial attack,Southern,2021,0,0
+Rheumatic fever - initial attack,South Canterbury,2021,0,0
+Rheumatic fever - initial attack,Northland,2021,8,4.04
+Rheumatic fever - initial attack,Nelson Marlborough,2021,0,0
+Rheumatic fever - initial attack,MidCentral,2021,2,1.06
+Rheumatic fever - initial attack,Lakes,2021,2,1.69
+Rheumatic fever - initial attack,Hutt Valley,2021,0,0
+Rheumatic fever - initial attack,Hawke's Bay,2021,6,3.31
+Rheumatic fever - initial attack,Counties Manukau,2021,27,4.49
+Rheumatic fever - initial attack,Capital&Coast,2021,3,0.92
+Rheumatic fever - initial attack,Canterbury,2021,4,0.68
+Rheumatic fever - initial attack,Bay of Plenty,2021,5,1.85
+Rheumatic fever - initial attack,Auckland,2021,5,1
+Rheumatic fever - recurrent attack,Whanganui,2021,0,0
+Rheumatic fever - recurrent attack,West Coast,2021,0,0
+Rheumatic fever - recurrent attack,Waitemata,2021,0,0
+Rheumatic fever - recurrent attack,Wairarapa,2021,0,0
+Rheumatic fever - recurrent attack,Waikato,2021,1,0.22
+Rheumatic fever - recurrent attack,Taranaki,2021,0,0
+Rheumatic fever - recurrent attack,Tairawhiti,2021,1,1.94
+Rheumatic fever - recurrent attack,Southern,2021,0,0
+Rheumatic fever - recurrent attack,South Canterbury,2021,0,0
+Rheumatic fever - recurrent attack,Northland,2021,1,0.51
+Rheumatic fever - recurrent attack,Nelson Marlborough,2021,0,0
+Rheumatic fever - recurrent attack,MidCentral,2021,0,0
+Rheumatic fever - recurrent attack,Lakes,2021,1,0.84
+Rheumatic fever - recurrent attack,Hutt Valley,2021,0,0
+Rheumatic fever - recurrent attack,Hawke's Bay,2021,0,0
+Rheumatic fever - recurrent attack,Counties Manukau,2021,1,0.17
+Rheumatic fever - recurrent attack,Capital&Coast,2021,1,0.31
+Rheumatic fever - recurrent attack,Canterbury,2021,0,0
+Rheumatic fever - recurrent attack,Bay of Plenty,2021,0,0
+Rheumatic fever - recurrent attack,Auckland,2021,1,0.2
+Rickettsial disease,Whanganui,2021,0,0
+Rickettsial disease,West Coast,2021,0,0
+Rickettsial disease,Waitemata,2021,0,0
+Rickettsial disease,Wairarapa,2021,0,0
+Rickettsial disease,Waikato,2021,0,0
+Rickettsial disease,Taranaki,2021,0,0
+Rickettsial disease,Tairawhiti,2021,0,0
+Rickettsial disease,Southern,2021,0,0
+Rickettsial disease,South Canterbury,2021,0,0
+Rickettsial disease,Northland,2021,0,0
+Rickettsial disease,Nelson Marlborough,2021,0,0
+Rickettsial disease,MidCentral,2021,0,0
+Rickettsial disease,Lakes,2021,0,0
+Rickettsial disease,Hutt Valley,2021,0,0
+Rickettsial disease,Hawke's Bay,2021,0,0
+Rickettsial disease,Counties Manukau,2021,0,0
+Rickettsial disease,Capital&Coast,2021,0,0
+Rickettsial disease,Canterbury,2021,0,0
+Rickettsial disease,Bay of Plenty,2021,0,0
+Rickettsial disease,Auckland,2021,0,0
+Ross River virus infection,Whanganui,2021,0,0
+Ross River virus infection,West Coast,2021,0,0
+Ross River virus infection,Waitemata,2021,0,0
+Ross River virus infection,Wairarapa,2021,0,0
+Ross River virus infection,Waikato,2021,0,0
+Ross River virus infection,Taranaki,2021,0,0
+Ross River virus infection,Tairawhiti,2021,0,0
+Ross River virus infection,Southern,2021,1,0.28
+Ross River virus infection,South Canterbury,2021,0,0
+Ross River virus infection,Northland,2021,0,0
+Ross River virus infection,Nelson Marlborough,2021,0,0
+Ross River virus infection,MidCentral,2021,0,0
+Ross River virus infection,Lakes,2021,0,0
+Ross River virus infection,Hutt Valley,2021,0,0
+Ross River virus infection,Hawke's Bay,2021,0,0
+Ross River virus infection,Counties Manukau,2021,0,0
+Ross River virus infection,Capital&Coast,2021,0,0
+Ross River virus infection,Canterbury,2021,0,0
+Ross River virus infection,Bay of Plenty,2021,0,0
+Ross River virus infection,Auckland,2021,0,0
+Rubella,Whanganui,2021,0,0
+Rubella,West Coast,2021,0,0
+Rubella,Waitemata,2021,0,0
+Rubella,Wairarapa,2021,0,0
+Rubella,Waikato,2021,0,0
+Rubella,Taranaki,2021,0,0
+Rubella,Tairawhiti,2021,0,0
+Rubella,Southern,2021,0,0
+Rubella,South Canterbury,2021,0,0
+Rubella,Northland,2021,0,0
+Rubella,Nelson Marlborough,2021,0,0
+Rubella,MidCentral,2021,0,0
+Rubella,Lakes,2021,0,0
+Rubella,Hutt Valley,2021,0,0
+Rubella,Hawke's Bay,2021,0,0
+Rubella,Counties Manukau,2021,0,0
+Rubella,Capital&Coast,2021,0,0
+Rubella,Canterbury,2021,0,0
+Rubella,Bay of Plenty,2021,0,0
+Rubella,Auckland,2021,0,0
+Salmonellosis,Whanganui,2021,6,8.69
+Salmonellosis,West Coast,2021,7,21.41
+Salmonellosis,Waitemata,2021,56,8.76
+Salmonellosis,Wairarapa,2021,7,14.02
+Salmonellosis,Waikato,2021,72,16.17
+Salmonellosis,Taranaki,2021,20,15.8
+Salmonellosis,Tairawhiti,2021,6,11.66
+Salmonellosis,Southern,2021,103,29.32
+Salmonellosis,South Canterbury,2021,15,24.12
+Salmonellosis,Northland,2021,33,16.67
+Salmonellosis,Nelson Marlborough,2021,22,13.41
+Salmonellosis,MidCentral,2021,20,10.57
+Salmonellosis,Lakes,2021,13,10.98
+Salmonellosis,Hutt Valley,2021,27,16.85
+Salmonellosis,Hawke's Bay,2021,23,12.68
+Salmonellosis,Counties Manukau,2021,65,10.81
+Salmonellosis,Capital&Coast,2021,32,9.79
+Salmonellosis,Canterbury,2021,100,17.05
+Salmonellosis,Bay of Plenty,2021,28,10.38
+Salmonellosis,Auckland,2021,59,11.82
+Shigellosis,Whanganui,2021,0,0
+Shigellosis,West Coast,2021,0,0
+Shigellosis,Waitemata,2021,1,0.16
+Shigellosis,Wairarapa,2021,0,0
+Shigellosis,Waikato,2021,0,0
+Shigellosis,Taranaki,2021,0,0
+Shigellosis,Tairawhiti,2021,0,0
+Shigellosis,Southern,2021,0,0
+Shigellosis,South Canterbury,2021,0,0
+Shigellosis,Northland,2021,0,0
+Shigellosis,Nelson Marlborough,2021,1,0.61
+Shigellosis,MidCentral,2021,0,0
+Shigellosis,Lakes,2021,0,0
+Shigellosis,Hutt Valley,2021,0,0
+Shigellosis,Hawke's Bay,2021,0,0
+Shigellosis,Counties Manukau,2021,0,0
+Shigellosis,Capital&Coast,2021,0,0
+Shigellosis,Canterbury,2021,1,0.17
+Shigellosis,Bay of Plenty,2021,0,0
+Shigellosis,Auckland,2021,2,0.4
+Taeniasis,Whanganui,2021,0,0
+Taeniasis,West Coast,2021,0,0
+Taeniasis,Waitemata,2021,0,0
+Taeniasis,Wairarapa,2021,0,0
+Taeniasis,Waikato,2021,0,0
+Taeniasis,Taranaki,2021,0,0
+Taeniasis,Tairawhiti,2021,0,0
+Taeniasis,Southern,2021,0,0
+Taeniasis,South Canterbury,2021,0,0
+Taeniasis,Northland,2021,0,0
+Taeniasis,Nelson Marlborough,2021,0,0
+Taeniasis,MidCentral,2021,0,0
+Taeniasis,Lakes,2021,0,0
+Taeniasis,Hutt Valley,2021,0,0
+Taeniasis,Hawke's Bay,2021,0,0
+Taeniasis,Counties Manukau,2021,0,0
+Taeniasis,Capital&Coast,2021,0,0
+Taeniasis,Canterbury,2021,0,0
+Taeniasis,Bay of Plenty,2021,0,0
+Taeniasis,Auckland,2021,1,0.2
+Tetanus,Whanganui,2021,0,0
+Tetanus,West Coast,2021,0,0
+Tetanus,Waitemata,2021,0,0
+Tetanus,Wairarapa,2021,0,0
+Tetanus,Waikato,2021,0,0
+Tetanus,Taranaki,2021,0,0
+Tetanus,Tairawhiti,2021,0,0
+Tetanus,Southern,2021,0,0
+Tetanus,South Canterbury,2021,0,0
+Tetanus,Northland,2021,0,0
+Tetanus,Nelson Marlborough,2021,0,0
+Tetanus,MidCentral,2021,0,0
+Tetanus,Lakes,2021,0,0
+Tetanus,Hutt Valley,2021,0,0
+Tetanus,Hawke's Bay,2021,0,0
+Tetanus,Counties Manukau,2021,0,0
+Tetanus,Capital&Coast,2021,0,0
+Tetanus,Canterbury,2021,0,0
+Tetanus,Bay of Plenty,2021,1,0.37
+Tetanus,Auckland,2021,0,0
+Toxic shellfish poisoning,Whanganui,2021,0,0
+Toxic shellfish poisoning,West Coast,2021,0,0
+Toxic shellfish poisoning,Waitemata,2021,0,0
+Toxic shellfish poisoning,Wairarapa,2021,0,0
+Toxic shellfish poisoning,Waikato,2021,0,0
+Toxic shellfish poisoning,Taranaki,2021,0,0
+Toxic shellfish poisoning,Tairawhiti,2021,0,0
+Toxic shellfish poisoning,Southern,2021,0,0
+Toxic shellfish poisoning,South Canterbury,2021,0,0
+Toxic shellfish poisoning,Northland,2021,0,0
+Toxic shellfish poisoning,Nelson Marlborough,2021,0,0
+Toxic shellfish poisoning,MidCentral,2021,0,0
+Toxic shellfish poisoning,Lakes,2021,0,0
+Toxic shellfish poisoning,Hutt Valley,2021,0,0
+Toxic shellfish poisoning,Hawke's Bay,2021,0,0
+Toxic shellfish poisoning,Counties Manukau,2021,2,0.33
+Toxic shellfish poisoning,Capital&Coast,2021,0,0
+Toxic shellfish poisoning,Canterbury,2021,0,0
+Toxic shellfish poisoning,Bay of Plenty,2021,0,0
+Toxic shellfish poisoning,Auckland,2021,0,0
+Trichinellosis,Whanganui,2021,0,0
+Trichinellosis,West Coast,2021,0,0
+Trichinellosis,Waitemata,2021,0,0
+Trichinellosis,Wairarapa,2021,0,0
+Trichinellosis,Waikato,2021,0,0
+Trichinellosis,Taranaki,2021,0,0
+Trichinellosis,Tairawhiti,2021,0,0
+Trichinellosis,Southern,2021,0,0
+Trichinellosis,South Canterbury,2021,0,0
+Trichinellosis,Northland,2021,0,0
+Trichinellosis,Nelson Marlborough,2021,0,0
+Trichinellosis,MidCentral,2021,0,0
+Trichinellosis,Lakes,2021,0,0
+Trichinellosis,Hutt Valley,2021,0,0
+Trichinellosis,Hawke's Bay,2021,0,0
+Trichinellosis,Counties Manukau,2021,0,0
+Trichinellosis,Capital&Coast,2021,0,0
+Trichinellosis,Canterbury,2021,0,0
+Trichinellosis,Bay of Plenty,2021,0,0
+Trichinellosis,Auckland,2021,0,0
+Tuberculosis disease - new case,Whanganui,2021,0,0
+Tuberculosis disease - new case,West Coast,2021,2,6.12
+Tuberculosis disease - new case,Waitemata,2021,37,5.79
+Tuberculosis disease - new case,Wairarapa,2021,1,2
+Tuberculosis disease - new case,Waikato,2021,25,5.62
+Tuberculosis disease - new case,Taranaki,2021,6,4.74
+Tuberculosis disease - new case,Tairawhiti,2021,3,5.83
+Tuberculosis disease - new case,Southern,2021,15,4.27
+Tuberculosis disease - new case,South Canterbury,2021,3,4.82
+Tuberculosis disease - new case,Northland,2021,4,2.02
+Tuberculosis disease - new case,Nelson Marlborough,2021,1,0.61
+Tuberculosis disease - new case,MidCentral,2021,9,4.76
+Tuberculosis disease - new case,Lakes,2021,1,0.84
+Tuberculosis disease - new case,Hutt Valley,2021,8,4.99
+Tuberculosis disease - new case,Hawke's Bay,2021,9,4.96
+Tuberculosis disease - new case,Counties Manukau,2021,56,9.31
+Tuberculosis disease - new case,Capital&Coast,2021,21,6.43
+Tuberculosis disease - new case,Canterbury,2021,40,6.82
+Tuberculosis disease - new case,Bay of Plenty,2021,7,2.59
+Tuberculosis disease - new case,Auckland,2021,53,10.62
+Tuberculosis disease - relapse or reactivation,Whanganui,2021,0,0
+Tuberculosis disease - relapse or reactivation,West Coast,2021,0,0
+Tuberculosis disease - relapse or reactivation,Waitemata,2021,0,0
+Tuberculosis disease - relapse or reactivation,Wairarapa,2021,0,0
+Tuberculosis disease - relapse or reactivation,Waikato,2021,0,0
+Tuberculosis disease - relapse or reactivation,Taranaki,2021,0,0
+Tuberculosis disease - relapse or reactivation,Tairawhiti,2021,0,0
+Tuberculosis disease - relapse or reactivation,Southern,2021,0,0
+Tuberculosis disease - relapse or reactivation,South Canterbury,2021,0,0
+Tuberculosis disease - relapse or reactivation,Northland,2021,0,0
+Tuberculosis disease - relapse or reactivation,Nelson Marlborough,2021,0,0
+Tuberculosis disease - relapse or reactivation,MidCentral,2021,1,0.53
+Tuberculosis disease - relapse or reactivation,Lakes,2021,0,0
+Tuberculosis disease - relapse or reactivation,Hutt Valley,2021,0,0
+Tuberculosis disease - relapse or reactivation,Hawke's Bay,2021,0,0
+Tuberculosis disease - relapse or reactivation,Counties Manukau,2021,3,0.5
+Tuberculosis disease - relapse or reactivation,Capital&Coast,2021,0,0
+Tuberculosis disease - relapse or reactivation,Canterbury,2021,0,0
+Tuberculosis disease - relapse or reactivation,Bay of Plenty,2021,0,0
+Tuberculosis disease - relapse or reactivation,Auckland,2021,5,1
+Typhoid fever,Whanganui,2021,0,0
+Typhoid fever,West Coast,2021,0,0
+Typhoid fever,Waitemata,2021,0,0
+Typhoid fever,Wairarapa,2021,0,0
+Typhoid fever,Waikato,2021,0,0
+Typhoid fever,Taranaki,2021,0,0
+Typhoid fever,Tairawhiti,2021,0,0
+Typhoid fever,Southern,2021,0,0
+Typhoid fever,South Canterbury,2021,0,0
+Typhoid fever,Northland,2021,0,0
+Typhoid fever,Nelson Marlborough,2021,0,0
+Typhoid fever,MidCentral,2021,0,0
+Typhoid fever,Lakes,2021,0,0
+Typhoid fever,Hutt Valley,2021,0,0
+Typhoid fever,Hawke's Bay,2021,0,0
+Typhoid fever,Counties Manukau,2021,2,0.33
+Typhoid fever,Capital&Coast,2021,0,0
+Typhoid fever,Canterbury,2021,0,0
+Typhoid fever,Bay of Plenty,2021,0,0
+Typhoid fever,Auckland,2021,1,0.2
+Typhus,Whanganui,2021,0,0
+Typhus,West Coast,2021,0,0
+Typhus,Waitemata,2021,0,0
+Typhus,Wairarapa,2021,0,0
+Typhus,Waikato,2021,0,0
+Typhus,Taranaki,2021,0,0
+Typhus,Tairawhiti,2021,0,0
+Typhus,Southern,2021,0,0
+Typhus,South Canterbury,2021,0,0
+Typhus,Northland,2021,0,0
+Typhus,Nelson Marlborough,2021,0,0
+Typhus,MidCentral,2021,0,0
+Typhus,Lakes,2021,0,0
+Typhus,Hutt Valley,2021,0,0
+Typhus,Hawke's Bay,2021,0,0
+Typhus,Counties Manukau,2021,0,0
+Typhus,Capital&Coast,2021,0,0
+Typhus,Canterbury,2021,0,0
+Typhus,Bay of Plenty,2021,0,0
+Typhus,Auckland,2021,0,0
+VTEC/STEC infection,Whanganui,2021,6,8.69
+VTEC/STEC infection,West Coast,2021,1,3.06
+VTEC/STEC infection,Waitemata,2021,77,12.04
+VTEC/STEC infection,Wairarapa,2021,17,34.06
+VTEC/STEC infection,Waikato,2021,95,21.34
+VTEC/STEC infection,Taranaki,2021,58,45.81
+VTEC/STEC infection,Tairawhiti,2021,11,21.37
+VTEC/STEC infection,Southern,2021,146,41.56
+VTEC/STEC infection,South Canterbury,2021,27,43.42
+VTEC/STEC infection,Northland,2021,57,28.79
+VTEC/STEC infection,Nelson Marlborough,2021,43,26.2
+VTEC/STEC infection,MidCentral,2021,37,19.56
+VTEC/STEC infection,Lakes,2021,23,19.42
+VTEC/STEC infection,Hutt Valley,2021,22,13.73
+VTEC/STEC infection,Hawke's Bay,2021,39,21.5
+VTEC/STEC infection,Counties Manukau,2021,51,8.48
+VTEC/STEC infection,Capital&Coast,2021,51,15.61
+VTEC/STEC infection,Canterbury,2021,60,10.23
+VTEC/STEC infection,Bay of Plenty,2021,52,19.27
+VTEC/STEC infection,Auckland,2021,40,8.02
+Yersiniosis,Whanganui,2021,5,7.24
+Yersiniosis,West Coast,2021,7,21.41
+Yersiniosis,Waitemata,2021,176,27.53
+Yersiniosis,Wairarapa,2021,23,46.08
+Yersiniosis,Waikato,2021,115,25.83
+Yersiniosis,Taranaki,2021,61,48.18
+Yersiniosis,Tairawhiti,2021,23,44.69
+Yersiniosis,Southern,2021,84,23.91
+Yersiniosis,South Canterbury,2021,17,27.34
+Yersiniosis,Northland,2021,26,13.13
+Yersiniosis,Nelson Marlborough,2021,50,30.47
+Yersiniosis,MidCentral,2021,33,17.45
+Yersiniosis,Lakes,2021,38,32.09
+Yersiniosis,Hutt Valley,2021,59,36.82
+Yersiniosis,Hawke's Bay,2021,46,25.36
+Yersiniosis,Counties Manukau,2021,152,25.28
+Yersiniosis,Capital&Coast,2021,111,33.97
+Yersiniosis,Canterbury,2021,123,20.98
+Yersiniosis,Bay of Plenty,2021,73,27.06
+Yersiniosis,Auckland,2021,188,37.67
+Zika virus,Whanganui,2021,0,0
+Zika virus,West Coast,2021,0,0
+Zika virus,Waitemata,2021,0,0
+Zika virus,Wairarapa,2021,0,0
+Zika virus,Waikato,2021,0,0
+Zika virus,Taranaki,2021,0,0
+Zika virus,Tairawhiti,2021,0,0
+Zika virus,Southern,2021,0,0
+Zika virus,South Canterbury,2021,0,0
+Zika virus,Northland,2021,0,0
+Zika virus,Nelson Marlborough,2021,0,0
+Zika virus,MidCentral,2021,0,0
+Zika virus,Lakes,2021,0,0
+Zika virus,Hutt Valley,2021,0,0
+Zika virus,Hawke's Bay,2021,0,0
+Zika virus,Counties Manukau,2021,0,0
+Zika virus,Capital&Coast,2021,0,0
+Zika virus,Canterbury,2021,0,0
+Zika virus,Bay of Plenty,2021,0,0
+Zika virus,Auckland,2021,0,0
