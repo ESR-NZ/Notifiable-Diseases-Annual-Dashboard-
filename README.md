@@ -42,5 +42,5 @@ Any queries regarding notifiable disease surveillance data may be sent to survqu
 Data is shared solely for the benefit of the Ministry of Health (MoH), Public Health Service Providers and other Third Party Beneficiaries as defined in the Contract between ESR and the MoH. ESR does not accept any legal liability or responsibility for use of information contained in this repository by any other person or organisation.
 
 <b>References: </b><br>
-Institute for Environmental Science and Research, New Zealand Notifiable Diseases Intelligence Dashboard. https://www.esr.cri.nz/our-services/consultancy/public-health/notifiable-diseases-intelligence-dashboard/.
+Institute for Environmental Science and Research, New Zealand Notifiable Diseases Intelligence Dashboard. https://www.esr.cri.nz/digital-library/notifiable-disease-dashboard/.
 
