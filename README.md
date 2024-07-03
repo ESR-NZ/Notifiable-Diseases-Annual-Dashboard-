@@ -7,7 +7,7 @@ This is the data repository for the Notifiable Diseases Intelligence Dashboard p
 
 
 <b>Dashboard</b><br>
-https://www.esr.cri.nz/our-services/consultancy/public-health/notifiable-diseases-intelligence-dashboard/
+https://www.esr.cri.nz/digital-library/notifiable-disease-dashboard/
 
 <b>Provided by Institute of Environmental Science and Research (ESR) </b><br>
 https://www.esr.cri.nz/ 
@@ -32,7 +32,7 @@ Any queries regarding notifiable disease surveillance data may be sent to survqu
 <b>Terms of Use: </b>
 <ol>
 <li>This dataset is owned by the Institute of Environmental Science and Research Limited and licensed for reuse under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International licence</a>. This license means that you are free to copy, distribute and adapt the material, as long as you attribute it to the Institute of Environmental Science and Research Limited and abide by the other license terms. This license does not apply to any logos and trade marks on this website – these specific elements may not be reused without the Institute of Environmental Science and Research Limited’s prior written consent. </li>
-<li>If you wish to use the data, you must attribute it as the "Notifiable Diseases Intelligence Dashboard", and the url: https://github.com/ESR-NZ/NZ_notifiablediseases_data.</li>
+<li>If you wish to use the data, you must attribute it as the "Notifiable Diseases Intelligence Dashboard", and the url: https://github.com/ESR-NZ/Notifiable-Diseases-Annual-Dashboard-.</li>
 <li>You may use our application programming interface (“API”) to facilitate access to the dataset, whether through a separate website or through another type of software application.</li>
 <li>You may not represent or imply that the Institute of Environmental Science and Research Limited has approved or endorsed the manner or purpose of your use or reproduction of the dataset.</li>
 <li>The Institute of Environmental Science and Research Limited reserves the right at any time in its sole discretion to modify or discontinue (temporarily or permanently) this website, the dataset, and any means of accessing the dataset, with or without prior notice to you.</li>
