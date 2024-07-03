@@ -20,7 +20,7 @@ New Zealand national notifiable disease system - EpiSurv
 
 Notifiable disease surveillance activities in New Zealand are carried out by both local and national authorities. ESR operates the national notifiable disease surveillance system, EpiSurv, on behalf of the Ministry of Health.<br>
 
-EpiSurv collates notifiable disease information on a real-time basis from the Public Health Services (PHS) in New Zealand. Data collected include case demographics, clinical features and risk factors. Detailed notifiable diseases case report form can be found here https://surv.esr.cri.nz/episurv/crf.php. The NZ Notifiable Diseases Intelligence Dashboard and the Data Repository draws on the information collated through these processes. 
+EpiSurv collates notifiable disease information on a real-time basis from the Public Health Services (PHS) in New Zealand. Data collected include case demographics, clinical features and risk factors. Detailed notifiable diseases case report form can be found here https://www.esr.cri.nz/notifiable-disease-reports. The NZ Notifiable Diseases Intelligence Dashboard and the Data Repository draws on the information collated through these processes. 
 
 
 <b>Acknowledgements</b><br>
