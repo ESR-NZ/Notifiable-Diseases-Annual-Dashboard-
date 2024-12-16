@@ -1,30 +1,20 @@
 ﻿Disease,Report Year,Sex Group,Case Count,"Case rate per 100,000"
-Amnesic shellfish poisoning,2006,Male,0,0.00
-Amnesic shellfish poisoning,2006,Female,0,0.00
-Barmah Forest virus infection,2006,Male,0,0.00
-Barmah Forest virus infection,2006,Female,0,0.00
-Brucellosis,2006,Male,0,0.00
-Brucellosis,2006,Female,0,0.00
+Acute gastroenteritis,2006,Male,357,18.16
+Acute gastroenteritis,2006,Female,552,26.85
+Arboviral diseases,2006,Male,11,0.56
+Arboviral diseases,2006,Female,10,0.49
+Brucellosis,2006,Male,0,0
+Brucellosis,2006,Female,0,0
 Campylobacteriosis,2006,Male,8238,419.15
 Campylobacteriosis,2006,Female,7269,353.63
-Chikungunya fever,2006,Male,0,0.00
-Chikungunya fever,2006,Female,0,0.00
-Cholera,2006,Male,0,0.00
-Cholera,2006,Female,0,0.00
+Cholera,2006,Male,0,0
+Cholera,2006,Female,0,0
 Cryptosporidiosis,2006,Male,364,18.52
 Cryptosporidiosis,2006,Female,363,17.66
-Cysticercosis,2006,Male,0,0.00
-Cysticercosis,2006,Female,0,0.00
-Dengue fever,2006,Male,11,0.56
-Dengue fever,2006,Female,8,0.39
-Diarrhoeic shellfish poisoning,2006,Male,1,0.05
-Diarrhoeic shellfish poisoning,2006,Female,0,0.00
-Diphtheria,2006,Male,0,0.00
-Diphtheria,2006,Female,0,0.00
-Gastroenteritis - unknown cause,2006,Male,247,12.57
-Gastroenteritis - unknown cause,2006,Female,348,16.93
-Gastroenteritis / foodborne intoxication,2006,Male,110,5.60
-Gastroenteritis / foodborne intoxication,2006,Female,204,9.92
+Cysticercosis,2006,Male,0,0
+Cysticercosis,2006,Female,0,0
+Diphtheria,2006,Male,0,0
+Diphtheria,2006,Female,0,0
 Giardiasis,2006,Male,620,31.55
 Giardiasis,2006,Female,566,27.54
 Haemophilus influenzae type b,2006,Male,5,0.25
@@ -35,111 +25,87 @@ Hepatitis B,2006,Male,42,2.14
 Hepatitis B,2006,Female,19,0.92
 Hepatitis C,2006,Male,25,1.27
 Hepatitis C,2006,Female,10,0.49
-Hepatitis NOS,2006,Male,0,0.00
-Hepatitis NOS,2006,Female,0,0.00
-Hydatid disease,2006,Male,0,0.00
-Hydatid disease,2006,Female,0,0.00
-Invasive pneumococcal disease,2006,Male,0,0.00
-Invasive pneumococcal disease,2006,Female,0,0.00
+Hepatitis NOS,2006,Male,0,0
+Hepatitis NOS,2006,Female,0,0
+Hydatid disease,2006,Male,0,0
+Hydatid disease,2006,Female,0,0
+Invasive pneumococcal disease,2006,Male,0,0
+Invasive pneumococcal disease,2006,Female,0,0
 Legionellosis,2006,Male,34,1.73
 Legionellosis,2006,Female,17,0.83
-Leprosy,2006,Male,2,0.10
-Leprosy,2006,Female,2,0.10
+Leprosy,2006,Male,2,0.1
+Leprosy,2006,Female,2,0.1
 Leptospirosis,2006,Male,73,3.71
 Leptospirosis,2006,Female,13,0.63
-Listeriosis,2006,Male,9,0.46
-Listeriosis,2006,Female,6,0.29
-Listeriosis - perinatal,2006,Male,1,0.05
-Listeriosis - perinatal,2006,Female,1,0.05
+Listeriosis,2006,Male,10,0.51
+Listeriosis,2006,Female,7,0.34
 Malaria,2006,Male,23,1.17
 Malaria,2006,Female,7,0.34
 Measles,2006,Male,6,0.31
 Measles,2006,Female,12,0.58
 Meningococcal disease,2006,Male,83,4.22
-Meningococcal disease,2006,Female,76,3.70
-Meningoencephalitis - primary amoebic,2006,Male,0,0.00
-Meningoencephalitis - primary amoebic,2006,Female,0,0.00
+Meningococcal disease,2006,Female,76,3.7
+Meningoencephalitis - primary amoebic,2006,Male,0,0
+Meningoencephalitis - primary amoebic,2006,Female,0,0
+Mpox,2006,Male,0,0
+Mpox,2006,Female,0,0
 Mumps,2006,Male,23,1.17
 Mumps,2006,Female,23,1.12
-Murine Typhus,2006,Male,6,0.31
-Murine Typhus,2006,Female,7,0.34
-Neurologic shellfish poisoning,2006,Male,0,0.00
-Neurologic shellfish poisoning,2006,Female,0,0.00
-Paralytic shellfish poisoning,2006,Male,0,0.00
-Paralytic shellfish poisoning,2006,Female,0,0.00
 Paratyphoid fever,2006,Male,11,0.56
 Paratyphoid fever,2006,Female,12,0.58
 Pertussis,2006,Male,440,22.39
-Pertussis,2006,Female,670,32.60
-Poliomyelitis,2006,Male,0,0.00
-Poliomyelitis,2006,Female,0,0.00
-Q fever,2006,Male,0,0.00
-Q fever,2006,Female,0,0.00
-Rheumatic fever - initial attack,2006,Male,56,2.85
-Rheumatic fever - initial attack,2006,Female,32,1.56
-Rheumatic fever - recurrent attack,2006,Male,3,0.15
-Rheumatic fever - recurrent attack,2006,Female,0,0.00
-Rickettsial disease,2006,Male,0,0.00
-Rickettsial disease,2006,Female,0,0.00
-Ross River virus infection,2006,Male,0,0.00
-Ross River virus infection,2006,Female,2,0.10
-Rubella,2006,Male,4,0.20
+Pertussis,2006,Female,670,32.6
+Poliomyelitis,2006,Male,0,0
+Poliomyelitis,2006,Female,0,0
+Q fever,2006,Male,0,0
+Q fever,2006,Female,0,0
+Rabies and other lyssaviruses,2006,Male,0,0
+Rabies and other lyssaviruses,2006,Female,0,0
+Rheumatic fever,2006,Male,59,3
+Rheumatic fever,2006,Female,32,1.56
+Rickettsial disease,2006,Male,6,0.31
+Rickettsial disease,2006,Female,7,0.34
+Rubella,2006,Male,4,0.2
 Rubella,2006,Female,3,0.15
 Salmonellosis,2006,Male,673,34.24
 Salmonellosis,2006,Female,639,31.09
 Shigellosis,2006,Male,46,2.34
 Shigellosis,2006,Female,52,2.53
-Taeniasis,2006,Male,0,0.00
-Taeniasis,2006,Female,0,0.00
-Tetanus,2006,Male,0,0.00
+Taeniasis,2006,Male,0,0
+Taeniasis,2006,Female,0,0
+Tetanus,2006,Male,0,0
 Tetanus,2006,Female,1,0.05
-Toxic shellfish poisoning,2006,Male,0,0.00
-Toxic shellfish poisoning,2006,Female,0,0.00
-Trichinellosis,2006,Male,0,0.00
-Trichinellosis,2006,Female,0,0.00
-Tuberculosis disease - new case,2006,Male,161,8.19
-Tuberculosis disease - new case,2006,Female,167,8.12
-Tuberculosis disease - relapse or reactivation,2006,Male,15,0.76
-Tuberculosis disease - relapse or reactivation,2006,Female,4,0.19
+Toxic shellfish poisoning,2006,Male,1,0.05
+Toxic shellfish poisoning,2006,Female,0,0
+Trichinosis,2006,Male,0,0
+Trichinosis,2006,Female,0,0
+Tuberculosis disease,2006,Male,176,8.95
+Tuberculosis disease,2006,Female,171,8.32
 Typhoid fever,2006,Male,14,0.71
 Typhoid fever,2006,Female,27,1.31
-Typhus,2006,Male,0,0.00
-Typhus,2006,Female,0,0.00
 VTEC/STEC infection,2006,Male,44,2.24
 VTEC/STEC infection,2006,Female,42,2.04
 Yersiniosis,2006,Male,234,11.91
 Yersiniosis,2006,Female,201,9.78
-Zika virus,2006,Male,0,0.00
-Zika virus,2006,Female,0,0.00
-Amnesic shellfish poisoning,2007,Male,0,0.00
-Amnesic shellfish poisoning,2007,Female,0,0.00
-Barmah Forest virus infection,2007,Male,0,0.00
-Barmah Forest virus infection,2007,Female,0,0.00
-Brucellosis,2007,Male,2,0.10
-Brucellosis,2007,Female,2,0.10
+Acute gastroenteritis,2007,Male,252,12.68
+Acute gastroenteritis,2007,Female,344,16.56
+Arboviral diseases,2007,Male,54,2.72
+Arboviral diseases,2007,Female,60,2.89
+Brucellosis,2007,Male,2,0.1
+Brucellosis,2007,Female,2,0.1
 Campylobacteriosis,2007,Male,6792,341.85
 Campylobacteriosis,2007,Female,5721,275.41
-Chikungunya fever,2007,Male,1,0.05
-Chikungunya fever,2007,Female,0,0.00
 Cholera,2007,Male,1,0.05
-Cholera,2007,Female,0,0.00
-Cryptosporidiosis,2007,Male,443,22.30
+Cholera,2007,Female,0,0
+Cryptosporidiosis,2007,Male,443,22.3
 Cryptosporidiosis,2007,Female,471,22.67
 Cysticercosis,2007,Male,1,0.05
 Cysticercosis,2007,Female,1,0.05
-Dengue fever,2007,Male,53,2.67
-Dengue fever,2007,Female,60,2.89
-Diarrhoeic shellfish poisoning,2007,Male,0,0.00
-Diarrhoeic shellfish poisoning,2007,Female,0,0.00
-Diphtheria,2007,Male,0,0.00
-Diphtheria,2007,Female,0,0.00
-Gastroenteritis - unknown cause,2007,Male,210,10.57
-Gastroenteritis - unknown cause,2007,Female,280,13.48
-Gastroenteritis / foodborne intoxication,2007,Male,42,2.11
-Gastroenteritis / foodborne intoxication,2007,Female,64,3.08
+Diphtheria,2007,Male,0,0
+Diphtheria,2007,Female,0,0
 Giardiasis,2007,Male,664,33.42
 Giardiasis,2007,Female,716,34.47
-Haemophilus influenzae type b,2007,Male,8,0.40
+Haemophilus influenzae type b,2007,Male,8,0.4
 Haemophilus influenzae type b,2007,Female,7,0.34
 Hepatitis A,2007,Male,26,1.31
 Hepatitis A,2007,Female,16,0.77
@@ -148,53 +114,45 @@ Hepatitis B,2007,Female,31,1.49
 Hepatitis C,2007,Male,18,0.91
 Hepatitis C,2007,Female,11,0.53
 Hepatitis NOS,2007,Male,1,0.05
-Hepatitis NOS,2007,Female,0,0.00
+Hepatitis NOS,2007,Female,0,0
 Hydatid disease,2007,Male,5,0.25
 Hydatid disease,2007,Female,1,0.05
-Invasive pneumococcal disease,2007,Male,0,0.00
-Invasive pneumococcal disease,2007,Female,0,0.00
+Invasive pneumococcal disease,2007,Male,0,0
+Invasive pneumococcal disease,2007,Female,0,0
 Legionellosis,2007,Male,32,1.61
 Legionellosis,2007,Female,32,1.54
-Leprosy,2007,Male,4,0.20
+Leprosy,2007,Male,4,0.2
 Leprosy,2007,Female,4,0.19
 Leptospirosis,2007,Male,53,2.67
 Leptospirosis,2007,Female,12,0.58
 Listeriosis,2007,Male,7,0.35
-Listeriosis,2007,Female,12,0.58
-Listeriosis - perinatal,2007,Male,0,0.00
-Listeriosis - perinatal,2007,Female,6,0.29
+Listeriosis,2007,Female,18,0.87
 Malaria,2007,Male,16,0.81
 Malaria,2007,Female,7,0.34
-Measles,2007,Male,12,0.60
+Measles,2007,Male,12,0.6
 Measles,2007,Female,12,0.58
 Meningococcal disease,2007,Male,62,3.12
-Meningococcal disease,2007,Female,54,2.60
-Meningoencephalitis - primary amoebic,2007,Male,0,0.00
-Meningoencephalitis - primary amoebic,2007,Female,0,0.00
+Meningococcal disease,2007,Female,54,2.6
+Meningoencephalitis - primary amoebic,2007,Male,0,0
+Meningoencephalitis - primary amoebic,2007,Female,0,0
+Mpox,2007,Male,0,0
+Mpox,2007,Female,0,0
 Mumps,2007,Male,41,2.06
 Mumps,2007,Female,32,1.54
-Murine Typhus,2007,Male,1,0.05
-Murine Typhus,2007,Female,1,0.05
-Neurologic shellfish poisoning,2007,Male,0,0.00
-Neurologic shellfish poisoning,2007,Female,0,0.00
-Paralytic shellfish poisoning,2007,Male,1,0.05
-Paralytic shellfish poisoning,2007,Female,0,0.00
 Paratyphoid fever,2007,Male,11,0.55
 Paratyphoid fever,2007,Female,12,0.58
 Pertussis,2007,Male,133,6.69
 Pertussis,2007,Female,197,9.48
-Poliomyelitis,2007,Male,0,0.00
-Poliomyelitis,2007,Female,0,0.00
-Q fever,2007,Male,0,0.00
-Q fever,2007,Female,0,0.00
-Rheumatic fever - initial attack,2007,Male,69,3.47
-Rheumatic fever - initial attack,2007,Female,58,2.79
-Rheumatic fever - recurrent attack,2007,Male,3,0.15
-Rheumatic fever - recurrent attack,2007,Female,3,0.14
-Rickettsial disease,2007,Male,0,0.00
-Rickettsial disease,2007,Female,0,0.00
-Ross River virus infection,2007,Male,0,0.00
-Ross River virus infection,2007,Female,0,0.00
+Poliomyelitis,2007,Male,0,0
+Poliomyelitis,2007,Female,0,0
+Q fever,2007,Male,0,0
+Q fever,2007,Female,0,0
+Rabies and other lyssaviruses,2007,Male,0,0
+Rabies and other lyssaviruses,2007,Female,0,0
+Rheumatic fever,2007,Male,72,3.62
+Rheumatic fever,2007,Female,61,2.94
+Rickettsial disease,2007,Male,1,0.05
+Rickettsial disease,2007,Female,1,0.05
 Rubella,2007,Male,5,0.25
 Rubella,2007,Female,5,0.24
 Salmonellosis,2007,Male,652,32.82
@@ -202,223 +160,175 @@ Salmonellosis,2007,Female,601,28.93
 Shigellosis,2007,Male,59,2.97
 Shigellosis,2007,Female,69,3.32
 Taeniasis,2007,Male,1,0.05
-Taeniasis,2007,Female,0,0.00
-Tetanus,2007,Male,0,0.00
+Taeniasis,2007,Female,0,0
+Tetanus,2007,Male,0,0
 Tetanus,2007,Female,1,0.05
-Toxic shellfish poisoning,2007,Male,1,0.05
+Toxic shellfish poisoning,2007,Male,2,0.1
 Toxic shellfish poisoning,2007,Female,1,0.05
-Trichinellosis,2007,Male,0,0.00
-Trichinellosis,2007,Female,0,0.00
-Tuberculosis disease - new case,2007,Male,122,6.14
-Tuberculosis disease - new case,2007,Female,143,6.88
-Tuberculosis disease - relapse or reactivation,2007,Male,11,0.55
-Tuberculosis disease - relapse or reactivation,2007,Female,7,0.34
+Trichinosis,2007,Male,0,0
+Trichinosis,2007,Female,0,0
+Tuberculosis disease,2007,Male,133,6.69
+Tuberculosis disease,2007,Female,150,7.22
 Typhoid fever,2007,Male,23,1.16
 Typhoid fever,2007,Female,24,1.16
-Typhus,2007,Male,0,0.00
-Typhus,2007,Female,0,0.00
 VTEC/STEC infection,2007,Male,44,2.21
-VTEC/STEC infection,2007,Female,56,2.70
+VTEC/STEC infection,2007,Female,56,2.7
 Yersiniosis,2007,Male,259,13.04
 Yersiniosis,2007,Female,232,11.17
-Zika virus,2007,Male,0,0.00
-Zika virus,2007,Female,0,0.00
-Amnesic shellfish poisoning,2008,Male,0,0.00
-Amnesic shellfish poisoning,2008,Female,0,0.00
-Barmah Forest virus infection,2008,Male,0,0.00
-Barmah Forest virus infection,2008,Female,0,0.00
-Brucellosis,2008,Male,2,0.10
+Acute gastroenteritis,2008,Male,304,15.14
+Acute gastroenteritis,2008,Female,357,17.04
+Arboviral diseases,2008,Male,58,2.89
+Arboviral diseases,2008,Female,57,2.72
+Brucellosis,2008,Male,2,0.1
 Brucellosis,2008,Female,1,0.05
 Campylobacteriosis,2008,Male,3759,187.25
 Campylobacteriosis,2008,Female,2923,139.51
-Chikungunya fever,2008,Male,1,0.05
-Chikungunya fever,2008,Female,0,0.00
-Cholera,2008,Male,0,0.00
-Cholera,2008,Female,0,0.00
+Cholera,2008,Male,0,0
+Cholera,2008,Female,0,0
 Cryptosporidiosis,2008,Male,381,18.98
 Cryptosporidiosis,2008,Female,382,18.23
-Cysticercosis,2008,Male,0,0.00
-Cysticercosis,2008,Female,0,0.00
-Dengue fever,2008,Male,57,2.84
-Dengue fever,2008,Female,56,2.67
-Diarrhoeic shellfish poisoning,2008,Male,0,0.00
-Diarrhoeic shellfish poisoning,2008,Female,0,0.00
-Diphtheria,2008,Male,0,0.00
-Diphtheria,2008,Female,0,0.00
-Gastroenteritis - unknown cause,2008,Male,213,10.61
-Gastroenteritis - unknown cause,2008,Female,238,11.36
-Gastroenteritis / foodborne intoxication,2008,Male,91,4.53
-Gastroenteritis / foodborne intoxication,2008,Female,119,5.68
+Cysticercosis,2008,Male,0,0
+Cysticercosis,2008,Female,0,0
+Diphtheria,2008,Male,0,0
+Diphtheria,2008,Female,0,0
 Giardiasis,2008,Male,842,41.94
-Giardiasis,2008,Female,815,38.90
+Giardiasis,2008,Female,815,38.9
 Haemophilus influenzae type b,2008,Male,3,0.15
 Haemophilus influenzae type b,2008,Female,6,0.29
 Hepatitis A,2008,Male,59,2.94
 Hepatitis A,2008,Female,30,1.43
-Hepatitis B,2008,Male,24,1.20
+Hepatitis B,2008,Male,24,1.2
 Hepatitis B,2008,Female,13,0.62
 Hepatitis C,2008,Male,11,0.55
 Hepatitis C,2008,Female,11,0.53
-Hepatitis NOS,2008,Male,0,0.00
-Hepatitis NOS,2008,Female,2,0.10
+Hepatitis NOS,2008,Male,0,0
+Hepatitis NOS,2008,Female,2,0.1
 Hydatid disease,2008,Male,5,0.25
-Hydatid disease,2008,Female,2,0.10
+Hydatid disease,2008,Female,2,0.1
 Invasive pneumococcal disease,2008,Male,69,3.44
 Invasive pneumococcal disease,2008,Female,55,2.63
 Legionellosis,2008,Male,40,1.99
 Legionellosis,2008,Female,33,1.58
-Leprosy,2008,Male,2,0.10
+Leprosy,2008,Male,2,0.1
 Leprosy,2008,Female,3,0.14
 Leptospirosis,2008,Male,100,4.98
 Leptospirosis,2008,Female,18,0.86
 Listeriosis,2008,Male,11,0.55
-Listeriosis,2008,Female,10,0.48
-Listeriosis - perinatal,2008,Male,0,0.00
-Listeriosis - perinatal,2008,Female,6,0.29
+Listeriosis,2008,Female,16,0.76
 Malaria,2008,Male,23,1.15
 Malaria,2008,Female,17,0.81
 Measles,2008,Male,9,0.45
 Measles,2008,Female,3,0.14
 Meningococcal disease,2008,Male,72,3.59
 Meningococcal disease,2008,Female,50,2.39
-Meningoencephalitis - primary amoebic,2008,Male,0,0.00
-Meningoencephalitis - primary amoebic,2008,Female,0,0.00
+Meningoencephalitis - primary amoebic,2008,Male,0,0
+Meningoencephalitis - primary amoebic,2008,Female,0,0
+Mpox,2008,Male,0,0
+Mpox,2008,Female,0,0
 Mumps,2008,Male,32,1.59
-Mumps,2008,Female,44,2.10
-Murine Typhus,2008,Male,3,0.15
-Murine Typhus,2008,Female,5,0.24
-Neurologic shellfish poisoning,2008,Male,0,0.00
-Neurologic shellfish poisoning,2008,Female,0,0.00
-Paralytic shellfish poisoning,2008,Male,0,0.00
-Paralytic shellfish poisoning,2008,Female,0,0.00
+Mumps,2008,Female,44,2.1
 Paratyphoid fever,2008,Male,13,0.65
 Paratyphoid fever,2008,Female,12,0.57
 Pertussis,2008,Male,172,8.57
 Pertussis,2008,Female,245,11.69
-Poliomyelitis,2008,Male,0,0.00
-Poliomyelitis,2008,Female,0,0.00
-Q fever,2008,Male,0,0.00
-Q fever,2008,Female,0,0.00
-Rheumatic fever - initial attack,2008,Male,75,3.74
-Rheumatic fever - initial attack,2008,Female,65,3.10
-Rheumatic fever - recurrent attack,2008,Male,8,0.40
-Rheumatic fever - recurrent attack,2008,Female,7,0.33
-Rickettsial disease,2008,Male,0,0.00
-Rickettsial disease,2008,Female,1,0.05
-Ross River virus infection,2008,Male,0,0.00
-Ross River virus infection,2008,Female,1,0.05
+Poliomyelitis,2008,Male,0,0
+Poliomyelitis,2008,Female,0,0
+Q fever,2008,Male,0,0
+Q fever,2008,Female,0,0
+Rabies and other lyssaviruses,2008,Male,0,0
+Rabies and other lyssaviruses,2008,Female,0,0
+Rheumatic fever,2008,Male,83,4.13
+Rheumatic fever,2008,Female,72,3.44
+Rickettsial disease,2008,Male,3,0.15
+Rickettsial disease,2008,Female,6,0.29
 Rubella,2008,Male,5,0.25
 Rubella,2008,Female,4,0.19
 Salmonellosis,2008,Male,711,35.42
 Salmonellosis,2008,Female,623,29.73
 Shigellosis,2008,Male,63,3.14
 Shigellosis,2008,Female,49,2.34
-Taeniasis,2008,Male,2,0.10
+Taeniasis,2008,Male,2,0.1
 Taeniasis,2008,Female,3,0.14
-Tetanus,2008,Male,0,0.00
-Tetanus,2008,Female,0,0.00
+Tetanus,2008,Male,0,0
+Tetanus,2008,Female,0,0
 Toxic shellfish poisoning,2008,Male,1,0.05
-Toxic shellfish poisoning,2008,Female,0,0.00
-Trichinellosis,2008,Male,0,0.00
-Trichinellosis,2008,Female,0,0.00
-Tuberculosis disease - new case,2008,Male,150,7.47
-Tuberculosis disease - new case,2008,Female,132,6.30
-Tuberculosis disease - relapse or reactivation,2008,Male,6,0.30
-Tuberculosis disease - relapse or reactivation,2008,Female,5,0.24
+Toxic shellfish poisoning,2008,Female,0,0
+Trichinosis,2008,Male,0,0
+Trichinosis,2008,Female,0,0
+Tuberculosis disease,2008,Male,156,7.77
+Tuberculosis disease,2008,Female,137,6.54
 Typhoid fever,2008,Male,17,0.85
 Typhoid fever,2008,Female,12,0.57
-Typhus,2008,Male,0,0.00
-Typhus,2008,Female,0,0.00
 VTEC/STEC infection,2008,Male,66,3.29
 VTEC/STEC infection,2008,Female,56,2.67
-Yersiniosis,2008,Male,271,13.50
+Yersiniosis,2008,Male,271,13.5
 Yersiniosis,2008,Female,236,11.26
-Zika virus,2008,Male,0,0.00
-Zika virus,2008,Female,0,0.00
-Amnesic shellfish poisoning,2009,Male,0,0.00
-Amnesic shellfish poisoning,2009,Female,0,0.00
-Barmah Forest virus infection,2009,Male,2,0.10
-Barmah Forest virus infection,2009,Female,0,0.00
-Brucellosis,2009,Male,0,0.00
-Brucellosis,2009,Female,0,0.00
+Acute gastroenteritis,2009,Male,283,13.93
+Acute gastroenteritis,2009,Female,410,19.38
+Arboviral diseases,2009,Male,59,2.9
+Arboviral diseases,2009,Female,86,4.07
+Brucellosis,2009,Male,0,0
+Brucellosis,2009,Female,0,0
 Campylobacteriosis,2009,Male,4014,197.58
 Campylobacteriosis,2009,Female,3153,149.06
-Chikungunya fever,2009,Male,0,0.00
-Chikungunya fever,2009,Female,1,0.05
-Cholera,2009,Male,0,0.00
-Cholera,2009,Female,0,0.00
-Cryptosporidiosis,2009,Male,386,19.00
+Cholera,2009,Male,0,0
+Cholera,2009,Female,0,0
+Cryptosporidiosis,2009,Male,386,19
 Cryptosporidiosis,2009,Female,465,21.98
-Cysticercosis,2009,Male,0,0.00
-Cysticercosis,2009,Female,0,0.00
-Dengue fever,2009,Male,57,2.81
-Dengue fever,2009,Female,82,3.88
-Diarrhoeic shellfish poisoning,2009,Male,0,0.00
-Diarrhoeic shellfish poisoning,2009,Female,0,0.00
+Cysticercosis,2009,Male,0,0
+Cysticercosis,2009,Female,0,0
 Diphtheria,2009,Male,1,0.05
-Diphtheria,2009,Female,0,0.00
-Gastroenteritis - unknown cause,2009,Male,148,7.28
-Gastroenteritis - unknown cause,2009,Female,181,8.56
-Gastroenteritis / foodborne intoxication,2009,Male,135,6.65
-Gastroenteritis / foodborne intoxication,2009,Female,229,10.83
+Diphtheria,2009,Female,0,0
 Giardiasis,2009,Male,845,41.59
-Giardiasis,2009,Female,789,37.30
-Haemophilus influenzae type b,2009,Male,6,0.30
+Giardiasis,2009,Female,789,37.3
+Haemophilus influenzae type b,2009,Male,6,0.3
 Haemophilus influenzae type b,2009,Female,4,0.19
 Hepatitis A,2009,Male,26,1.28
 Hepatitis A,2009,Female,18,0.85
 Hepatitis B,2009,Male,42,2.07
 Hepatitis B,2009,Female,13,0.61
 Hepatitis C,2009,Male,13,0.64
-Hepatitis C,2009,Female,19,0.90
+Hepatitis C,2009,Female,19,0.9
 Hepatitis NOS,2009,Male,1,0.05
 Hepatitis NOS,2009,Female,1,0.05
-Hydatid disease,2009,Male,2,0.10
-Hydatid disease,2009,Female,0,0.00
+Hydatid disease,2009,Male,2,0.1
+Hydatid disease,2009,Female,0,0
 Invasive pneumococcal disease,2009,Male,359,17.67
 Invasive pneumococcal disease,2009,Female,328,15.51
 Legionellosis,2009,Male,46,2.26
 Legionellosis,2009,Female,28,1.32
 Leprosy,2009,Male,1,0.05
 Leprosy,2009,Female,2,0.09
-Leptospirosis,2009,Male,61,3.00
+Leptospirosis,2009,Male,61,3
 Leptospirosis,2009,Female,7,0.33
-Listeriosis,2009,Male,6,0.30
-Listeriosis,2009,Female,12,0.57
-Listeriosis - perinatal,2009,Male,0,0.00
-Listeriosis - perinatal,2009,Female,10,0.47
+Listeriosis,2009,Male,6,0.3
+Listeriosis,2009,Female,22,1.04
 Malaria,2009,Male,32,1.58
 Malaria,2009,Female,18,0.85
 Measles,2009,Male,135,6.65
 Measles,2009,Female,113,5.34
 Meningococcal disease,2009,Male,58,2.85
-Meningococcal disease,2009,Female,74,3.50
-Meningoencephalitis - primary amoebic,2009,Male,0,0.00
-Meningoencephalitis - primary amoebic,2009,Female,0,0.00
+Meningococcal disease,2009,Female,74,3.5
+Meningoencephalitis - primary amoebic,2009,Male,0,0
+Meningoencephalitis - primary amoebic,2009,Female,0,0
+Mpox,2009,Male,0,0
+Mpox,2009,Female,0,0
 Mumps,2009,Male,35,1.72
 Mumps,2009,Female,28,1.32
-Murine Typhus,2009,Male,3,0.15
-Murine Typhus,2009,Female,1,0.05
-Neurologic shellfish poisoning,2009,Male,0,0.00
-Neurologic shellfish poisoning,2009,Female,0,0.00
-Paralytic shellfish poisoning,2009,Male,1,0.05
-Paralytic shellfish poisoning,2009,Female,0,0.00
 Paratyphoid fever,2009,Male,16,0.79
 Paratyphoid fever,2009,Female,9,0.43
 Pertussis,2009,Male,599,29.48
 Pertussis,2009,Female,798,37.73
-Poliomyelitis,2009,Male,0,0.00
-Poliomyelitis,2009,Female,0,0.00
-Q fever,2009,Male,0,0.00
-Q fever,2009,Female,0,0.00
-Rheumatic fever - initial attack,2009,Male,71,3.49
-Rheumatic fever - initial attack,2009,Female,55,2.60
-Rheumatic fever - recurrent attack,2009,Male,12,0.59
-Rheumatic fever - recurrent attack,2009,Female,3,0.14
-Rickettsial disease,2009,Male,0,0.00
-Rickettsial disease,2009,Female,1,0.05
-Ross River virus infection,2009,Male,0,0.00
-Ross River virus infection,2009,Female,3,0.14
+Poliomyelitis,2009,Male,0,0
+Poliomyelitis,2009,Female,0,0
+Q fever,2009,Male,0,0
+Q fever,2009,Female,0,0
+Rabies and other lyssaviruses,2009,Male,0,0
+Rabies and other lyssaviruses,2009,Female,0,0
+Rheumatic fever,2009,Male,83,4.09
+Rheumatic fever,2009,Female,58,2.74
+Rickettsial disease,2009,Male,3,0.15
+Rickettsial disease,2009,Female,2,0.09
 Rubella,2009,Male,3,0.15
 Rubella,2009,Female,1,0.05
 Salmonellosis,2009,Male,561,27.61
@@ -426,165 +336,125 @@ Salmonellosis,2009,Female,566,26.76
 Shigellosis,2009,Male,58,2.85
 Shigellosis,2009,Female,61,2.88
 Taeniasis,2009,Male,3,0.15
-Taeniasis,2009,Female,0,0.00
+Taeniasis,2009,Female,0,0
 Tetanus,2009,Male,1,0.05
-Tetanus,2009,Female,0,0.00
-Toxic shellfish poisoning,2009,Male,0,0.00
-Toxic shellfish poisoning,2009,Female,0,0.00
-Trichinellosis,2009,Male,0,0.00
-Trichinellosis,2009,Female,0,0.00
-Tuberculosis disease - new case,2009,Male,145,7.14
-Tuberculosis disease - new case,2009,Female,144,6.81
-Tuberculosis disease - relapse or reactivation,2009,Male,7,0.34
-Tuberculosis disease - relapse or reactivation,2009,Female,2,0.09
+Tetanus,2009,Female,0,0
+Toxic shellfish poisoning,2009,Male,1,0.05
+Toxic shellfish poisoning,2009,Female,0,0
+Trichinosis,2009,Male,0,0
+Trichinosis,2009,Female,0,0
+Tuberculosis disease,2009,Male,152,7.48
+Tuberculosis disease,2009,Female,146,6.9
 Typhoid fever,2009,Male,15,0.74
 Typhoid fever,2009,Female,18,0.85
-Typhus,2009,Male,0,0.00
-Typhus,2009,Female,0,0.00
-VTEC/STEC infection,2009,Male,59,2.90
+VTEC/STEC infection,2009,Male,59,2.9
 VTEC/STEC infection,2009,Female,82,3.88
 Yersiniosis,2009,Male,222,10.93
 Yersiniosis,2009,Female,207,9.79
-Zika virus,2009,Male,0,0.00
-Zika virus,2009,Female,0,0.00
-Amnesic shellfish poisoning,2010,Male,0,0.00
-Amnesic shellfish poisoning,2010,Female,0,0.00
-Barmah Forest virus infection,2010,Male,0,0.00
-Barmah Forest virus infection,2010,Female,0,0.00
-Brucellosis,2010,Male,0,0.00
+Acute gastroenteritis,2010,Male,223,10.84
+Acute gastroenteritis,2010,Female,264,12.34
+Arboviral diseases,2010,Male,28,1.36
+Arboviral diseases,2010,Female,26,1.21
+Brucellosis,2010,Male,0,0
 Brucellosis,2010,Female,1,0.05
 Campylobacteriosis,2010,Male,4121,200.28
 Campylobacteriosis,2010,Female,3221,150.52
-Chikungunya fever,2010,Male,0,0.00
-Chikungunya fever,2010,Female,0,0.00
-Cholera,2010,Male,2,0.10
-Cholera,2010,Female,0,0.00
+Cholera,2010,Male,2,0.1
+Cholera,2010,Female,0,0
 Cryptosporidiosis,2010,Male,482,23.42
 Cryptosporidiosis,2010,Female,470,21.96
-Cysticercosis,2010,Male,0,0.00
-Cysticercosis,2010,Female,0,0.00
-Dengue fever,2010,Male,26,1.26
-Dengue fever,2010,Female,23,1.07
-Diarrhoeic shellfish poisoning,2010,Male,0,0.00
-Diarrhoeic shellfish poisoning,2010,Female,0,0.00
-Diphtheria,2010,Male,0,0.00
-Diphtheria,2010,Female,0,0.00
-Gastroenteritis - unknown cause,2010,Male,140,6.80
-Gastroenteritis - unknown cause,2010,Female,165,7.71
-Gastroenteritis / foodborne intoxication,2010,Male,83,4.03
-Gastroenteritis / foodborne intoxication,2010,Female,99,4.63
-Giardiasis,2010,Male,998,48.50
+Cysticercosis,2010,Male,0,0
+Cysticercosis,2010,Female,0,0
+Diphtheria,2010,Male,0,0
+Diphtheria,2010,Female,0,0
+Giardiasis,2010,Male,998,48.5
 Giardiasis,2010,Female,987,46.12
 Haemophilus influenzae type b,2010,Male,4,0.19
 Haemophilus influenzae type b,2010,Female,4,0.19
 Hepatitis A,2010,Male,23,1.12
 Hepatitis A,2010,Female,23,1.07
-Hepatitis B,2010,Male,39,1.90
+Hepatitis B,2010,Male,39,1.9
 Hepatitis B,2010,Female,10,0.47
 Hepatitis C,2010,Male,10,0.49
 Hepatitis C,2010,Female,6,0.28
 Hepatitis NOS,2010,Male,3,0.15
-Hepatitis NOS,2010,Female,0,0.00
+Hepatitis NOS,2010,Female,0,0
 Hydatid disease,2010,Male,3,0.15
 Hydatid disease,2010,Female,1,0.05
 Invasive pneumococcal disease,2010,Male,277,13.46
 Invasive pneumococcal disease,2010,Female,253,11.82
 Legionellosis,2010,Male,97,4.71
 Legionellosis,2010,Female,76,3.55
-Leprosy,2010,Male,2,0.10
+Leprosy,2010,Male,2,0.1
 Leprosy,2010,Female,1,0.05
 Leptospirosis,2010,Male,69,3.35
 Leptospirosis,2010,Female,12,0.56
 Listeriosis,2010,Male,8,0.39
-Listeriosis,2010,Female,9,0.42
-Listeriosis - perinatal,2010,Male,0,0.00
-Listeriosis - perinatal,2010,Female,6,0.28
+Listeriosis,2010,Female,15,0.7
 Malaria,2010,Male,34,1.65
 Malaria,2010,Female,10,0.47
 Measles,2010,Male,27,1.31
 Measles,2010,Female,21,0.98
 Meningococcal disease,2010,Male,48,2.33
 Meningococcal disease,2010,Female,49,2.29
-Meningoencephalitis - primary amoebic,2010,Male,0,0.00
-Meningoencephalitis - primary amoebic,2010,Female,0,0.00
+Meningoencephalitis - primary amoebic,2010,Male,0,0
+Meningoencephalitis - primary amoebic,2010,Female,0,0
+Mpox,2010,Male,0,0
+Mpox,2010,Female,0,0
 Mumps,2010,Male,16,0.78
 Mumps,2010,Female,25,1.17
-Murine Typhus,2010,Male,5,0.24
-Murine Typhus,2010,Female,8,0.37
-Neurologic shellfish poisoning,2010,Male,0,0.00
-Neurologic shellfish poisoning,2010,Female,0,0.00
-Paralytic shellfish poisoning,2010,Male,2,0.10
-Paralytic shellfish poisoning,2010,Female,0,0.00
 Paratyphoid fever,2010,Male,8,0.39
 Paratyphoid fever,2010,Female,11,0.51
 Pertussis,2010,Male,351,17.06
 Pertussis,2010,Female,521,24.35
-Poliomyelitis,2010,Male,0,0.00
-Poliomyelitis,2010,Female,0,0.00
+Poliomyelitis,2010,Male,0,0
+Poliomyelitis,2010,Female,0,0
 Q fever,2010,Male,1,0.05
-Q fever,2010,Female,0,0.00
-Rheumatic fever - initial attack,2010,Male,73,3.55
-Rheumatic fever - initial attack,2010,Female,79,3.69
-Rheumatic fever - recurrent attack,2010,Male,5,0.24
-Rheumatic fever - recurrent attack,2010,Female,8,0.37
-Rickettsial disease,2010,Male,0,0.00
-Rickettsial disease,2010,Female,0,0.00
-Ross River virus infection,2010,Male,2,0.10
-Ross River virus infection,2010,Female,3,0.14
-Rubella,2010,Male,2,0.10
+Q fever,2010,Female,0,0
+Rabies and other lyssaviruses,2010,Male,0,0
+Rabies and other lyssaviruses,2010,Female,0,0
+Rheumatic fever,2010,Male,78,3.79
+Rheumatic fever,2010,Female,87,4.07
+Rickettsial disease,2010,Male,5,0.24
+Rickettsial disease,2010,Female,8,0.37
+Rubella,2010,Male,2,0.1
 Rubella,2010,Female,2,0.09
 Salmonellosis,2010,Male,565,27.46
 Salmonellosis,2010,Female,578,27.01
 Shigellosis,2010,Male,50,2.43
 Shigellosis,2010,Female,54,2.52
-Taeniasis,2010,Male,2,0.10
+Taeniasis,2010,Male,2,0.1
 Taeniasis,2010,Female,1,0.05
 Tetanus,2010,Male,3,0.15
 Tetanus,2010,Female,4,0.19
-Toxic shellfish poisoning,2010,Male,1,0.05
+Toxic shellfish poisoning,2010,Male,3,0.15
 Toxic shellfish poisoning,2010,Female,6,0.28
-Trichinellosis,2010,Male,0,0.00
-Trichinellosis,2010,Female,0,0.00
-Tuberculosis disease - new case,2010,Male,147,7.14
-Tuberculosis disease - new case,2010,Female,146,6.82
-Tuberculosis disease - relapse or reactivation,2010,Male,7,0.34
-Tuberculosis disease - relapse or reactivation,2010,Female,4,0.19
+Trichinosis,2010,Male,0,0
+Trichinosis,2010,Female,0,0
+Tuberculosis disease,2010,Male,154,7.48
+Tuberculosis disease,2010,Female,150,7.01
 Typhoid fever,2010,Male,18,0.87
 Typhoid fever,2010,Female,13,0.61
-Typhus,2010,Male,0,0.00
-Typhus,2010,Female,0,0.00
 VTEC/STEC infection,2010,Male,67,3.26
 VTEC/STEC infection,2010,Female,70,3.27
 Yersiniosis,2010,Male,225,10.93
 Yersiniosis,2010,Female,181,8.46
-Zika virus,2010,Male,0,0.00
-Zika virus,2010,Female,0,0.00
-Amnesic shellfish poisoning,2011,Male,0,0.00
-Amnesic shellfish poisoning,2011,Female,0,0.00
-Barmah Forest virus infection,2011,Male,0,0.00
-Barmah Forest virus infection,2011,Female,0,0.00
-Brucellosis,2011,Male,0,0.00
-Brucellosis,2011,Female,0,0.00
-Campylobacteriosis,2011,Male,3783,182.20
+Acute gastroenteritis,2011,Male,249,11.99
+Acute gastroenteritis,2011,Female,307,14.24
+Arboviral diseases,2011,Male,24,1.16
+Arboviral diseases,2011,Female,22,1.02
+Brucellosis,2011,Male,0,0
+Brucellosis,2011,Female,0,0
+Campylobacteriosis,2011,Male,3783,182.2
 Campylobacteriosis,2011,Female,2899,134.44
-Chikungunya fever,2011,Male,1,0.05
-Chikungunya fever,2011,Female,0,0.00
-Cholera,2011,Male,0,0.00
-Cholera,2011,Female,0,0.00
+Cholera,2011,Male,0,0
+Cholera,2011,Female,0,0
 Cryptosporidiosis,2011,Male,291,14.02
 Cryptosporidiosis,2011,Female,318,14.75
-Cysticercosis,2011,Male,0,0.00
-Cysticercosis,2011,Female,0,0.00
-Dengue fever,2011,Male,22,1.06
-Dengue fever,2011,Female,20,0.93
-Diarrhoeic shellfish poisoning,2011,Male,1,0.05
-Diarrhoeic shellfish poisoning,2011,Female,0,0.00
-Diphtheria,2011,Male,0,0.00
-Diphtheria,2011,Female,0,0.00
-Gastroenteritis - unknown cause,2011,Male,163,7.85
-Gastroenteritis - unknown cause,2011,Female,202,9.37
-Gastroenteritis / foodborne intoxication,2011,Male,86,4.14
-Gastroenteritis / foodborne intoxication,2011,Female,105,4.87
+Cysticercosis,2011,Male,0,0
+Cysticercosis,2011,Female,0,0
+Diphtheria,2011,Male,0,0
+Diphtheria,2011,Female,0,0
 Giardiasis,2011,Male,941,45.32
 Giardiasis,2011,Female,991,45.96
 Haemophilus influenzae type b,2011,Male,4,0.19
@@ -603,46 +473,38 @@ Invasive pneumococcal disease,2011,Male,279,13.44
 Invasive pneumococcal disease,2011,Female,260,12.06
 Legionellosis,2011,Male,102,4.91
 Legionellosis,2011,Female,55,2.55
-Leprosy,2011,Male,0,0.00
+Leprosy,2011,Male,0,0
 Leprosy,2011,Female,1,0.05
 Leptospirosis,2011,Male,61,2.94
 Leptospirosis,2011,Female,7,0.32
 Listeriosis,2011,Male,12,0.58
-Listeriosis,2011,Female,10,0.46
-Listeriosis - perinatal,2011,Male,0,0.00
-Listeriosis - perinatal,2011,Female,4,0.19
+Listeriosis,2011,Female,14,0.65
 Malaria,2011,Male,39,1.88
-Malaria,2011,Female,13,0.60
+Malaria,2011,Female,13,0.6
 Measles,2011,Male,336,16.18
 Measles,2011,Female,260,12.06
 Meningococcal disease,2011,Male,65,3.13
-Meningococcal disease,2011,Female,54,2.50
-Meningoencephalitis - primary amoebic,2011,Male,0,0.00
-Meningoencephalitis - primary amoebic,2011,Female,0,0.00
-Mumps,2011,Male,27,1.30
+Meningococcal disease,2011,Female,54,2.5
+Meningoencephalitis - primary amoebic,2011,Male,0,0
+Meningoencephalitis - primary amoebic,2011,Female,0,0
+Mpox,2011,Male,0,0
+Mpox,2011,Female,0,0
+Mumps,2011,Male,27,1.3
 Mumps,2011,Female,24,1.11
-Murine Typhus,2011,Male,3,0.14
-Murine Typhus,2011,Female,2,0.09
-Neurologic shellfish poisoning,2011,Male,1,0.05
-Neurologic shellfish poisoning,2011,Female,0,0.00
-Paralytic shellfish poisoning,2011,Male,1,0.05
-Paralytic shellfish poisoning,2011,Female,0,0.00
 Paratyphoid fever,2011,Male,7,0.34
 Paratyphoid fever,2011,Female,6,0.28
 Pertussis,2011,Male,842,40.55
 Pertussis,2011,Female,1153,53.47
-Poliomyelitis,2011,Male,0,0.00
-Poliomyelitis,2011,Female,0,0.00
+Poliomyelitis,2011,Male,0,0
+Poliomyelitis,2011,Female,0,0
 Q fever,2011,Male,1,0.05
-Q fever,2011,Female,0,0.00
-Rheumatic fever - initial attack,2011,Male,91,4.38
-Rheumatic fever - initial attack,2011,Female,65,3.01
-Rheumatic fever - recurrent attack,2011,Male,2,0.10
-Rheumatic fever - recurrent attack,2011,Female,7,0.32
-Rickettsial disease,2011,Male,0,0.00
-Rickettsial disease,2011,Female,0,0.00
-Ross River virus infection,2011,Male,1,0.05
-Ross River virus infection,2011,Female,2,0.09
+Q fever,2011,Female,0,0
+Rabies and other lyssaviruses,2011,Male,0,0
+Rabies and other lyssaviruses,2011,Female,0,0
+Rheumatic fever,2011,Male,93,4.48
+Rheumatic fever,2011,Female,72,3.34
+Rickettsial disease,2011,Male,3,0.14
+Rickettsial disease,2011,Female,2,0.09
 Rubella,2011,Male,16,0.77
 Rubella,2011,Female,6,0.28
 Salmonellosis,2011,Male,561,27.02
@@ -651,112 +513,88 @@ Shigellosis,2011,Male,50,2.41
 Shigellosis,2011,Female,51,2.37
 Taeniasis,2011,Male,5,0.24
 Taeniasis,2011,Female,4,0.19
-Tetanus,2011,Male,0,0.00
-Tetanus,2011,Female,0,0.00
-Toxic shellfish poisoning,2011,Male,0,0.00
-Toxic shellfish poisoning,2011,Female,0,0.00
-Trichinellosis,2011,Male,0,0.00
-Trichinellosis,2011,Female,0,0.00
-Tuberculosis disease - new case,2011,Male,153,7.37
-Tuberculosis disease - new case,2011,Female,148,6.86
-Tuberculosis disease - relapse or reactivation,2011,Male,3,0.14
-Tuberculosis disease - relapse or reactivation,2011,Female,3,0.14
+Tetanus,2011,Male,0,0
+Tetanus,2011,Female,0,0
+Toxic shellfish poisoning,2011,Male,3,0.14
+Toxic shellfish poisoning,2011,Female,0,0
+Trichinosis,2011,Male,0,0
+Trichinosis,2011,Female,0,0
+Tuberculosis disease,2011,Male,156,7.51
+Tuberculosis disease,2011,Female,151,7
 Typhoid fever,2011,Male,23,1.11
 Typhoid fever,2011,Female,22,1.02
-Typhus,2011,Male,0,0.00
-Typhus,2011,Female,0,0.00
 VTEC/STEC infection,2011,Male,69,3.32
-VTEC/STEC infection,2011,Female,84,3.90
+VTEC/STEC infection,2011,Female,84,3.9
 Yersiniosis,2011,Male,263,12.67
 Yersiniosis,2011,Female,250,11.59
-Zika virus,2011,Male,0,0.00
-Zika virus,2011,Female,0,0.00
-Amnesic shellfish poisoning,2012,Male,0,0.00
-Amnesic shellfish poisoning,2012,Female,0,0.00
-Barmah Forest virus infection,2012,Male,0,0.00
-Barmah Forest virus infection,2012,Female,0,0.00
-Brucellosis,2012,Male,0,0.00
-Brucellosis,2012,Female,0,0.00
+Acute gastroenteritis,2012,Male,313,14.97
+Acute gastroenteritis,2012,Female,422,19.47
+Arboviral diseases,2012,Male,41,1.96
+Arboviral diseases,2012,Female,36,1.66
+Brucellosis,2012,Male,0,0
+Brucellosis,2012,Female,0,0
 Campylobacteriosis,2012,Male,3930,187.99
 Campylobacteriosis,2012,Female,3086,142.35
-Chikungunya fever,2012,Male,0,0.00
-Chikungunya fever,2012,Female,0,0.00
-Cholera,2012,Male,0,0.00
-Cholera,2012,Female,0,0.00
+Cholera,2012,Male,0,0
+Cholera,2012,Female,0,0
 Cryptosporidiosis,2012,Male,452,21.62
-Cryptosporidiosis,2012,Female,425,19.60
-Cysticercosis,2012,Male,0,0.00
-Cysticercosis,2012,Female,0,0.00
-Dengue fever,2012,Male,41,1.96
-Dengue fever,2012,Female,35,1.61
-Diarrhoeic shellfish poisoning,2012,Male,0,0.00
-Diarrhoeic shellfish poisoning,2012,Female,0,0.00
-Diphtheria,2012,Male,0,0.00
-Diphtheria,2012,Female,0,0.00
-Gastroenteritis - unknown cause,2012,Male,181,8.66
-Gastroenteritis - unknown cause,2012,Female,258,11.90
-Gastroenteritis / foodborne intoxication,2012,Male,132,6.31
-Gastroenteritis / foodborne intoxication,2012,Female,164,7.56
+Cryptosporidiosis,2012,Female,425,19.6
+Cysticercosis,2012,Male,0,0
+Cysticercosis,2012,Female,0,0
+Diphtheria,2012,Male,0,0
+Diphtheria,2012,Female,0,0
 Giardiasis,2012,Male,808,38.65
 Giardiasis,2012,Female,905,41.74
 Haemophilus influenzae type b,2012,Male,1,0.05
 Haemophilus influenzae type b,2012,Female,3,0.14
 Hepatitis A,2012,Male,45,2.15
 Hepatitis A,2012,Female,37,1.71
-Hepatitis B,2012,Male,25,1.20
+Hepatitis B,2012,Male,25,1.2
 Hepatitis B,2012,Female,14,0.65
 Hepatitis C,2012,Male,16,0.77
 Hepatitis C,2012,Female,15,0.69
-Hepatitis NOS,2012,Male,2,0.10
-Hepatitis NOS,2012,Female,0,0.00
+Hepatitis NOS,2012,Male,2,0.1
+Hepatitis NOS,2012,Female,0,0
 Hydatid disease,2012,Male,1,0.05
-Hydatid disease,2012,Female,0,0.00
+Hydatid disease,2012,Female,0,0
 Invasive pneumococcal disease,2012,Male,254,12.15
 Invasive pneumococcal disease,2012,Female,224,10.33
 Legionellosis,2012,Male,96,4.59
 Legionellosis,2012,Female,53,2.44
-Leprosy,2012,Male,2,0.10
-Leprosy,2012,Female,0,0.00
+Leprosy,2012,Male,2,0.1
+Leprosy,2012,Female,0,0
 Leptospirosis,2012,Male,101,4.83
 Leptospirosis,2012,Female,7,0.32
 Listeriosis,2012,Male,11,0.53
-Listeriosis,2012,Female,12,0.55
-Listeriosis - perinatal,2012,Male,0,0.00
-Listeriosis - perinatal,2012,Female,2,0.09
+Listeriosis,2012,Female,14,0.65
 Malaria,2012,Male,32,1.53
 Malaria,2012,Female,5,0.23
 Measles,2012,Male,33,1.58
 Measles,2012,Female,35,1.61
 Meningococcal disease,2012,Male,41,1.96
 Meningococcal disease,2012,Female,44,2.03
-Meningoencephalitis - primary amoebic,2012,Male,0,0.00
-Meningoencephalitis - primary amoebic,2012,Female,0,0.00
+Meningoencephalitis - primary amoebic,2012,Male,0,0
+Meningoencephalitis - primary amoebic,2012,Female,0,0
+Mpox,2012,Male,0,0
+Mpox,2012,Female,0,0
 Mumps,2012,Male,11,0.53
 Mumps,2012,Female,15,0.69
-Murine Typhus,2012,Male,1,0.05
-Murine Typhus,2012,Female,2,0.09
-Neurologic shellfish poisoning,2012,Male,0,0.00
-Neurologic shellfish poisoning,2012,Female,0,0.00
-Paralytic shellfish poisoning,2012,Male,15,0.72
-Paralytic shellfish poisoning,2012,Female,15,0.69
 Paratyphoid fever,2012,Male,14,0.67
 Paratyphoid fever,2012,Female,8,0.37
 Pertussis,2012,Male,2537,121.35
 Pertussis,2012,Female,3360,154.98
-Poliomyelitis,2012,Male,0,0.00
-Poliomyelitis,2012,Female,0,0.00
-Q fever,2012,Male,0,0.00
-Q fever,2012,Female,0,0.00
-Rheumatic fever - initial attack,2012,Male,93,4.45
-Rheumatic fever - initial attack,2012,Female,70,3.23
-Rheumatic fever - recurrent attack,2012,Male,6,0.29
-Rheumatic fever - recurrent attack,2012,Female,9,0.42
-Rickettsial disease,2012,Male,0,0.00
-Rickettsial disease,2012,Female,1,0.05
-Ross River virus infection,2012,Male,0,0.00
-Ross River virus infection,2012,Female,1,0.05
+Poliomyelitis,2012,Male,0,0
+Poliomyelitis,2012,Female,0,0
+Q fever,2012,Male,0,0
+Q fever,2012,Female,0,0
+Rabies and other lyssaviruses,2012,Male,0,0
+Rabies and other lyssaviruses,2012,Female,0,0
+Rheumatic fever,2012,Male,99,4.74
+Rheumatic fever,2012,Female,79,3.64
+Rickettsial disease,2012,Male,1,0.05
+Rickettsial disease,2012,Female,3,0.14
 Rubella,2012,Male,4,0.19
-Rubella,2012,Female,0,0.00
+Rubella,2012,Female,0,0
 Salmonellosis,2012,Male,559,26.74
 Salmonellosis,2012,Female,522,24.08
 Shigellosis,2012,Male,62,2.97
@@ -765,162 +603,122 @@ Taeniasis,2012,Male,4,0.19
 Taeniasis,2012,Female,2,0.09
 Tetanus,2012,Male,1,0.05
 Tetanus,2012,Female,1,0.05
-Toxic shellfish poisoning,2012,Male,0,0.00
-Toxic shellfish poisoning,2012,Female,0,0.00
-Trichinellosis,2012,Male,0,0.00
-Trichinellosis,2012,Female,0,0.00
-Tuberculosis disease - new case,2012,Male,147,7.03
-Tuberculosis disease - new case,2012,Female,131,6.04
-Tuberculosis disease - relapse or reactivation,2012,Male,7,0.33
-Tuberculosis disease - relapse or reactivation,2012,Female,6,0.28
-Typhoid fever,2012,Male,25,1.20
+Toxic shellfish poisoning,2012,Male,15,0.72
+Toxic shellfish poisoning,2012,Female,15,0.69
+Trichinosis,2012,Male,0,0
+Trichinosis,2012,Female,0,0
+Tuberculosis disease,2012,Male,154,7.37
+Tuberculosis disease,2012,Female,137,6.32
+Typhoid fever,2012,Male,25,1.2
 Typhoid fever,2012,Female,19,0.88
-Typhus,2012,Male,0,0.00
-Typhus,2012,Female,0,0.00
 VTEC/STEC infection,2012,Male,74,3.54
 VTEC/STEC infection,2012,Female,73,3.37
 Yersiniosis,2012,Male,280,13.39
 Yersiniosis,2012,Female,233,10.75
-Zika virus,2012,Male,0,0.00
-Zika virus,2012,Female,0,0.00
-Amnesic shellfish poisoning,2013,Male,0,0.00
-Amnesic shellfish poisoning,2013,Female,0,0.00
-Barmah Forest virus infection,2013,Male,0,0.00
-Barmah Forest virus infection,2013,Female,0,0.00
+Acute gastroenteritis,2013,Male,247,11.37
+Acute gastroenteritis,2013,Female,310,13.66
+Arboviral diseases,2013,Male,70,3.22
+Arboviral diseases,2013,Female,40,1.76
 Brucellosis,2013,Male,1,0.05
-Brucellosis,2013,Female,0,0.00
-Campylobacteriosis,2013,Male,3833,176.50
+Brucellosis,2013,Female,0,0
+Campylobacteriosis,2013,Male,3833,176.5
 Campylobacteriosis,2013,Female,3004,132.36
-Chikungunya fever,2013,Male,0,0.00
-Chikungunya fever,2013,Female,1,0.04
-Cholera,2013,Male,0,0.00
-Cholera,2013,Female,0,0.00
+Cholera,2013,Male,0,0
+Cholera,2013,Female,0,0
 Cryptosporidiosis,2013,Male,618,28.46
 Cryptosporidiosis,2013,Female,729,32.12
-Cysticercosis,2013,Male,0,0.00
+Cysticercosis,2013,Male,0,0
 Cysticercosis,2013,Female,1,0.04
-Dengue fever,2013,Male,67,3.09
-Dengue fever,2013,Female,39,1.72
-Diarrhoeic shellfish poisoning,2013,Male,0,0.00
-Diarrhoeic shellfish poisoning,2013,Female,0,0.00
-Diphtheria,2013,Male,0,0.00
-Diphtheria,2013,Female,0,0.00
-Gastroenteritis - unknown cause,2013,Male,161,7.41
-Gastroenteritis - unknown cause,2013,Female,209,9.21
-Gastroenteritis / foodborne intoxication,2013,Male,86,3.96
-Gastroenteritis / foodborne intoxication,2013,Female,101,4.45
+Diphtheria,2013,Male,0,0
+Diphtheria,2013,Female,0,0
 Giardiasis,2013,Male,858,39.51
 Giardiasis,2013,Female,871,38.38
-Haemophilus influenzae type b,2013,Male,0,0.00
+Haemophilus influenzae type b,2013,Male,0,0
 Haemophilus influenzae type b,2013,Female,2,0.09
 Hepatitis A,2013,Male,41,1.89
-Hepatitis A,2013,Female,50,2.20
+Hepatitis A,2013,Female,50,2.2
 Hepatitis B,2013,Male,18,0.83
 Hepatitis B,2013,Female,10,0.44
 Hepatitis C,2013,Male,20,0.92
-Hepatitis C,2013,Female,16,0.70
-Hepatitis NOS,2013,Male,0,0.00
+Hepatitis C,2013,Female,16,0.7
+Hepatitis NOS,2013,Male,0,0
 Hepatitis NOS,2013,Female,1,0.04
 Hydatid disease,2013,Male,4,0.18
 Hydatid disease,2013,Female,3,0.13
 Invasive pneumococcal disease,2013,Male,245,11.28
-Invasive pneumococcal disease,2013,Female,227,10.00
+Invasive pneumococcal disease,2013,Female,227,10
 Legionellosis,2013,Male,101,4.65
-Legionellosis,2013,Female,50,2.20
+Legionellosis,2013,Female,50,2.2
 Leprosy,2013,Male,6,0.28
 Leprosy,2013,Female,1,0.04
 Leptospirosis,2013,Male,53,2.44
 Leptospirosis,2013,Female,7,0.31
 Listeriosis,2013,Male,7,0.32
-Listeriosis,2013,Female,7,0.31
-Listeriosis - perinatal,2013,Male,0,0.00
-Listeriosis - perinatal,2013,Female,5,0.22
+Listeriosis,2013,Female,12,0.53
 Malaria,2013,Male,32,1.47
 Malaria,2013,Female,15,0.66
 Measles,2013,Male,3,0.14
 Measles,2013,Female,5,0.22
 Meningococcal disease,2013,Male,34,1.57
-Meningococcal disease,2013,Female,34,1.50
-Meningoencephalitis - primary amoebic,2013,Male,0,0.00
-Meningoencephalitis - primary amoebic,2013,Female,0,0.00
-Mumps,2013,Male,13,0.60
+Meningococcal disease,2013,Female,34,1.5
+Meningoencephalitis - primary amoebic,2013,Male,0,0
+Meningoencephalitis - primary amoebic,2013,Female,0,0
+Mpox,2013,Male,0,0
+Mpox,2013,Female,0,0
+Mumps,2013,Male,13,0.6
 Mumps,2013,Female,10,0.44
-Murine Typhus,2013,Male,2,0.09
-Murine Typhus,2013,Female,2,0.09
-Neurologic shellfish poisoning,2013,Male,0,0.00
-Neurologic shellfish poisoning,2013,Female,0,0.00
-Paralytic shellfish poisoning,2013,Male,0,0.00
-Paralytic shellfish poisoning,2013,Female,1,0.04
 Paratyphoid fever,2013,Male,14,0.64
 Paratyphoid fever,2013,Female,11,0.48
 Pertussis,2013,Male,1527,70.31
 Pertussis,2013,Female,2012,88.65
-Poliomyelitis,2013,Male,0,0.00
-Poliomyelitis,2013,Female,0,0.00
-Q fever,2013,Male,0,0.00
-Q fever,2013,Female,0,0.00
-Rheumatic fever - initial attack,2013,Male,109,5.02
-Rheumatic fever - initial attack,2013,Female,83,3.66
-Rheumatic fever - recurrent attack,2013,Male,5,0.23
-Rheumatic fever - recurrent attack,2013,Female,6,0.26
-Rickettsial disease,2013,Male,3,0.14
-Rickettsial disease,2013,Female,2,0.09
-Ross River virus infection,2013,Male,3,0.14
-Ross River virus infection,2013,Female,0,0.00
-Rubella,2013,Male,0,0.00
+Poliomyelitis,2013,Male,0,0
+Poliomyelitis,2013,Female,0,0
+Q fever,2013,Male,0,0
+Q fever,2013,Female,0,0
+Rabies and other lyssaviruses,2013,Male,0,0
+Rabies and other lyssaviruses,2013,Female,0,0
+Rheumatic fever,2013,Male,114,5.25
+Rheumatic fever,2013,Female,89,3.92
+Rickettsial disease,2013,Male,5,0.23
+Rickettsial disease,2013,Female,4,0.18
+Rubella,2013,Male,0,0
 Rubella,2013,Female,1,0.04
-Salmonellosis,2013,Male,582,26.80
+Salmonellosis,2013,Male,582,26.8
 Salmonellosis,2013,Female,561,24.72
 Shigellosis,2013,Male,58,2.67
 Shigellosis,2013,Female,79,3.48
 Taeniasis,2013,Male,3,0.14
 Taeniasis,2013,Female,3,0.13
-Tetanus,2013,Male,0,0.00
+Tetanus,2013,Male,0,0
 Tetanus,2013,Female,1,0.04
-Toxic shellfish poisoning,2013,Male,0,0.00
-Toxic shellfish poisoning,2013,Female,0,0.00
-Trichinellosis,2013,Male,0,0.00
-Trichinellosis,2013,Female,0,0.00
-Tuberculosis disease - new case,2013,Male,139,6.40
-Tuberculosis disease - new case,2013,Female,123,5.42
-Tuberculosis disease - relapse or reactivation,2013,Male,5,0.23
-Tuberculosis disease - relapse or reactivation,2013,Female,7,0.31
+Toxic shellfish poisoning,2013,Male,0,0
+Toxic shellfish poisoning,2013,Female,1,0.04
+Trichinosis,2013,Male,0,0
+Trichinosis,2013,Female,0,0
+Tuberculosis disease,2013,Male,144,6.63
+Tuberculosis disease,2013,Female,130,5.73
 Typhoid fever,2013,Male,31,1.43
 Typhoid fever,2013,Female,19,0.84
-Typhus,2013,Male,0,0.00
-Typhus,2013,Female,0,0.00
 VTEC/STEC infection,2013,Male,85,3.91
 VTEC/STEC infection,2013,Female,120,5.29
 Yersiniosis,2013,Male,255,11.74
 Yersiniosis,2013,Female,228,10.05
-Zika virus,2013,Male,0,0.00
-Zika virus,2013,Female,0,0.00
-Amnesic shellfish poisoning,2014,Male,0,0.00
-Amnesic shellfish poisoning,2014,Female,0,0.00
-Barmah Forest virus infection,2014,Male,0,0.00
-Barmah Forest virus infection,2014,Female,0,0.00
-Brucellosis,2014,Male,0,0.00
-Brucellosis,2014,Female,0,0.00
+Acute gastroenteritis,2014,Male,322,14.58
+Acute gastroenteritis,2014,Female,434,18.88
+Arboviral diseases,2014,Male,149,6.75
+Arboviral diseases,2014,Female,131,5.7
+Brucellosis,2014,Male,0,0
+Brucellosis,2014,Female,0,0
 Campylobacteriosis,2014,Male,3821,173.01
 Campylobacteriosis,2014,Female,2956,128.58
-Chikungunya fever,2014,Male,23,1.04
-Chikungunya fever,2014,Female,21,0.91
-Cholera,2014,Male,0,0.00
-Cholera,2014,Female,0,0.00
+Cholera,2014,Male,0,0
+Cholera,2014,Female,0,0
 Cryptosporidiosis,2014,Male,274,12.41
 Cryptosporidiosis,2014,Female,310,13.48
 Cysticercosis,2014,Male,1,0.05
-Cysticercosis,2014,Female,0,0.00
-Dengue fever,2014,Male,103,4.66
-Dengue fever,2014,Female,75,3.26
-Diarrhoeic shellfish poisoning,2014,Male,0,0.00
-Diarrhoeic shellfish poisoning,2014,Female,0,0.00
+Cysticercosis,2014,Female,0,0
 Diphtheria,2014,Male,2,0.09
-Diphtheria,2014,Female,0,0.00
-Gastroenteritis - unknown cause,2014,Male,167,7.56
-Gastroenteritis - unknown cause,2014,Female,263,11.44
-Gastroenteritis / foodborne intoxication,2014,Male,155,7.02
-Gastroenteritis / foodborne intoxication,2014,Female,171,7.44
+Diphtheria,2014,Female,0,0
 Giardiasis,2014,Male,876,39.66
 Giardiasis,2014,Female,833,36.23
 Haemophilus influenzae type b,2014,Male,3,0.14
@@ -940,105 +738,81 @@ Invasive pneumococcal disease,2014,Female,227,9.87
 Legionellosis,2014,Male,87,3.94
 Legionellosis,2014,Female,36,1.57
 Leprosy,2014,Male,4,0.18
-Leprosy,2014,Female,0,0.00
+Leprosy,2014,Female,0,0
 Leptospirosis,2014,Male,51,2.31
 Leptospirosis,2014,Female,5,0.22
 Listeriosis,2014,Male,12,0.54
-Listeriosis,2014,Female,8,0.35
-Listeriosis - perinatal,2014,Male,0,0.00
-Listeriosis - perinatal,2014,Female,5,0.22
+Listeriosis,2014,Female,13,0.57
 Malaria,2014,Male,25,1.13
 Malaria,2014,Female,8,0.35
 Measles,2014,Male,176,7.97
 Measles,2014,Female,104,4.52
 Meningococcal disease,2014,Male,23,1.04
 Meningococcal disease,2014,Female,22,0.96
-Meningoencephalitis - primary amoebic,2014,Male,0,0.00
-Meningoencephalitis - primary amoebic,2014,Female,0,0.00
+Meningoencephalitis - primary amoebic,2014,Male,0,0
+Meningoencephalitis - primary amoebic,2014,Female,0,0
+Mpox,2014,Male,0,0
+Mpox,2014,Female,0,0
 Mumps,2014,Male,12,0.54
 Mumps,2014,Female,6,0.26
-Murine Typhus,2014,Male,6,0.27
-Murine Typhus,2014,Female,0,0.00
-Neurologic shellfish poisoning,2014,Male,0,0.00
-Neurologic shellfish poisoning,2014,Female,0,0.00
-Paralytic shellfish poisoning,2014,Male,10,0.45
-Paralytic shellfish poisoning,2014,Female,6,0.26
 Paratyphoid fever,2014,Male,7,0.32
 Paratyphoid fever,2014,Female,12,0.52
 Pertussis,2014,Male,481,21.78
 Pertussis,2014,Female,618,26.88
-Poliomyelitis,2014,Male,0,0.00
-Poliomyelitis,2014,Female,0,0.00
-Q fever,2014,Male,0,0.00
-Q fever,2014,Female,0,0.00
-Rheumatic fever - initial attack,2014,Male,101,4.57
-Rheumatic fever - initial attack,2014,Female,77,3.35
-Rheumatic fever - recurrent attack,2014,Male,11,0.50
-Rheumatic fever - recurrent attack,2014,Female,10,0.43
-Rickettsial disease,2014,Male,0,0.00
-Rickettsial disease,2014,Female,0,0.00
-Ross River virus infection,2014,Male,1,0.05
-Ross River virus infection,2014,Female,0,0.00
+Poliomyelitis,2014,Male,0,0
+Poliomyelitis,2014,Female,0,0
+Q fever,2014,Male,0,0
+Q fever,2014,Female,0,0
+Rabies and other lyssaviruses,2014,Male,0,0
+Rabies and other lyssaviruses,2014,Female,0,0
+Rheumatic fever,2014,Male,112,5.07
+Rheumatic fever,2014,Female,87,3.78
+Rickettsial disease,2014,Male,6,0.27
+Rickettsial disease,2014,Female,0,0
 Rubella,2014,Male,3,0.14
 Rubella,2014,Female,1,0.04
 Salmonellosis,2014,Male,468,21.19
 Salmonellosis,2014,Female,487,21.18
-Shigellosis,2014,Male,75,3.40
+Shigellosis,2014,Male,75,3.4
 Shigellosis,2014,Female,53,2.31
-Taeniasis,2014,Male,0,0.00
+Taeniasis,2014,Male,0,0
 Taeniasis,2014,Female,5,0.22
-Tetanus,2014,Male,0,0.00
-Tetanus,2014,Female,0,0.00
-Toxic shellfish poisoning,2014,Male,2,0.09
-Toxic shellfish poisoning,2014,Female,0,0.00
-Trichinellosis,2014,Male,0,0.00
-Trichinellosis,2014,Female,0,0.00
-Tuberculosis disease - new case,2014,Male,169,7.65
-Tuberculosis disease - new case,2014,Female,119,5.18
-Tuberculosis disease - relapse or reactivation,2014,Male,7,0.32
-Tuberculosis disease - relapse or reactivation,2014,Female,6,0.26
+Tetanus,2014,Male,0,0
+Tetanus,2014,Female,0,0
+Toxic shellfish poisoning,2014,Male,12,0.54
+Toxic shellfish poisoning,2014,Female,6,0.26
+Trichinosis,2014,Male,0,0
+Trichinosis,2014,Female,0,0
+Tuberculosis disease,2014,Male,176,7.97
+Tuberculosis disease,2014,Female,125,5.44
 Typhoid fever,2014,Male,25,1.13
 Typhoid fever,2014,Female,18,0.78
-Typhus,2014,Male,0,0.00
-Typhus,2014,Female,0,0.00
 VTEC/STEC infection,2014,Male,80,3.62
 VTEC/STEC infection,2014,Female,107,4.65
 Yersiniosis,2014,Male,342,15.49
-Yersiniosis,2014,Female,338,14.70
-Zika virus,2014,Male,22,1.00
-Zika virus,2014,Female,35,1.52
-Amnesic shellfish poisoning,2015,Male,0,0.00
-Amnesic shellfish poisoning,2015,Female,0,0.00
-Barmah Forest virus infection,2015,Male,0,0.00
-Barmah Forest virus infection,2015,Female,0,0.00
+Yersiniosis,2014,Female,338,14.7
+Acute gastroenteritis,2015,Male,225,9.97
+Acute gastroenteritis,2015,Female,278,11.9
+Arboviral diseases,2015,Male,90,3.99
+Arboviral diseases,2015,Female,96,4.11
 Brucellosis,2015,Male,1,0.04
-Brucellosis,2015,Female,0,0.00
+Brucellosis,2015,Female,0,0
 Campylobacteriosis,2015,Male,3466,153.62
 Campylobacteriosis,2015,Female,2749,117.62
-Chikungunya fever,2015,Male,21,0.93
-Chikungunya fever,2015,Female,27,1.16
-Cholera,2015,Male,0,0.00
-Cholera,2015,Female,0,0.00
+Cholera,2015,Male,0,0
+Cholera,2015,Female,0,0
 Cryptosporidiosis,2015,Male,315,13.96
-Cryptosporidiosis,2015,Female,381,16.30
+Cryptosporidiosis,2015,Female,381,16.3
 Cysticercosis,2015,Male,1,0.04
-Cysticercosis,2015,Female,0,0.00
-Dengue fever,2015,Male,63,2.79
-Dengue fever,2015,Female,62,2.65
-Diarrhoeic shellfish poisoning,2015,Male,0,0.00
-Diarrhoeic shellfish poisoning,2015,Female,0,0.00
-Diphtheria,2015,Male,0,0.00
+Cysticercosis,2015,Female,0,0
+Diphtheria,2015,Male,0,0
 Diphtheria,2015,Female,2,0.09
-Gastroenteritis - unknown cause,2015,Male,141,6.25
-Gastroenteritis - unknown cause,2015,Female,179,7.66
-Gastroenteritis / foodborne intoxication,2015,Male,84,3.72
-Gastroenteritis / foodborne intoxication,2015,Female,99,4.24
 Giardiasis,2015,Male,793,35.15
 Giardiasis,2015,Female,717,30.68
 Haemophilus influenzae type b,2015,Male,2,0.09
 Haemophilus influenzae type b,2015,Female,1,0.04
 Hepatitis A,2015,Male,19,0.84
-Hepatitis A,2015,Female,28,1.20
+Hepatitis A,2015,Female,28,1.2
 Hepatitis B,2015,Male,24,1.06
 Hepatitis B,2015,Female,10,0.43
 Hepatitis C,2015,Male,16,0.71
@@ -1048,7 +822,7 @@ Hepatitis NOS,2015,Female,2,0.09
 Hydatid disease,2015,Male,2,0.09
 Hydatid disease,2015,Female,2,0.09
 Invasive pneumococcal disease,2015,Male,238,10.55
-Invasive pneumococcal disease,2015,Female,208,8.90
+Invasive pneumococcal disease,2015,Female,208,8.9
 Legionellosis,2015,Male,148,6.56
 Legionellosis,2015,Female,98,4.19
 Leprosy,2015,Male,4,0.18
@@ -1056,95 +830,71 @@ Leprosy,2015,Female,1,0.04
 Leptospirosis,2015,Male,60,2.66
 Leptospirosis,2015,Female,3,0.13
 Listeriosis,2015,Male,11,0.49
-Listeriosis,2015,Female,7,0.30
-Listeriosis - perinatal,2015,Male,0,0.00
-Listeriosis - perinatal,2015,Female,8,0.34
+Listeriosis,2015,Female,15,0.64
 Malaria,2015,Male,26,1.15
 Malaria,2015,Female,12,0.51
 Measles,2015,Male,7,0.31
 Measles,2015,Female,3,0.13
 Meningococcal disease,2015,Male,43,1.91
-Meningococcal disease,2015,Female,21,0.90
-Meningoencephalitis - primary amoebic,2015,Male,0,0.00
-Meningoencephalitis - primary amoebic,2015,Female,0,0.00
+Meningococcal disease,2015,Female,21,0.9
+Meningoencephalitis - primary amoebic,2015,Male,0,0
+Meningoencephalitis - primary amoebic,2015,Female,0,0
+Mpox,2015,Male,0,0
+Mpox,2015,Female,0,0
 Mumps,2015,Male,10,0.44
 Mumps,2015,Female,3,0.13
-Murine Typhus,2015,Male,6,0.27
-Murine Typhus,2015,Female,1,0.04
-Neurologic shellfish poisoning,2015,Male,0,0.00
-Neurologic shellfish poisoning,2015,Female,0,0.00
-Paralytic shellfish poisoning,2015,Male,0,0.00
-Paralytic shellfish poisoning,2015,Female,0,0.00
 Paratyphoid fever,2015,Male,15,0.66
 Paratyphoid fever,2015,Female,19,0.81
 Pertussis,2015,Male,540,23.93
 Pertussis,2015,Female,628,26.87
-Poliomyelitis,2015,Male,0,0.00
-Poliomyelitis,2015,Female,0,0.00
-Q fever,2015,Male,0,0.00
-Q fever,2015,Female,0,0.00
-Rheumatic fever - initial attack,2015,Male,52,2.30
-Rheumatic fever - initial attack,2015,Female,52,2.22
-Rheumatic fever - recurrent attack,2015,Male,4,0.18
-Rheumatic fever - recurrent attack,2015,Female,3,0.13
-Rickettsial disease,2015,Male,0,0.00
-Rickettsial disease,2015,Female,1,0.04
-Ross River virus infection,2015,Male,2,0.09
-Ross River virus infection,2015,Female,2,0.09
-Rubella,2015,Male,0,0.00
-Rubella,2015,Female,0,0.00
+Poliomyelitis,2015,Male,0,0
+Poliomyelitis,2015,Female,0,0
+Q fever,2015,Male,0,0
+Q fever,2015,Female,0,0
+Rabies and other lyssaviruses,2015,Male,0,0
+Rabies and other lyssaviruses,2015,Female,0,0
+Rheumatic fever,2015,Male,56,2.48
+Rheumatic fever,2015,Female,55,2.35
+Rickettsial disease,2015,Male,6,0.27
+Rickettsial disease,2015,Female,2,0.09
+Rubella,2015,Male,0,0
+Rubella,2015,Female,0,0
 Salmonellosis,2015,Male,516,22.87
 Salmonellosis,2015,Female,535,22.89
 Shigellosis,2015,Male,62,2.75
-Shigellosis,2015,Female,49,2.10
+Shigellosis,2015,Female,49,2.1
 Taeniasis,2015,Male,2,0.09
 Taeniasis,2015,Female,3,0.13
-Tetanus,2015,Male,0,0.00
+Tetanus,2015,Male,0,0
 Tetanus,2015,Female,1,0.04
 Toxic shellfish poisoning,2015,Male,2,0.09
 Toxic shellfish poisoning,2015,Female,1,0.04
-Trichinellosis,2015,Male,0,0.00
-Trichinellosis,2015,Female,0,0.00
-Tuberculosis disease - new case,2015,Male,155,6.87
-Tuberculosis disease - new case,2015,Female,130,5.56
-Tuberculosis disease - relapse or reactivation,2015,Male,3,0.13
-Tuberculosis disease - relapse or reactivation,2015,Female,5,0.21
+Trichinosis,2015,Male,0,0
+Trichinosis,2015,Female,0,0
+Tuberculosis disease,2015,Male,158,7
+Tuberculosis disease,2015,Female,135,5.78
 Typhoid fever,2015,Male,23,1.02
 Typhoid fever,2015,Female,20,0.86
-Typhus,2015,Male,0,0.00
-Typhus,2015,Female,0,0.00
 VTEC/STEC infection,2015,Male,162,7.18
 VTEC/STEC infection,2015,Female,168,7.19
 Yersiniosis,2015,Male,295,13.08
 Yersiniosis,2015,Female,339,14.51
-Zika virus,2015,Male,4,0.18
-Zika virus,2015,Female,5,0.21
-Amnesic shellfish poisoning,2016,Male,0,0.00
-Amnesic shellfish poisoning,2016,Female,0,0.00
-Barmah Forest virus infection,2016,Male,0,0.00
-Barmah Forest virus infection,2016,Female,0,0.00
-Brucellosis,2016,Male,0,0.00
-Brucellosis,2016,Female,0,0.00
-Campylobacteriosis,2016,Male,4094,177.40
+Acute gastroenteritis,2016,Male,238,10.31
+Acute gastroenteritis,2016,Female,272,11.41
+Arboviral diseases,2016,Male,147,6.37
+Arboviral diseases,2016,Female,176,7.39
+Brucellosis,2016,Male,0,0
+Brucellosis,2016,Female,0,0
+Campylobacteriosis,2016,Male,4094,177.4
 Campylobacteriosis,2016,Female,3361,141.03
-Chikungunya fever,2016,Male,12,0.52
-Chikungunya fever,2016,Female,16,0.67
-Cholera,2016,Male,0,0.00
-Cholera,2016,Female,0,0.00
+Cholera,2016,Male,0,0
+Cholera,2016,Female,0,0
 Cryptosporidiosis,2016,Male,491,21.28
 Cryptosporidiosis,2016,Female,571,23.96
-Cysticercosis,2016,Male,0,0.00
-Cysticercosis,2016,Female,0,0.00
-Dengue fever,2016,Male,102,4.42
-Dengue fever,2016,Female,89,3.73
-Diarrhoeic shellfish poisoning,2016,Male,0,0.00
-Diarrhoeic shellfish poisoning,2016,Female,0,0.00
+Cysticercosis,2016,Male,0,0
+Cysticercosis,2016,Female,0,0
 Diphtheria,2016,Male,1,0.04
-Diphtheria,2016,Female,0,0.00
-Gastroenteritis - unknown cause,2016,Male,123,5.33
-Gastroenteritis - unknown cause,2016,Female,172,7.22
-Gastroenteritis / foodborne intoxication,2016,Male,115,4.98
-Gastroenteritis / foodborne intoxication,2016,Female,100,4.20
+Diphtheria,2016,Female,0,0
 Giardiasis,2016,Male,828,35.88
 Giardiasis,2016,Female,788,33.06
 Haemophilus influenzae type b,2016,Male,1,0.04
@@ -1163,46 +913,38 @@ Invasive pneumococcal disease,2016,Male,255,11.05
 Invasive pneumococcal disease,2016,Female,225,9.44
 Legionellosis,2016,Male,149,6.46
 Legionellosis,2016,Female,98,4.11
-Leprosy,2016,Male,0,0.00
-Leprosy,2016,Female,0,0.00
+Leprosy,2016,Male,0,0
+Leprosy,2016,Female,0,0
 Leptospirosis,2016,Male,76,3.29
 Leptospirosis,2016,Female,9,0.38
 Listeriosis,2016,Male,15,0.65
-Listeriosis,2016,Female,17,0.71
-Listeriosis - perinatal,2016,Male,0,0.00
-Listeriosis - perinatal,2016,Female,4,0.17
+Listeriosis,2016,Female,21,0.88
 Malaria,2016,Male,18,0.78
 Malaria,2016,Female,8,0.34
-Measles,2016,Male,53,2.30
-Measles,2016,Female,50,2.10
+Measles,2016,Male,53,2.3
+Measles,2016,Female,50,2.1
 Meningococcal disease,2016,Male,45,1.95
 Meningococcal disease,2016,Female,30,1.26
-Meningoencephalitis - primary amoebic,2016,Male,0,0.00
-Meningoencephalitis - primary amoebic,2016,Female,0,0.00
+Meningoencephalitis - primary amoebic,2016,Male,0,0
+Meningoencephalitis - primary amoebic,2016,Female,0,0
+Mpox,2016,Male,0,0
+Mpox,2016,Female,0,0
 Mumps,2016,Male,14,0.61
 Mumps,2016,Female,6,0.25
-Murine Typhus,2016,Male,0,0.00
-Murine Typhus,2016,Female,3,0.13
-Neurologic shellfish poisoning,2016,Male,0,0.00
-Neurologic shellfish poisoning,2016,Female,0,0.00
-Paralytic shellfish poisoning,2016,Male,2,0.09
-Paralytic shellfish poisoning,2016,Female,0,0.00
 Paratyphoid fever,2016,Male,20,0.87
-Paratyphoid fever,2016,Female,12,0.50
+Paratyphoid fever,2016,Female,12,0.5
 Pertussis,2016,Male,470,20.37
 Pertussis,2016,Female,623,26.14
-Poliomyelitis,2016,Male,0,0.00
-Poliomyelitis,2016,Female,0,0.00
-Q fever,2016,Male,0,0.00
-Q fever,2016,Female,0,0.00
-Rheumatic fever - initial attack,2016,Male,73,3.16
-Rheumatic fever - initial attack,2016,Female,53,2.22
-Rheumatic fever - recurrent attack,2016,Male,3,0.13
-Rheumatic fever - recurrent attack,2016,Female,8,0.34
+Poliomyelitis,2016,Male,0,0
+Poliomyelitis,2016,Female,0,0
+Q fever,2016,Male,0,0
+Q fever,2016,Female,0,0
+Rabies and other lyssaviruses,2016,Male,0,0
+Rabies and other lyssaviruses,2016,Female,0,0
+Rheumatic fever,2016,Male,76,3.29
+Rheumatic fever,2016,Female,61,2.56
 Rickettsial disease,2016,Male,1,0.04
-Rickettsial disease,2016,Female,1,0.04
-Ross River virus infection,2016,Male,3,0.13
-Ross River virus infection,2016,Female,1,0.04
+Rickettsial disease,2016,Female,4,0.17
 Rubella,2016,Male,1,0.04
 Rubella,2016,Female,2,0.08
 Salmonellosis,2016,Male,549,23.79
@@ -1211,52 +953,36 @@ Shigellosis,2016,Male,95,4.12
 Shigellosis,2016,Female,79,3.31
 Taeniasis,2016,Male,3,0.13
 Taeniasis,2016,Female,1,0.04
-Tetanus,2016,Male,0,0.00
+Tetanus,2016,Male,0,0
 Tetanus,2016,Female,1,0.04
-Toxic shellfish poisoning,2016,Male,1,0.04
-Toxic shellfish poisoning,2016,Female,0,0.00
-Trichinellosis,2016,Male,0,0.00
-Trichinellosis,2016,Female,0,0.00
-Tuberculosis disease - new case,2016,Male,149,6.46
-Tuberculosis disease - new case,2016,Female,134,5.62
-Tuberculosis disease - relapse or reactivation,2016,Male,6,0.26
-Tuberculosis disease - relapse or reactivation,2016,Female,6,0.25
+Toxic shellfish poisoning,2016,Male,3,0.13
+Toxic shellfish poisoning,2016,Female,0,0
+Trichinosis,2016,Male,0,0
+Trichinosis,2016,Female,0,0
+Tuberculosis disease,2016,Male,155,6.72
+Tuberculosis disease,2016,Female,140,5.87
 Typhoid fever,2016,Male,24,1.04
 Typhoid fever,2016,Female,14,0.59
-Typhus,2016,Male,0,0.00
-Typhus,2016,Female,0,0.00
 VTEC/STEC infection,2016,Male,174,7.54
-VTEC/STEC infection,2016,Female,243,10.20
+VTEC/STEC infection,2016,Female,243,10.2
 Yersiniosis,2016,Male,396,17.16
 Yersiniosis,2016,Female,462,19.39
-Zika virus,2016,Male,30,1.30
-Zika virus,2016,Female,70,2.94
-Amnesic shellfish poisoning,2017,Male,0,0.00
-Amnesic shellfish poisoning,2017,Female,0,0.00
-Barmah Forest virus infection,2017,Male,0,0.00
-Barmah Forest virus infection,2017,Female,0,0.00
-Brucellosis,2017,Male,0,0.00
+Acute gastroenteritis,2017,Male,147,6.23
+Acute gastroenteritis,2017,Female,171,7.03
+Arboviral diseases,2017,Male,100,4.24
+Arboviral diseases,2017,Female,87,3.58
+Brucellosis,2017,Male,0,0
 Brucellosis,2017,Female,1,0.04
 Campylobacteriosis,2017,Male,3586,151.93
 Campylobacteriosis,2017,Female,2896,119.09
-Chikungunya fever,2017,Male,5,0.21
-Chikungunya fever,2017,Female,3,0.12
-Cholera,2017,Male,0,0.00
-Cholera,2017,Female,0,0.00
+Cholera,2017,Male,0,0
+Cholera,2017,Female,0,0
 Cryptosporidiosis,2017,Male,561,23.77
 Cryptosporidiosis,2017,Female,631,25.95
-Cysticercosis,2017,Male,0,0.00
-Cysticercosis,2017,Female,0,0.00
-Dengue fever,2017,Male,88,3.73
-Dengue fever,2017,Female,73,3.00
-Diarrhoeic shellfish poisoning,2017,Male,0,0.00
-Diarrhoeic shellfish poisoning,2017,Female,0,0.00
+Cysticercosis,2017,Male,0,0
+Cysticercosis,2017,Female,0,0
 Diphtheria,2017,Male,1,0.04
-Diphtheria,2017,Female,0,0.00
-Gastroenteritis - unknown cause,2017,Male,102,4.32
-Gastroenteritis - unknown cause,2017,Female,117,4.81
-Gastroenteritis / foodborne intoxication,2017,Male,45,1.91
-Gastroenteritis / foodborne intoxication,2017,Female,54,2.22
+Diphtheria,2017,Female,0,0
 Giardiasis,2017,Male,847,35.89
 Giardiasis,2017,Female,801,32.94
 Haemophilus influenzae type b,2017,Male,1,0.04
@@ -1266,11 +992,11 @@ Hepatitis A,2017,Female,29,1.19
 Hepatitis B,2017,Male,22,0.93
 Hepatitis B,2017,Female,5,0.21
 Hepatitis C,2017,Male,4,0.17
-Hepatitis C,2017,Female,17,0.70
+Hepatitis C,2017,Female,17,0.7
 Hepatitis NOS,2017,Male,8,0.34
 Hepatitis NOS,2017,Female,2,0.08
 Hydatid disease,2017,Male,1,0.04
-Hydatid disease,2017,Female,0,0.00
+Hydatid disease,2017,Female,0,0
 Invasive pneumococcal disease,2017,Male,272,11.52
 Invasive pneumococcal disease,2017,Female,249,10.24
 Legionellosis,2017,Male,127,5.38
@@ -1280,42 +1006,34 @@ Leprosy,2017,Female,2,0.08
 Leptospirosis,2017,Male,120,5.08
 Leptospirosis,2017,Female,19,0.78
 Listeriosis,2017,Male,11,0.47
-Listeriosis,2017,Female,9,0.37
-Listeriosis - perinatal,2017,Male,0,0.00
-Listeriosis - perinatal,2017,Female,1,0.04
+Listeriosis,2017,Female,10,0.41
 Malaria,2017,Male,25,1.06
-Malaria,2017,Female,17,0.70
+Malaria,2017,Female,17,0.7
 Measles,2017,Male,9,0.38
 Measles,2017,Female,6,0.25
 Meningococcal disease,2017,Male,53,2.25
 Meningococcal disease,2017,Female,59,2.43
-Meningoencephalitis - primary amoebic,2017,Male,0,0.00
-Meningoencephalitis - primary amoebic,2017,Female,0,0.00
+Meningoencephalitis - primary amoebic,2017,Male,0,0
+Meningoencephalitis - primary amoebic,2017,Female,0,0
+Mpox,2017,Male,0,0
+Mpox,2017,Female,0,0
 Mumps,2017,Male,706,29.91
 Mumps,2017,Female,632,25.99
-Murine Typhus,2017,Male,1,0.04
-Murine Typhus,2017,Female,0,0.00
-Neurologic shellfish poisoning,2017,Male,1,0.04
-Neurologic shellfish poisoning,2017,Female,0,0.00
-Paralytic shellfish poisoning,2017,Male,0,0.00
-Paralytic shellfish poisoning,2017,Female,0,0.00
 Paratyphoid fever,2017,Male,21,0.89
 Paratyphoid fever,2017,Female,16,0.66
 Pertussis,2017,Male,981,41.56
 Pertussis,2017,Female,1161,47.74
-Poliomyelitis,2017,Male,0,0.00
-Poliomyelitis,2017,Female,0,0.00
-Q fever,2017,Male,0,0.00
-Q fever,2017,Female,0,0.00
-Rheumatic fever - initial attack,2017,Male,83,3.52
-Rheumatic fever - initial attack,2017,Female,61,2.51
-Rheumatic fever - recurrent attack,2017,Male,7,0.30
-Rheumatic fever - recurrent attack,2017,Female,3,0.12
-Rickettsial disease,2017,Male,3,0.13
-Rickettsial disease,2017,Female,0,0.00
-Ross River virus infection,2017,Male,3,0.13
-Ross River virus infection,2017,Female,4,0.16
-Rubella,2017,Male,0,0.00
+Poliomyelitis,2017,Male,0,0
+Poliomyelitis,2017,Female,0,0
+Q fever,2017,Male,0,0
+Q fever,2017,Female,0,0
+Rabies and other lyssaviruses,2017,Male,0,0
+Rabies and other lyssaviruses,2017,Female,0,0
+Rheumatic fever,2017,Male,90,3.81
+Rheumatic fever,2017,Female,64,2.63
+Rickettsial disease,2017,Male,4,0.17
+Rickettsial disease,2017,Female,0,0
+Rubella,2017,Male,0,0
 Rubella,2017,Female,1,0.04
 Salmonellosis,2017,Male,600,25.42
 Salmonellosis,2017,Female,526,21.63
@@ -1323,53 +1041,37 @@ Shigellosis,2017,Male,134,5.68
 Shigellosis,2017,Female,110,4.52
 Taeniasis,2017,Male,3,0.13
 Taeniasis,2017,Female,1,0.04
-Tetanus,2017,Male,0,0.00
-Tetanus,2017,Female,0,0.00
-Toxic shellfish poisoning,2017,Male,2,0.08
+Tetanus,2017,Male,0,0
+Tetanus,2017,Female,0,0
+Toxic shellfish poisoning,2017,Male,3,0.13
 Toxic shellfish poisoning,2017,Female,2,0.08
-Trichinellosis,2017,Male,0,0.00
-Trichinellosis,2017,Female,0,0.00
-Tuberculosis disease - new case,2017,Male,143,6.06
-Tuberculosis disease - new case,2017,Female,151,6.21
-Tuberculosis disease - relapse or reactivation,2017,Male,8,0.34
-Tuberculosis disease - relapse or reactivation,2017,Female,6,0.25
+Trichinosis,2017,Male,0,0
+Trichinosis,2017,Female,0,0
+Tuberculosis disease,2017,Male,151,6.4
+Tuberculosis disease,2017,Female,157,6.46
 Typhoid fever,2017,Male,31,1.31
 Typhoid fever,2017,Female,28,1.15
-Typhus,2017,Male,0,0.00
-Typhus,2017,Female,0,0.00
 VTEC/STEC infection,2017,Male,261,11.06
 VTEC/STEC infection,2017,Female,286,11.76
 Yersiniosis,2017,Male,468,19.83
 Yersiniosis,2017,Female,449,18.46
-Zika virus,2017,Male,4,0.17
-Zika virus,2017,Female,7,0.29
-Amnesic shellfish poisoning,2018,Male,0,0.00
-Amnesic shellfish poisoning,2018,Female,0,0.00
-Barmah Forest virus infection,2018,Male,0,0.00
-Barmah Forest virus infection,2018,Female,0,0.00
+Acute gastroenteritis,2018,Male,96,3.95
+Acute gastroenteritis,2018,Female,130,5.26
+Arboviral diseases,2018,Male,149,6.13
+Arboviral diseases,2018,Female,158,6.4
 Brucellosis,2018,Male,2,0.08
 Brucellosis,2018,Female,1,0.04
 Campylobacteriosis,2018,Male,3871,159.31
 Campylobacteriosis,2018,Female,3085,124.88
-Chikungunya fever,2018,Male,5,0.21
-Chikungunya fever,2018,Female,6,0.24
 Cholera,2018,Male,1,0.04
-Cholera,2018,Female,0,0.00
+Cholera,2018,Female,0,0
 Cryptosporidiosis,2018,Male,719,29.59
 Cryptosporidiosis,2018,Female,893,36.15
 Cysticercosis,2018,Male,1,0.04
-Cysticercosis,2018,Female,0,0.00
-Dengue fever,2018,Male,144,5.93
-Dengue fever,2018,Female,149,6.03
-Diarrhoeic shellfish poisoning,2018,Male,0,0.00
-Diarrhoeic shellfish poisoning,2018,Female,0,0.00
-Diphtheria,2018,Male,0,0.00
-Diphtheria,2018,Female,0,0.00
-Gastroenteritis - unknown cause,2018,Male,77,3.17
-Gastroenteritis - unknown cause,2018,Female,107,4.33
-Gastroenteritis / foodborne intoxication,2018,Male,19,0.78
-Gastroenteritis / foodborne intoxication,2018,Female,23,0.93
-Giardiasis,2018,Male,848,34.90
+Cysticercosis,2018,Female,0,0
+Diphtheria,2018,Male,0,0
+Diphtheria,2018,Female,0,0
+Giardiasis,2018,Male,848,34.9
 Giardiasis,2018,Female,737,29.83
 Haemophilus influenzae type b,2018,Male,1,0.04
 Haemophilus influenzae type b,2018,Female,2,0.08
@@ -1381,53 +1083,45 @@ Hepatitis C,2018,Male,16,0.66
 Hepatitis C,2018,Female,18,0.73
 Hepatitis NOS,2018,Male,6,0.25
 Hepatitis NOS,2018,Female,1,0.04
-Hydatid disease,2018,Male,0,0.00
-Hydatid disease,2018,Female,0,0.00
-Invasive pneumococcal disease,2018,Male,277,11.40
+Hydatid disease,2018,Male,0,0
+Hydatid disease,2018,Female,0,0
+Invasive pneumococcal disease,2018,Male,277,11.4
 Invasive pneumococcal disease,2018,Female,280,11.33
 Legionellosis,2018,Male,114,4.69
 Legionellosis,2018,Female,61,2.47
 Leprosy,2018,Male,3,0.12
-Leprosy,2018,Female,0,0.00
+Leprosy,2018,Female,0,0
 Leptospirosis,2018,Male,95,3.91
 Leptospirosis,2018,Female,14,0.57
 Listeriosis,2018,Male,14,0.58
-Listeriosis,2018,Female,11,0.45
-Listeriosis - perinatal,2018,Male,0,0.00
-Listeriosis - perinatal,2018,Female,5,0.20
+Listeriosis,2018,Female,16,0.65
 Malaria,2018,Male,24,0.99
 Malaria,2018,Female,12,0.49
-Measles,2018,Male,17,0.70
+Measles,2018,Male,17,0.7
 Measles,2018,Female,13,0.53
 Meningococcal disease,2018,Male,59,2.43
 Meningococcal disease,2018,Female,61,2.47
-Meningoencephalitis - primary amoebic,2018,Male,0,0.00
-Meningoencephalitis - primary amoebic,2018,Female,0,0.00
+Meningoencephalitis - primary amoebic,2018,Male,0,0
+Meningoencephalitis - primary amoebic,2018,Female,0,0
+Mpox,2018,Male,0,0
+Mpox,2018,Female,0,0
 Mumps,2018,Male,229,9.42
-Mumps,2018,Female,205,8.30
-Murine Typhus,2018,Male,0,0.00
-Murine Typhus,2018,Female,1,0.04
-Neurologic shellfish poisoning,2018,Male,0,0.00
-Neurologic shellfish poisoning,2018,Female,0,0.00
-Paralytic shellfish poisoning,2018,Male,0,0.00
-Paralytic shellfish poisoning,2018,Female,0,0.00
+Mumps,2018,Female,205,8.3
 Paratyphoid fever,2018,Male,11,0.45
 Paratyphoid fever,2018,Female,7,0.28
 Pertussis,2018,Male,1307,53.79
 Pertussis,2018,Female,1646,66.63
-Poliomyelitis,2018,Male,0,0.00
-Poliomyelitis,2018,Female,0,0.00
-Q fever,2018,Male,0,0.00
-Q fever,2018,Female,0,0.00
-Rheumatic fever - initial attack,2018,Male,93,3.83
-Rheumatic fever - initial attack,2018,Female,76,3.08
-Rheumatic fever - recurrent attack,2018,Male,10,0.41
-Rheumatic fever - recurrent attack,2018,Female,8,0.32
+Poliomyelitis,2018,Male,0,0
+Poliomyelitis,2018,Female,0,0
+Q fever,2018,Male,0,0
+Q fever,2018,Female,0,0
+Rabies and other lyssaviruses,2018,Male,0,0
+Rabies and other lyssaviruses,2018,Female,0,0
+Rheumatic fever,2018,Male,103,4.24
+Rheumatic fever,2018,Female,84,3.4
 Rickettsial disease,2018,Male,2,0.08
-Rickettsial disease,2018,Female,0,0.00
-Ross River virus infection,2018,Male,0,0.00
-Ross River virus infection,2018,Female,1,0.04
-Rubella,2018,Male,0,0.00
+Rickettsial disease,2018,Female,1,0.04
+Rubella,2018,Male,0,0
 Rubella,2018,Female,1,0.04
 Salmonellosis,2018,Male,566,23.29
 Salmonellosis,2018,Female,533,21.58
@@ -1435,110 +1129,86 @@ Shigellosis,2018,Male,113,4.65
 Shigellosis,2018,Female,104,4.21
 Taeniasis,2018,Male,3,0.12
 Taeniasis,2018,Female,1,0.04
-Tetanus,2018,Male,0,0.00
-Tetanus,2018,Female,0,0.00
+Tetanus,2018,Male,0,0
+Tetanus,2018,Female,0,0
 Toxic shellfish poisoning,2018,Male,2,0.08
 Toxic shellfish poisoning,2018,Female,1,0.04
-Trichinellosis,2018,Male,0,0.00
-Trichinellosis,2018,Female,0,0.00
-Tuberculosis disease - new case,2018,Male,150,6.17
-Tuberculosis disease - new case,2018,Female,145,5.87
-Tuberculosis disease - relapse or reactivation,2018,Male,4,0.16
-Tuberculosis disease - relapse or reactivation,2018,Female,6,0.24
+Trichinosis,2018,Male,0,0
+Trichinosis,2018,Female,0,0
+Tuberculosis disease,2018,Male,154,6.34
+Tuberculosis disease,2018,Female,151,6.11
 Typhoid fever,2018,Male,33,1.36
 Typhoid fever,2018,Female,20,0.81
-Typhus,2018,Male,0,0.00
-Typhus,2018,Female,0,0.00
 VTEC/STEC infection,2018,Male,437,17.98
 VTEC/STEC infection,2018,Female,488,19.75
-Yersiniosis,2018,Male,622,25.60
+Yersiniosis,2018,Male,622,25.6
 Yersiniosis,2018,Female,579,23.44
-Zika virus,2018,Male,0,0.00
-Zika virus,2018,Female,2,0.08
-Amnesic shellfish poisoning,2019,Male,0,0.00
-Amnesic shellfish poisoning,2019,Female,0,0.00
-Barmah Forest virus infection,2019,Male,0,0.00
-Barmah Forest virus infection,2019,Female,0,0.00
+Acute gastroenteritis,2019,Male,228,9.23
+Acute gastroenteritis,2019,Female,255,10.17
+Arboviral diseases,2019,Male,123,4.98
+Arboviral diseases,2019,Female,122,4.86
 Brucellosis,2019,Male,2,0.08
-Brucellosis,2019,Female,0,0.00
+Brucellosis,2019,Female,0,0
 Campylobacteriosis,2019,Male,3551,143.72
 Campylobacteriosis,2019,Female,2650,105.66
-Chikungunya fever,2019,Male,8,0.32
-Chikungunya fever,2019,Female,3,0.12
-Cholera,2019,Male,0,0.00
-Cholera,2019,Female,0,0.00
+Cholera,2019,Male,0,0
+Cholera,2019,Female,0,0
 Cryptosporidiosis,2019,Male,474,19.18
 Cryptosporidiosis,2019,Female,560,22.33
-Cysticercosis,2019,Male,0,0.00
-Cysticercosis,2019,Female,0,0.00
-Dengue fever,2019,Male,109,4.41
-Dengue fever,2019,Female,113,4.51
-Diarrhoeic shellfish poisoning,2019,Male,0,0.00
-Diarrhoeic shellfish poisoning,2019,Female,0,0.00
-Diphtheria,2019,Male,0,0.00
+Cysticercosis,2019,Male,0,0
+Cysticercosis,2019,Female,0,0
+Diphtheria,2019,Male,0,0
 Diphtheria,2019,Female,1,0.04
-Gastroenteritis - unknown cause,2019,Male,77,3.12
-Gastroenteritis - unknown cause,2019,Female,78,3.11
-Gastroenteritis / foodborne intoxication,2019,Male,151,6.11
-Gastroenteritis / foodborne intoxication,2019,Female,177,7.06
 Giardiasis,2019,Male,895,36.22
 Giardiasis,2019,Female,853,34.01
 Haemophilus influenzae type b,2019,Male,1,0.04
 Haemophilus influenzae type b,2019,Female,1,0.04
-Hepatitis A,2019,Male,37,1.50
-Hepatitis A,2019,Female,30,1.20
+Hepatitis A,2019,Male,37,1.5
+Hepatitis A,2019,Female,30,1.2
 Hepatitis B,2019,Male,21,0.85
 Hepatitis B,2019,Female,7,0.28
 Hepatitis C,2019,Male,15,0.61
 Hepatitis C,2019,Female,9,0.36
 Hepatitis NOS,2019,Male,4,0.16
-Hepatitis NOS,2019,Female,5,0.20
-Hydatid disease,2019,Male,0,0.00
+Hepatitis NOS,2019,Female,5,0.2
+Hydatid disease,2019,Male,0,0
 Hydatid disease,2019,Female,1,0.04
 Invasive pneumococcal disease,2019,Male,274,11.09
 Invasive pneumococcal disease,2019,Female,221,8.81
 Legionellosis,2019,Male,119,4.82
 Legionellosis,2019,Female,42,1.67
-Leprosy,2019,Male,5,0.20
+Leprosy,2019,Male,5,0.2
 Leprosy,2019,Female,1,0.04
 Leptospirosis,2019,Male,75,3.04
 Leptospirosis,2019,Female,14,0.56
 Listeriosis,2019,Male,16,0.65
-Listeriosis,2019,Female,9,0.36
-Listeriosis - perinatal,2019,Male,0,0.00
-Listeriosis - perinatal,2019,Female,6,0.24
+Listeriosis,2019,Female,15,0.6
 Malaria,2019,Male,20,0.81
 Malaria,2019,Female,7,0.28
 Measles,2019,Male,1133,45.86
 Measles,2019,Female,1055,42.07
 Meningococcal disease,2019,Male,73,2.95
 Meningococcal disease,2019,Female,66,2.63
-Meningoencephalitis - primary amoebic,2019,Male,0,0.00
-Meningoencephalitis - primary amoebic,2019,Female,0,0.00
+Meningoencephalitis - primary amoebic,2019,Male,0,0
+Meningoencephalitis - primary amoebic,2019,Female,0,0
+Mpox,2019,Male,0,0
+Mpox,2019,Female,0,0
 Mumps,2019,Male,151,6.11
 Mumps,2019,Female,113,4.51
-Murine Typhus,2019,Male,0,0.00
-Murine Typhus,2019,Female,3,0.12
-Neurologic shellfish poisoning,2019,Male,0,0.00
-Neurologic shellfish poisoning,2019,Female,0,0.00
-Paralytic shellfish poisoning,2019,Male,1,0.04
-Paralytic shellfish poisoning,2019,Female,0,0.00
 Paratyphoid fever,2019,Male,9,0.36
 Paratyphoid fever,2019,Female,8,0.32
 Pertussis,2019,Male,493,19.95
 Pertussis,2019,Female,713,28.43
-Poliomyelitis,2019,Male,0,0.00
-Poliomyelitis,2019,Female,0,0.00
+Poliomyelitis,2019,Male,0,0
+Poliomyelitis,2019,Female,0,0
 Q fever,2019,Male,1,0.04
-Q fever,2019,Female,0,0.00
-Rheumatic fever - initial attack,2019,Male,76,3.08
-Rheumatic fever - initial attack,2019,Female,78,3.11
-Rheumatic fever - recurrent attack,2019,Male,9,0.36
-Rheumatic fever - recurrent attack,2019,Female,5,0.20
-Rickettsial disease,2019,Male,0,0.00
-Rickettsial disease,2019,Female,1,0.04
-Ross River virus infection,2019,Male,1,0.04
-Ross River virus infection,2019,Female,4,0.16
+Q fever,2019,Female,0,0
+Rabies and other lyssaviruses,2019,Male,0,0
+Rabies and other lyssaviruses,2019,Female,0,0
+Rheumatic fever,2019,Male,85,3.44
+Rheumatic fever,2019,Female,83,3.31
+Rickettsial disease,2019,Male,0,0
+Rickettsial disease,2019,Female,4,0.16
 Rubella,2019,Male,1,0.04
 Rubella,2019,Female,1,0.04
 Salmonellosis,2019,Male,584,23.64
@@ -1547,56 +1217,40 @@ Shigellosis,2019,Male,113,4.57
 Shigellosis,2019,Female,101,4.03
 Taeniasis,2019,Male,2,0.08
 Taeniasis,2019,Female,3,0.12
-Tetanus,2019,Male,0,0.00
-Tetanus,2019,Female,0,0.00
-Toxic shellfish poisoning,2019,Male,0,0.00
-Toxic shellfish poisoning,2019,Female,0,0.00
-Trichinellosis,2019,Male,0,0.00
-Trichinellosis,2019,Female,0,0.00
-Tuberculosis disease - new case,2019,Male,167,6.76
-Tuberculosis disease - new case,2019,Female,137,5.46
-Tuberculosis disease - relapse or reactivation,2019,Male,9,0.36
-Tuberculosis disease - relapse or reactivation,2019,Female,4,0.16
+Tetanus,2019,Male,0,0
+Tetanus,2019,Female,0,0
+Toxic shellfish poisoning,2019,Male,1,0.04
+Toxic shellfish poisoning,2019,Female,0,0
+Trichinosis,2019,Male,0,0
+Trichinosis,2019,Female,0,0
+Tuberculosis disease,2019,Male,176,7.12
+Tuberculosis disease,2019,Female,141,5.62
 Typhoid fever,2019,Male,28,1.13
 Typhoid fever,2019,Female,26,1.04
-Typhus,2019,Male,0,0.00
-Typhus,2019,Female,0,0.00
 VTEC/STEC infection,2019,Male,522,21.13
 VTEC/STEC infection,2019,Female,581,23.17
 Yersiniosis,2019,Male,570,23.07
 Yersiniosis,2019,Female,615,24.52
-Zika virus,2019,Male,5,0.20
-Zika virus,2019,Female,2,0.08
-Amnesic shellfish poisoning,2020,Male,0,0.00
-Amnesic shellfish poisoning,2020,Female,0,0.00
-Barmah Forest virus infection,2020,Male,0,0.00
-Barmah Forest virus infection,2020,Female,0,0.00
+Acute gastroenteritis,2020,Male,150,5.94
+Acute gastroenteritis,2020,Female,202,7.88
+Arboviral diseases,2020,Male,33,1.31
+Arboviral diseases,2020,Female,24,0.94
 Brucellosis,2020,Male,1,0.04
 Brucellosis,2020,Female,1,0.04
 Campylobacteriosis,2020,Male,2981,117.97
 Campylobacteriosis,2020,Female,2307,90.02
-Chikungunya fever,2020,Male,3,0.12
-Chikungunya fever,2020,Female,1,0.04
-Cholera,2020,Male,0,0.00
-Cholera,2020,Female,0,0.00
+Cholera,2020,Male,0,0
+Cholera,2020,Female,0,0
 Cryptosporidiosis,2020,Male,323,12.78
 Cryptosporidiosis,2020,Female,412,16.08
-Cysticercosis,2020,Male,0,0.00
-Cysticercosis,2020,Female,0,0.00
-Dengue fever,2020,Male,29,1.15
-Dengue fever,2020,Female,21,0.82
-Diarrhoeic shellfish poisoning,2020,Male,0,0.00
-Diarrhoeic shellfish poisoning,2020,Female,0,0.00
-Diphtheria,2020,Male,0,0.00
-Diphtheria,2020,Female,0,0.00
-Gastroenteritis - unknown cause,2020,Male,61,2.41
-Gastroenteritis - unknown cause,2020,Female,88,3.43
-Gastroenteritis / foodborne intoxication,2020,Male,89,3.52
-Gastroenteritis / foodborne intoxication,2020,Female,114,4.45
+Cysticercosis,2020,Male,0,0
+Cysticercosis,2020,Female,0,0
+Diphtheria,2020,Male,0,0
+Diphtheria,2020,Female,0,0
 Giardiasis,2020,Male,602,23.82
 Giardiasis,2020,Female,536,20.91
 Haemophilus influenzae type b,2020,Male,3,0.12
-Haemophilus influenzae type b,2020,Female,0,0.00
+Haemophilus influenzae type b,2020,Female,0,0
 Hepatitis A,2020,Male,12,0.47
 Hepatitis A,2020,Female,9,0.35
 Hepatitis B,2020,Male,12,0.47
@@ -1605,8 +1259,8 @@ Hepatitis C,2020,Male,20,0.79
 Hepatitis C,2020,Female,8,0.31
 Hepatitis NOS,2020,Male,8,0.32
 Hepatitis NOS,2020,Female,3,0.12
-Hydatid disease,2020,Male,0,0.00
-Hydatid disease,2020,Female,0,0.00
+Hydatid disease,2020,Male,0,0
+Hydatid disease,2020,Female,0,0
 Invasive pneumococcal disease,2020,Male,178,7.04
 Invasive pneumococcal disease,2020,Female,172,6.71
 Legionellosis,2020,Male,105,4.16
@@ -1616,96 +1270,72 @@ Leprosy,2020,Female,1,0.04
 Leptospirosis,2020,Male,45,1.78
 Leptospirosis,2020,Female,16,0.62
 Listeriosis,2020,Male,17,0.67
-Listeriosis,2020,Female,15,0.59
-Listeriosis - perinatal,2020,Male,0,0.00
-Listeriosis - perinatal,2020,Female,3,0.12
+Listeriosis,2020,Female,18,0.7
 Malaria,2020,Male,12,0.47
-Malaria,2020,Female,5,0.20
+Malaria,2020,Female,5,0.2
 Measles,2020,Male,3,0.12
 Measles,2020,Female,6,0.23
 Meningococcal disease,2020,Male,20,0.79
 Meningococcal disease,2020,Female,15,0.59
-Meningoencephalitis - primary amoebic,2020,Male,0,0.00
-Meningoencephalitis - primary amoebic,2020,Female,0,0.00
+Meningoencephalitis - primary amoebic,2020,Male,0,0
+Meningoencephalitis - primary amoebic,2020,Female,0,0
+Mpox,2020,Male,0,0
+Mpox,2020,Female,0,0
 Mumps,2020,Male,79,3.13
 Mumps,2020,Female,65,2.54
-Murine Typhus,2020,Male,2,0.08
-Murine Typhus,2020,Female,2,0.08
-Neurologic shellfish poisoning,2020,Male,0,0.00
-Neurologic shellfish poisoning,2020,Female,0,0.00
-Paralytic shellfish poisoning,2020,Male,0,0.00
-Paralytic shellfish poisoning,2020,Female,0,0.00
 Paratyphoid fever,2020,Male,11,0.44
-Paratyphoid fever,2020,Female,5,0.20
+Paratyphoid fever,2020,Female,5,0.2
 Pertussis,2020,Male,83,3.28
 Pertussis,2020,Female,87,3.39
-Poliomyelitis,2020,Male,0,0.00
-Poliomyelitis,2020,Female,0,0.00
-Q fever,2020,Male,0,0.00
-Q fever,2020,Female,0,0.00
-Rheumatic fever - initial attack,2020,Male,88,3.48
-Rheumatic fever - initial attack,2020,Female,53,2.07
-Rheumatic fever - recurrent attack,2020,Male,4,0.16
-Rheumatic fever - recurrent attack,2020,Female,7,0.27
-Rickettsial disease,2020,Male,1,0.04
-Rickettsial disease,2020,Female,0,0.00
-Ross River virus infection,2020,Male,1,0.04
-Ross River virus infection,2020,Female,2,0.08
-Rubella,2020,Male,0,0.00
-Rubella,2020,Female,0,0.00
+Poliomyelitis,2020,Male,0,0
+Poliomyelitis,2020,Female,0,0
+Q fever,2020,Male,0,0
+Q fever,2020,Female,0,0
+Rabies and other lyssaviruses,2020,Male,0,0
+Rabies and other lyssaviruses,2020,Female,0,0
+Rheumatic fever,2020,Male,92,3.64
+Rheumatic fever,2020,Female,60,2.34
+Rickettsial disease,2020,Male,3,0.12
+Rickettsial disease,2020,Female,2,0.08
+Rubella,2020,Male,0,0
+Rubella,2020,Female,0,0
 Salmonellosis,2020,Male,367,14.52
 Salmonellosis,2020,Female,342,13.34
 Shigellosis,2020,Male,36,1.42
 Shigellosis,2020,Female,24,0.94
-Taeniasis,2020,Male,0,0.00
+Taeniasis,2020,Male,0,0
 Taeniasis,2020,Female,3,0.12
-Tetanus,2020,Male,0,0.00
-Tetanus,2020,Female,0,0.00
-Toxic shellfish poisoning,2020,Male,0,0.00
-Toxic shellfish poisoning,2020,Female,0,0.00
-Trichinellosis,2020,Male,0,0.00
-Trichinellosis,2020,Female,0,0.00
-Tuberculosis disease - new case,2020,Male,160,6.33
-Tuberculosis disease - new case,2020,Female,149,5.81
-Tuberculosis disease - relapse or reactivation,2020,Male,7,0.28
-Tuberculosis disease - relapse or reactivation,2020,Female,2,0.08
+Tetanus,2020,Male,0,0
+Tetanus,2020,Female,0,0
+Toxic shellfish poisoning,2020,Male,0,0
+Toxic shellfish poisoning,2020,Female,0,0
+Trichinosis,2020,Male,0,0
+Trichinosis,2020,Female,0,0
+Tuberculosis disease,2020,Male,167,6.61
+Tuberculosis disease,2020,Female,151,5.89
 Typhoid fever,2020,Male,15,0.59
 Typhoid fever,2020,Female,9,0.35
-Typhus,2020,Male,0,0.00
-Typhus,2020,Female,0,0.00
 VTEC/STEC infection,2020,Male,420,16.62
 VTEC/STEC infection,2020,Female,425,16.58
 Yersiniosis,2020,Male,610,24.14
 Yersiniosis,2020,Female,650,25.36
-Zika virus,2020,Male,0,0.00
-Zika virus,2020,Female,0,0.00
-Amnesic shellfish poisoning,2021,Male,0,0.00
-Amnesic shellfish poisoning,2021,Female,0,0.00
-Barmah Forest virus infection,2021,Male,0,0.00
-Barmah Forest virus infection,2021,Female,0,0.00
+Acute gastroenteritis,2021,Male,118,4.65
+Acute gastroenteritis,2021,Female,120,4.66
+Arboviral diseases,2021,Male,3,0.12
+Arboviral diseases,2021,Female,5,0.19
 Brucellosis,2021,Male,1,0.04
-Brucellosis,2021,Female,0,0.00
+Brucellosis,2021,Female,0,0
 Campylobacteriosis,2021,Male,3222,127.02
 Campylobacteriosis,2021,Female,2501,97.16
-Chikungunya fever,2021,Male,0,0.00
-Chikungunya fever,2021,Female,0,0.00
-Cholera,2021,Male,0,0.00
-Cholera,2021,Female,0,0.00
-Cryptosporidiosis,2021,Male,307,12.10
+Cholera,2021,Male,0,0
+Cholera,2021,Female,0,0
+Cryptosporidiosis,2021,Male,307,12.1
 Cryptosporidiosis,2021,Female,395,15.35
-Cysticercosis,2021,Male,0,0.00
-Cysticercosis,2021,Female,0,0.00
-Dengue fever,2021,Male,3,0.12
-Dengue fever,2021,Female,4,0.16
-Diarrhoeic shellfish poisoning,2021,Male,0,0.00
-Diarrhoeic shellfish poisoning,2021,Female,1,0.04
-Diphtheria,2021,Male,0,0.00
-Diphtheria,2021,Female,0,0.00
-Gastroenteritis - unknown cause,2021,Male,69,2.72
-Gastroenteritis - unknown cause,2021,Female,84,3.26
-Gastroenteritis / foodborne intoxication,2021,Male,49,1.93
-Gastroenteritis / foodborne intoxication,2021,Female,36,1.40
-Giardiasis,2021,Male,520,20.50
+Cysticercosis,2021,Male,0,0
+Cysticercosis,2021,Female,0,0
+Diphtheria,2021,Male,0,0
+Diphtheria,2021,Female,0,0
+Giardiasis,2021,Male,520,20.5
 Giardiasis,2021,Female,519,20.16
 Haemophilus influenzae type b,2021,Male,1,0.04
 Haemophilus influenzae type b,2021,Female,2,0.08
@@ -1718,7 +1348,7 @@ Hepatitis C,2021,Female,19,0.74
 Hepatitis NOS,2021,Male,3,0.12
 Hepatitis NOS,2021,Female,6,0.23
 Hydatid disease,2021,Male,1,0.04
-Hydatid disease,2021,Female,0,0.00
+Hydatid disease,2021,Female,0,0
 Invasive pneumococcal disease,2021,Male,250,9.86
 Invasive pneumococcal disease,2021,Female,218,8.47
 Legionellosis,2021,Male,121,4.77
@@ -1728,99 +1358,75 @@ Leprosy,2021,Female,3,0.12
 Leptospirosis,2021,Male,62,2.44
 Leptospirosis,2021,Female,15,0.58
 Listeriosis,2021,Male,20,0.79
-Listeriosis,2021,Female,8,0.31
-Listeriosis - perinatal,2021,Male,0,0.00
-Listeriosis - perinatal,2021,Female,4,0.16
+Listeriosis,2021,Female,12,0.47
 Malaria,2021,Male,7,0.28
 Malaria,2021,Female,1,0.04
-Measles,2021,Male,0,0.00
-Measles,2021,Female,0,0.00
+Measles,2021,Male,0,0
+Measles,2021,Female,0,0
 Meningococcal disease,2021,Male,22,0.87
 Meningococcal disease,2021,Female,20,0.78
-Meningoencephalitis - primary amoebic,2021,Male,0,0.00
-Meningoencephalitis - primary amoebic,2021,Female,0,0.00
+Meningoencephalitis - primary amoebic,2021,Male,0,0
+Meningoencephalitis - primary amoebic,2021,Female,0,0
+Mpox,2021,Male,0,0
+Mpox,2021,Female,0,0
 Mumps,2021,Male,1,0.04
-Mumps,2021,Female,0,0.00
-Murine Typhus,2021,Male,0,0.00
-Murine Typhus,2021,Female,1,0.04
-Neurologic shellfish poisoning,2021,Male,0,0.00
-Neurologic shellfish poisoning,2021,Female,0,0.00
-Paralytic shellfish poisoning,2021,Male,0,0.00
-Paralytic shellfish poisoning,2021,Female,0,0.00
+Mumps,2021,Female,0,0
 Paratyphoid fever,2021,Male,1,0.04
 Paratyphoid fever,2021,Female,1,0.04
 Pertussis,2021,Male,18,0.71
 Pertussis,2021,Female,23,0.89
-Poliomyelitis,2021,Male,0,0.00
-Poliomyelitis,2021,Female,0,0.00
-Q fever,2021,Male,0,0.00
-Q fever,2021,Female,0,0.00
-Rheumatic fever - initial attack,2021,Male,50,1.97
-Rheumatic fever - initial attack,2021,Female,30,1.17
-Rheumatic fever - recurrent attack,2021,Male,5,0.20
-Rheumatic fever - recurrent attack,2021,Female,2,0.08
-Rickettsial disease,2021,Male,0,0.00
-Rickettsial disease,2021,Female,0,0.00
-Ross River virus infection,2021,Male,0,0.00
-Ross River virus infection,2021,Female,1,0.04
-Rubella,2021,Male,0,0.00
-Rubella,2021,Female,0,0.00
+Poliomyelitis,2021,Male,0,0
+Poliomyelitis,2021,Female,0,0
+Q fever,2021,Male,0,0
+Q fever,2021,Female,0,0
+Rabies and other lyssaviruses,2021,Male,0,0
+Rabies and other lyssaviruses,2021,Female,0,0
+Rheumatic fever,2021,Male,55,2.17
+Rheumatic fever,2021,Female,32,1.24
+Rickettsial disease,2021,Male,0,0
+Rickettsial disease,2021,Female,1,0.04
+Rubella,2021,Male,0,0
+Rubella,2021,Female,0,0
 Salmonellosis,2021,Male,339,13.36
 Salmonellosis,2021,Female,374,14.53
 Shigellosis,2021,Male,4,0.16
-Shigellosis,2021,Female,0,0.00
-Taeniasis,2021,Male,0,0.00
+Shigellosis,2021,Female,0,0
+Taeniasis,2021,Male,0,0
 Taeniasis,2021,Female,1,0.04
 Tetanus,2021,Male,1,0.04
-Tetanus,2021,Female,0,0.00
-Toxic shellfish poisoning,2021,Male,0,0.00
-Toxic shellfish poisoning,2021,Female,2,0.08
-Trichinellosis,2021,Male,0,0.00
-Trichinellosis,2021,Female,0,0.00
-Tuberculosis disease - new case,2021,Male,153,6.03
-Tuberculosis disease - new case,2021,Female,147,5.71
-Tuberculosis disease - relapse or reactivation,2021,Male,2,0.08
-Tuberculosis disease - relapse or reactivation,2021,Female,7,0.27
-Typhoid fever,2021,Male,0,0.00
+Tetanus,2021,Female,0,0
+Toxic shellfish poisoning,2021,Male,0,0
+Toxic shellfish poisoning,2021,Female,3,0.12
+Trichinosis,2021,Male,0,0
+Trichinosis,2021,Female,0,0
+Tuberculosis disease,2021,Male,155,6.11
+Tuberculosis disease,2021,Female,154,5.98
+Typhoid fever,2021,Male,0,0
 Typhoid fever,2021,Female,3,0.12
-Typhus,2021,Male,0,0.00
-Typhus,2021,Female,0,0.00
 VTEC/STEC infection,2021,Male,439,17.31
 VTEC/STEC infection,2021,Female,473,18.38
-Yersiniosis,2021,Male,723,28.50
+Yersiniosis,2021,Male,723,28.5
 Yersiniosis,2021,Female,687,26.69
-Zika virus,2021,Male,0,0.00
-Zika virus,2021,Female,0,0.00
-Amnesic shellfish poisoning,2022,Male,0,0.00
-Amnesic shellfish poisoning,2022,Female,0,0.00
-Barmah Forest virus infection,2022,Male,0,0.00
-Barmah Forest virus infection,2022,Female,0,0.00
-Brucellosis,2022,Male,0,0.00
+Acute gastroenteritis,2022,Male,157,6.18
+Acute gastroenteritis,2022,Female,171,6.63
+Arboviral diseases,2022,Male,21,0.83
+Arboviral diseases,2022,Female,7,0.27
+Brucellosis,2022,Male,0,0
 Brucellosis,2022,Female,1,0.04
 Campylobacteriosis,2022,Male,3244,127.77
 Campylobacteriosis,2022,Female,2631,102.07
-Chikungunya fever,2022,Male,3,0.12
-Chikungunya fever,2022,Female,2,0.08
 Cholera,2022,Male,1,0.04
-Cholera,2022,Female,0,0.00
+Cholera,2022,Female,0,0
 Cryptosporidiosis,2022,Male,285,11.22
 Cryptosporidiosis,2022,Female,327,12.69
-Cysticercosis,2022,Male,0,0.00
-Cysticercosis,2022,Female,0,0.00
-Dengue fever,2022,Male,18,0.71
-Dengue fever,2022,Female,5,0.19
-Diarrhoeic shellfish poisoning,2022,Male,0,0.00
-Diarrhoeic shellfish poisoning,2022,Female,0,0.00
+Cysticercosis,2022,Male,0,0
+Cysticercosis,2022,Female,0,0
 Diphtheria,2022,Male,1,0.04
 Diphtheria,2022,Female,1,0.04
-Gastroenteritis - unknown cause,2022,Male,74,2.91
-Gastroenteritis - unknown cause,2022,Female,96,3.72
-Gastroenteritis / foodborne intoxication,2022,Male,83,3.27
-Gastroenteritis / foodborne intoxication,2022,Female,75,2.91
 Giardiasis,2022,Male,395,15.56
-Giardiasis,2022,Female,312,12.10
-Haemophilus influenzae type b,2022,Male,0,0.00
-Haemophilus influenzae type b,2022,Female,0,0.00
+Giardiasis,2022,Female,312,12.1
+Haemophilus influenzae type b,2022,Male,0,0
+Haemophilus influenzae type b,2022,Female,0,0
 Hepatitis A,2022,Male,31,1.22
 Hepatitis A,2022,Female,27,1.05
 Hepatitis B,2022,Male,6,0.24
@@ -1828,7 +1434,7 @@ Hepatitis B,2022,Female,5,0.19
 Hepatitis C,2022,Male,18,0.71
 Hepatitis C,2022,Female,5,0.19
 Hepatitis NOS,2022,Male,2,0.08
-Hepatitis NOS,2022,Female,0,0.00
+Hepatitis NOS,2022,Female,0,0
 Hydatid disease,2022,Male,2,0.08
 Hydatid disease,2022,Female,1,0.04
 Invasive pneumococcal disease,2022,Male,348,13.71
@@ -1840,66 +1446,140 @@ Leprosy,2022,Female,1,0.04
 Leptospirosis,2022,Male,100,3.94
 Leptospirosis,2022,Female,21,0.81
 Listeriosis,2022,Male,13,0.51
-Listeriosis,2022,Female,19,0.74
-Listeriosis - perinatal,2022,Male,0,0.00
-Listeriosis - perinatal,2022,Female,7,0.27
+Listeriosis,2022,Female,26,1.01
 Malaria,2022,Male,14,0.55
 Malaria,2022,Female,4,0.16
-Measles,2022,Male,0,0.00
-Measles,2022,Female,0,0.00
+Measles,2022,Male,0,0
+Measles,2022,Female,0,0
 Meningococcal disease,2022,Male,34,1.34
 Meningococcal disease,2022,Female,38,1.47
-Meningoencephalitis - primary amoebic,2022,Male,0,0.00
-Meningoencephalitis - primary amoebic,2022,Female,0,0.00
+Meningoencephalitis - primary amoebic,2022,Male,0,0
+Meningoencephalitis - primary amoebic,2022,Female,0,0
+Mpox,2022,Male,39,1.54
+Mpox,2022,Female,2,0.08
 Mumps,2022,Male,1,0.04
-Mumps,2022,Female,0,0.00
-Murine Typhus,2022,Male,2,0.08
-Murine Typhus,2022,Female,3,0.12
-Neurologic shellfish poisoning,2022,Male,0,0.00
-Neurologic shellfish poisoning,2022,Female,0,0.00
-Paralytic shellfish poisoning,2022,Male,0,0.00
-Paralytic shellfish poisoning,2022,Female,0,0.00
+Mumps,2022,Female,0,0
 Paratyphoid fever,2022,Male,9,0.35
 Paratyphoid fever,2022,Female,6,0.23
 Pertussis,2022,Male,7,0.28
 Pertussis,2022,Female,11,0.43
-Poliomyelitis,2022,Male,0,0.00
-Poliomyelitis,2022,Female,0,0.00
-Q fever,2022,Male,0,0.00
-Q fever,2022,Female,0,0.00
-Rheumatic fever - initial attack,2022,Male,40,1.58
-Rheumatic fever - initial attack,2022,Female,35,1.36
-Rheumatic fever - recurrent attack,2022,Male,3,0.12
-Rheumatic fever - recurrent attack,2022,Female,1,0.04
-Rickettsial disease,2022,Male,0,0.00
-Rickettsial disease,2022,Female,0,0.00
-Ross River virus infection,2022,Male,0,0.00
-Ross River virus infection,2022,Female,0,0.00
-Rubella,2022,Male,0,0.00
-Rubella,2022,Female,0,0.00
+Poliomyelitis,2022,Male,0,0
+Poliomyelitis,2022,Female,0,0
+Q fever,2022,Male,0,0
+Q fever,2022,Female,0,0
+Rabies and other lyssaviruses,2022,Male,0,0
+Rabies and other lyssaviruses,2022,Female,0,0
+Rheumatic fever,2022,Male,43,1.69
+Rheumatic fever,2022,Female,36,1.4
+Rickettsial disease,2022,Male,2,0.08
+Rickettsial disease,2022,Female,3,0.12
+Rubella,2022,Male,0,0
+Rubella,2022,Female,0,0
 Salmonellosis,2022,Male,351,13.82
 Salmonellosis,2022,Female,398,15.44
 Shigellosis,2022,Male,43,1.69
 Shigellosis,2022,Female,26,1.01
 Taeniasis,2022,Male,2,0.08
 Taeniasis,2022,Female,1,0.04
-Tetanus,2022,Male,0,0.00
+Tetanus,2022,Male,0,0
 Tetanus,2022,Female,1,0.04
 Toxic shellfish poisoning,2022,Male,1,0.04
 Toxic shellfish poisoning,2022,Female,1,0.04
-Trichinellosis,2022,Male,0,0.00
-Trichinellosis,2022,Female,0,0.00
-Tuberculosis disease - new case,2022,Male,130,5.12
-Tuberculosis disease - new case,2022,Female,130,5.04
-Tuberculosis disease - relapse or reactivation,2022,Male,2,0.08
-Tuberculosis disease - relapse or reactivation,2022,Female,5,0.19
+Trichinosis,2022,Male,0,0
+Trichinosis,2022,Female,0,0
+Tuberculosis disease,2022,Male,132,5.2
+Tuberculosis disease,2022,Female,135,5.24
 Typhoid fever,2022,Male,14,0.55
 Typhoid fever,2022,Female,17,0.66
-Typhus,2022,Male,0,0.00
-Typhus,2022,Female,0,0.00
 VTEC/STEC infection,2022,Male,450,17.72
 VTEC/STEC infection,2022,Female,572,22.19
-Yersiniosis,2022,Male,622,24.50
+Yersiniosis,2022,Male,622,24.5
 Yersiniosis,2022,Female,672,26.07
-Zika virus,2022,Male,0,0.00
-Zika virus,2022,Female,0,0.00
+Acute gastroenteritis,2023,Male,217,8.35
+Acute gastroenteritis,2023,Female,243,9.26
+Arboviral diseases,2023,Male,44,1.69
+Arboviral diseases,2023,Female,24,0.91
+Brucellosis,2023,Male,3,0.12
+Brucellosis,2023,Female,1,0.04
+Campylobacteriosis,2023,Male,3370,129.72
+Campylobacteriosis,2023,Female,2716,103.48
+Cholera,2023,Male,1,0.04
+Cholera,2023,Female,0,0
+Cryptosporidiosis,2023,Male,396,15.24
+Cryptosporidiosis,2023,Female,435,16.57
+Cysticercosis,2023,Male,0,0
+Cysticercosis,2023,Female,0,0
+Diphtheria,2023,Male,3,0.12
+Diphtheria,2023,Female,0,0
+Giardiasis,2023,Male,482,18.55
+Giardiasis,2023,Female,415,15.81
+Haemophilus influenzae type b,2023,Male,2,0.08
+Haemophilus influenzae type b,2023,Female,2,0.08
+Hepatitis A,2023,Male,16,0.62
+Hepatitis A,2023,Female,18,0.69
+Hepatitis B,2023,Male,14,0.54
+Hepatitis B,2023,Female,5,0.19
+Hepatitis C,2023,Male,13,0.5
+Hepatitis C,2023,Female,18,0.69
+Hepatitis NOS,2023,Male,3,0.12
+Hepatitis NOS,2023,Female,5,0.19
+Hydatid disease,2023,Male,1,0.04
+Hydatid disease,2023,Female,1,0.04
+Invasive pneumococcal disease,2023,Male,396,15.24
+Invasive pneumococcal disease,2023,Female,361,13.75
+Legionellosis,2023,Male,156,6.01
+Legionellosis,2023,Female,73,2.78
+Leprosy,2023,Male,2,0.08
+Leprosy,2023,Female,2,0.08
+Leptospirosis,2023,Male,142,5.47
+Leptospirosis,2023,Female,28,1.07
+Listeriosis,2023,Male,24,0.92
+Listeriosis,2023,Female,13,0.5
+Malaria,2023,Male,39,1.5
+Malaria,2023,Female,15,0.57
+Measles,2023,Male,10,0.38
+Measles,2023,Female,4,0.15
+Meningococcal disease,2023,Male,22,0.85
+Meningococcal disease,2023,Female,37,1.41
+Meningoencephalitis - primary amoebic,2023,Male,0,0
+Meningoencephalitis - primary amoebic,2023,Female,0,0
+Mpox,2023,Male,8,0.31
+Mpox,2023,Female,0,0
+Mumps,2023,Male,9,0.35
+Mumps,2023,Female,7,0.27
+Paratyphoid fever,2023,Male,17,0.65
+Paratyphoid fever,2023,Female,11,0.42
+Pertussis,2023,Male,68,2.62
+Pertussis,2023,Female,73,2.78
+Poliomyelitis,2023,Male,0,0
+Poliomyelitis,2023,Female,0,0
+Q fever,2023,Male,0,0
+Q fever,2023,Female,0,0
+Rabies and other lyssaviruses,2023,Male,1,0.04
+Rabies and other lyssaviruses,2023,Female,0,0
+Rheumatic fever,2023,Male,110,4.23
+Rheumatic fever,2023,Female,73,2.78
+Rickettsial disease,2023,Male,1,0.04
+Rickettsial disease,2023,Female,3,0.11
+Rubella,2023,Male,0,0
+Rubella,2023,Female,0,0
+Salmonellosis,2023,Male,424,16.32
+Salmonellosis,2023,Female,401,15.28
+Shigellosis,2023,Male,75,2.89
+Shigellosis,2023,Female,47,1.79
+Taeniasis,2023,Male,0,0
+Taeniasis,2023,Female,0,0
+Tetanus,2023,Male,1,0.04
+Tetanus,2023,Female,0,0
+Toxic shellfish poisoning,2023,Male,0,0
+Toxic shellfish poisoning,2023,Female,0,0
+Trichinosis,2023,Male,0,0
+Trichinosis,2023,Female,0,0
+Tuberculosis disease,2023,Male,159,6.12
+Tuberculosis disease,2023,Female,158,6.02
+Typhoid fever,2023,Male,41,1.58
+Typhoid fever,2023,Female,30,1.14
+VTEC/STEC infection,2023,Male,490,18.86
+VTEC/STEC infection,2023,Female,515,19.62
+Yersiniosis,2023,Male,691,26.6
+Yersiniosis,2023,Female,715,27.24
