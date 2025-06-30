@@ -9,7 +9,7 @@ This is the data repository for the Notifiable Diseases Intelligence Dashboard p
 <b>Dashboard</b><br>
 https://www.phfscience.nz/digital-library/notifiable-disease-dashboard/
 
-<b>Provided by Institute of Environmental Science and Research (ESR) </b><br>
+<b>Provided by New Zealand Institute for Public Health and Forensic Science (PHF Science) </b><br>
 https://www.phfscience.nz/
 
 Funding for the Dashboard and Data Repository was provided by the Ministry of Health.<br>
@@ -20,7 +20,7 @@ New Zealand national notifiable disease system - EpiSurv
 
 Notifiable disease surveillance activities in New Zealand are carried out by both local and national authorities. PHF Science operates the national notifiable disease surveillance system, EpiSurv, on behalf of the Ministry of Health.<br>
 
-EpiSurv collates notifiable disease information on a real-time basis from the Public Health Services (PHS) in New Zealand. Data collected include case demographics, clinical features and risk factors. Detailed notifiable diseases case report form can be found here https://www.esr.cri.nz/notifiable-disease-reports. The NZ Notifiable Diseases Intelligence Dashboard and the Data Repository draws on the information collated through these processes. 
+EpiSurv collates notifiable disease information on a real-time basis from the Public Health Services (PHS) in New Zealand. Data collected include case demographics, clinical features and risk factors. Detailed notifiable diseases case report form can be found here https://www.phfscience.nz/notifiable-disease-reports. The NZ Notifiable Diseases Intelligence Dashboard and the Data Repository draws on the information collated through these processes. 
 
 
 <b>Acknowledgements</b><br>
