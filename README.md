@@ -27,7 +27,7 @@ EpiSurv collates notifiable disease information on a real-time basis from the Pu
 PHF Science acknowledges the support of staff in the public health services in New Zealand who provide us with data from their regions.
 
 <b>Contact Us:</b><br>
-Any queries regarding notifiable disease surveillance data may be sent to survqueries@esr.cri.nz.
+Any queries regarding notifiable disease surveillance data may be sent to survqueries@phfscience.nz.
 
 <b>Terms of Use: </b>
 <ol>
