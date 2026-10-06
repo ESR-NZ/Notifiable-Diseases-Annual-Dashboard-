@@ -1,837 +1,901 @@
-"Disease","Report Year","Case Count","Case rate per 100,000"
-"Arboviral diseases",2006,21,0.5
-"Measles",2006,18,0.4
-"Toxic shellfish poisoning",2006,1,0
-"Malaria",2006,30,0.7
-"Rabies and other lyssaviruses",2006,0,0
-"Diphtheria",2006,0,0
-"Leptospirosis",2006,87,2.2
-"Mumps",2006,47,1.2
-"Hepatitis A",2006,123,3.1
-"Meningococcal disease",2006,160,4
-"Hepatitis NOS",2006,0,0
-"Mpox",2006,0,0
-"Paratyphoid fever",2006,23,0.6
-"VTEC/STEC infection",2006,87,2.2
-"Legionellosis",2006,52,1.3
-"Rickettsial disease",2006,13,0.3
-"Haemophilus influenzae type b",2006,9,0.2
-"Leprosy",2006,4,0.1
-"Pertussis",2006,1120,27.9
-"Brucellosis",2006,0,0
-"Hepatitis C",2006,35,0.9
-"Tuberculosis disease",2006,350,8.7
-"Yersiniosis",2006,453,11.3
-"Taeniasis",2006,0,0
-"Hydatid disease",2006,0,0
-"Listeriosis",2006,19,0.5
-"Rubella",2006,7,0.2
-"Hepatitis B",2006,61,1.5
-"Cysticercosis",2006,0,0
-"Tetanus",2006,1,0
-"Typhoid fever",2006,42,1
-"Salmonellosis",2006,1335,33.2
-"Invasive pneumococcal disease",2006,0,0
-"Rheumatic fever",2006,108,2.7
-"Poliomyelitis",2006,0,0
-"Trichinosis",2006,0,0
-"Meningoencephalitis - primary amoebic",2006,0,0
-"Giardiasis",2006,1214,30.2
-"Campylobacteriosis",2006,15873,394.8
-"Acute gastroenteritis",2006,925,23
-"Q fever",2006,0,0
-"Shigellosis",2006,102,2.5
-"Cryptosporidiosis",2006,737,18.3
-"Cholera",2006,0,0
-"Leptospirosis",2007,66,1.6
-"Measles",2007,24,0.6
-"Toxic shellfish poisoning",2007,3,0.1
-"Listeriosis",2007,26,0.6
-"Hepatitis A",2007,42,1
-"Rabies and other lyssaviruses",2007,0,0
-"Invasive pneumococcal disease",2007,0,0
-"Mumps",2007,73,1.8
-"Mpox",2007,0,0
-"VTEC/STEC infection",2007,100,2.5
-"Legionellosis",2007,64,1.6
-"Hepatitis NOS",2007,1,0
-"Malaria",2007,25,0.6
-"Leprosy",2007,8,0.2
-"Meningococcal disease",2007,116,2.9
-"Rickettsial disease",2007,2,0
-"Hepatitis C",2007,29,0.7
-"Tuberculosis disease",2007,283,7
-"Rubella",2007,10,0.2
-"Diphtheria",2007,0,0
-"Taeniasis",2007,1,0
-"Hydatid disease",2007,6,0.1
-"Typhoid fever",2007,48,1.2
-"Hepatitis B",2007,72,1.8
-"Cysticercosis",2007,2,0
-"Haemophilus influenzae type b",2007,15,0.4
-"Poliomyelitis",2007,0,0
-"Yersiniosis",2007,502,12.4
-"Pertussis",2007,332,8.2
-"Salmonellosis",2007,1275,31.4
-"Rheumatic fever",2007,142,3.5
-"Acute gastroenteritis",2007,614,15.1
-"Meningoencephalitis - primary amoebic",2007,0,0
-"Arboviral diseases",2007,115,2.8
-"Tetanus",2007,1,0
-"Brucellosis",2007,4,0.1
-"Q fever",2007,0,0
-"Cholera",2007,1,0
-"Campylobacteriosis",2007,12778,314.4
-"Shigellosis",2007,129,3.2
-"Trichinosis",2007,0,0
-"Giardiasis",2007,1402,34.5
-"Cryptosporidiosis",2007,924,22.7
-"Paratyphoid fever",2007,23,0.6
-"Leprosy",2008,5,0.1
-"Typhoid fever",2008,29,0.7
-"Diphtheria",2008,0,0
-"Hydatid disease",2008,7,0.2
-"Measles",2008,12,0.3
-"Meningoencephalitis - primary amoebic",2008,0,0
-"Yersiniosis",2008,508,12.4
-"Arboviral diseases",2008,115,2.8
-"Shigellosis",2008,113,2.8
-"Acute gastroenteritis",2008,675,16.5
-"Paratyphoid fever",2008,25,0.6
-"Malaria",2008,40,1
-"Rickettsial disease",2008,9,0.2
-"Brucellosis",2008,3,0.1
-"Hepatitis B",2008,37,0.9
-"Mumps",2008,76,1.9
-"Salmonellosis",2008,1337,32.6
-"Meningococcal disease",2008,122,3
-"Leptospirosis",2008,118,2.9
-"Campylobacteriosis",2008,6692,163.1
-"Listeriosis",2008,27,0.7
-"Cysticercosis",2008,0,0
-"Legionellosis",2008,73,1.8
-"Poliomyelitis",2008,0,0
-"Cholera",2008,0,0
-"Haemophilus influenzae type b",2008,9,0.2
-"Rabies and other lyssaviruses",2008,0,0
-"Trichinosis",2008,0,0
-"Giardiasis",2008,1660,40.5
-"Hepatitis C",2008,22,0.5
-"Cryptosporidiosis",2008,765,18.6
-"VTEC/STEC infection",2008,122,3
-"Hepatitis NOS",2008,2,0
-"Q fever",2008,0,0
-"Rubella",2008,9,0.2
-"Hepatitis A",2008,89,2.2
-"Pertussis",2008,417,10.2
-"Toxic shellfish poisoning",2008,1,0
-"Tetanus",2008,0,0
-"Rheumatic fever",2008,156,3.8
-"Tuberculosis disease",2008,293,7.1
-"Invasive pneumococcal disease",2008,124,3
-"Mpox",2008,0,0
-"Taeniasis",2008,5,0.1
-"Measles",2009,248,6
-"Legionellosis",2009,74,1.8
-"Mumps",2009,63,1.5
-"Diphtheria",2009,1,0
-"Meningococcal disease",2009,132,3.2
-"Rickettsial disease",2009,5,0.1
-"Arboviral diseases",2009,145,3.5
-"Mpox",2009,0,0
-"Rubella",2009,4,0.1
-"Typhoid fever",2009,34,0.8
-"Pertussis",2009,1398,33.7
-"Malaria",2009,50,1.2
-"Haemophilus influenzae type b",2009,10,0.2
-"Hepatitis A",2009,44,1.1
-"Hydatid disease",2009,2,0
-"Leptospirosis",2009,68,1.6
-"Rheumatic fever",2009,141,3.4
-"Listeriosis",2009,28,0.7
-"VTEC/STEC infection",2009,143,3.4
-"Hepatitis B",2009,55,1.3
-"Leprosy",2009,3,0.1
-"Tetanus",2009,1,0
-"Acute gastroenteritis",2009,712,17.2
-"Rabies and other lyssaviruses",2009,0,0
-"Poliomyelitis",2009,0,0
-"Brucellosis",2009,0,0
-"Meningoencephalitis - primary amoebic",2009,0,0
-"Yersiniosis",2009,430,10.4
-"Giardiasis",2009,1639,39.5
-"Hepatitis NOS",2009,2,0
-"Q fever",2009,0,0
-"Cysticercosis",2009,0,0
-"Paratyphoid fever",2009,25,0.6
-"Toxic shellfish poisoning",2009,1,0
-"Hepatitis C",2009,32,0.8
-"Tuberculosis disease",2009,298,7.2
-"Trichinosis",2009,0,0
-"Invasive pneumococcal disease",2009,687,16.6
-"Taeniasis",2009,3,0.1
-"Shigellosis",2009,119,2.9
-"Campylobacteriosis",2009,7177,173.1
-"Cholera",2009,0,0
-"Salmonellosis",2009,1128,27.2
-"Cryptosporidiosis",2009,854,20.6
-"Meningococcal disease",2010,97,2.3
-"Rickettsial disease",2010,13,0.3
-"Leprosy",2010,3,0.1
-"Malaria",2010,44,1
-"Diphtheria",2010,0,0
-"Typhoid fever",2010,31,0.7
-"Arboviral diseases",2010,55,1.3
-"Measles",2010,48,1.1
-"Haemophilus influenzae type b",2010,8,0.2
-"Meningoencephalitis - primary amoebic",2010,0,0
-"Hepatitis A",2010,46,1.1
-"Hydatid disease",2010,4,0.1
-"Leptospirosis",2010,81,1.9
-"Q fever",2010,1,0
-"Cysticercosis",2010,0,0
-"Rubella",2010,4,0.1
-"Legionellosis",2010,173,4.1
-"Tetanus",2010,7,0.2
-"Acute gastroenteritis",2010,493,11.7
-"Rabies and other lyssaviruses",2010,0,0
-"Poliomyelitis",2010,0,0
-"Brucellosis",2010,1,0
-"Mumps",2010,41,1
-"Trichinosis",2010,0,0
-"Yersiniosis",2010,406,9.7
-"Hepatitis NOS",2010,3,0.1
-"Shigellosis",2010,104,2.5
-"Listeriosis",2010,23,0.5
-"Paratyphoid fever",2010,19,0.5
-"Hepatitis B",2010,50,1.2
-"Pertussis",2010,872,20.8
-"VTEC/STEC infection",2010,138,3.3
-"Campylobacteriosis",2010,7346,175
-"Cholera",2010,2,0
-"Taeniasis",2010,3,0.1
-"Hepatitis C",2010,16,0.4
-"Tuberculosis disease",2010,304,7.2
-"Giardiasis",2010,1985,47.3
-"Mpox",2010,0,0
-"Cryptosporidiosis",2010,954,22.7
-"Rheumatic fever",2010,165,3.9
-"Toxic shellfish poisoning",2010,9,0.2
-"Salmonellosis",2010,1146,27.3
-"Invasive pneumococcal disease",2010,530,12.6
-"Malaria",2011,52,1.2
-"Mumps",2011,51,1.2
-"Listeriosis",2011,26,0.6
-"Q fever",2011,1,0
-"Rickettsial disease",2011,5,0.1
-"Legionellosis",2011,158,3.7
-"Measles",2011,596,14.1
-"Meningococcal disease",2011,119,2.8
-"Diphtheria",2011,0,0
-"Rabies and other lyssaviruses",2011,0,0
-"Hydatid disease",2011,6,0.1
-"Rubella",2011,22,0.5
-"Mpox",2011,0,0
-"Cysticercosis",2011,0,0
-"Arboviral diseases",2011,46,1.1
-"Leprosy",2011,1,0
-"Toxic shellfish poisoning",2011,3,0.1
-"Pertussis",2011,1996,47.2
-"Typhoid fever",2011,45,1.1
-"Poliomyelitis",2011,0,0
-"Leptospirosis",2011,68,1.6
-"Meningoencephalitis - primary amoebic",2011,0,0
-"Hepatitis A",2011,26,0.6
-"Rheumatic fever",2011,165,3.9
-"Taeniasis",2011,9,0.2
-"Hepatitis NOS",2011,7,0.2
-"Campylobacteriosis",2011,6686,158
-"VTEC/STEC infection",2011,153,3.6
-"Hepatitis B",2011,51,1.2
-"Brucellosis",2011,0,0
-"Haemophilus influenzae type b",2011,8,0.2
-"Acute gastroenteritis",2011,567,13.4
-"Cholera",2011,0,0
-"Giardiasis",2011,1934,45.7
-"Hepatitis C",2011,26,0.6
-"Tuberculosis disease",2011,307,7.3
-"Yersiniosis",2011,513,12.1
-"Trichinosis",2011,0,0
-"Cryptosporidiosis",2011,610,14.4
-"Shigellosis",2011,101,2.4
-"Paratyphoid fever",2011,13,0.3
-"Invasive pneumococcal disease",2011,539,12.7
-"Tetanus",2011,0,0
-"Salmonellosis",2011,1055,24.9
-"Leprosy",2012,2,0
-"Diphtheria",2012,0,0
-"Malaria",2012,38,0.9
-"Legionellosis",2012,149,3.5
-"Meningoencephalitis - primary amoebic",2012,0,0
-"Mumps",2012,26,0.6
-"Hydatid disease",2012,1,0
-"Meningococcal disease",2012,85,2
-"Measles",2012,68,1.6
-"Rickettsial disease",2012,4,0.1
-"Arboviral diseases",2012,77,1.8
-"Rubella",2012,4,0.1
-"Toxic shellfish poisoning",2012,30,0.7
-"Pertussis",2012,5897,138.5
-"Rabies and other lyssaviruses",2012,0,0
-"VTEC/STEC infection",2012,147,3.5
-"Leptospirosis",2012,108,2.5
-"Invasive pneumococcal disease",2012,478,11.2
-"Hepatitis A",2012,82,1.9
-"Rheumatic fever",2012,178,4.2
-"Listeriosis",2012,25,0.6
-"Q fever",2012,0,0
-"Campylobacteriosis",2012,7016,164.8
-"Cysticercosis",2012,0,0
-"Paratyphoid fever",2012,22,0.5
-"Hepatitis B",2012,39,0.9
-"Haemophilus influenzae type b",2012,4,0.1
-"Typhoid fever",2012,44,1
-"Poliomyelitis",2012,0,0
-"Brucellosis",2012,0,0
-"Salmonellosis",2012,1081,25.4
-"Tuberculosis disease",2012,291,6.8
-"Yersiniosis",2012,514,12.1
-"Taeniasis",2012,6,0.1
-"Hepatitis NOS",2012,2,0
-"Shigellosis",2012,131,3.1
-"Mpox",2012,0,0
-"Cholera",2012,0,0
-"Giardiasis",2012,1714,40.2
-"Tetanus",2012,2,0
-"Acute gastroenteritis",2012,735,17.3
-"Trichinosis",2012,0,0
-"Cryptosporidiosis",2012,877,20.6
-"Hepatitis C",2012,31,0.7
-"Measles",2013,8,0.2
-"Arboviral diseases",2013,110,2.5
-"Cholera",2013,0,0
-"Brucellosis",2013,1,0
-"Hydatid disease",2013,7,0.2
-"Campylobacteriosis",2013,6837,153.9
-"Rubella",2013,1,0
-"Q fever",2013,0,0
-"Rickettsial disease",2013,9,0.2
-"Malaria",2013,47,1.1
-"Leprosy",2013,7,0.2
-"Toxic shellfish poisoning",2013,1,0
-"Diphtheria",2013,0,0
-"Mumps",2013,23,0.5
-"Poliomyelitis",2013,0,0
-"Meningococcal disease",2013,68,1.5
-"Meningoencephalitis - primary amoebic",2013,0,0
-"Cryptosporidiosis",2013,1348,30.4
-"Rheumatic fever",2013,203,4.6
-"Listeriosis",2013,19,0.4
-"Hepatitis NOS",2013,1,0
-"Mpox",2013,0,0
-"Cysticercosis",2013,1,0
-"Acute gastroenteritis",2013,557,12.5
-"Hepatitis B",2013,28,0.6
-"Pertussis",2013,3540,79.7
-"Rabies and other lyssaviruses",2013,0,0
-"Typhoid fever",2013,50,1.1
-"Leptospirosis",2013,60,1.4
-"Giardiasis",2013,1729,38.9
-"Tuberculosis disease",2013,274,6.2
-"Hepatitis A",2013,91,2
-"Taeniasis",2013,6,0.1
-"Salmonellosis",2013,1143,25.7
-"Shigellosis",2013,137,3.1
-"Paratyphoid fever",2013,25,0.6
-"Legionellosis",2013,151,3.4
-"Yersiniosis",2013,483,10.9
-"Tetanus",2013,1,0
-"Haemophilus influenzae type b",2013,2,0
-"Trichinosis",2013,0,0
-"VTEC/STEC infection",2013,205,4.6
-"Invasive pneumococcal disease",2013,472,10.6
-"Hepatitis C",2013,36,0.8
-"Mumps",2014,18,0.4
-"Rubella",2014,4,0.1
-"Listeriosis",2014,25,0.6
-"Measles",2014,280,6.2
-"Rickettsial disease",2014,6,0.1
-"Malaria",2014,33,0.7
-"Legionellosis",2014,123,2.7
-"Leprosy",2014,4,0.1
-"Pertussis",2014,1099,24.4
-"Diphtheria",2014,2,0
-"Poliomyelitis",2014,0,0
-"Meningococcal disease",2014,45,1
-"Meningoencephalitis - primary amoebic",2014,0,0
-"Tuberculosis disease",2014,301,6.7
-"Rheumatic fever",2014,199,4.4
-"Hydatid disease",2014,4,0.1
-"Q fever",2014,0,0
-"Arboviral diseases",2014,280,6.2
-"Mpox",2014,0,0
-"VTEC/STEC infection",2014,187,4.1
-"Toxic shellfish poisoning",2014,18,0.4
-"Tetanus",2014,0,0
-"Rabies and other lyssaviruses",2014,0,0
-"Brucellosis",2014,0,0
-"Taeniasis",2014,5,0.1
-"Leptospirosis",2014,56,1.2
-"Hepatitis C",2014,29,0.6
-"Hepatitis A",2014,74,1.6
-"Cysticercosis",2014,1,0
-"Campylobacteriosis",2014,6782,150.5
-"Hepatitis NOS",2014,8,0.2
-"Shigellosis",2014,128,2.8
-"Typhoid fever",2014,43,1
-"Hepatitis B",2014,35,0.8
-"Acute gastroenteritis",2014,756,16.8
-"Cholera",2014,0,0
-"Trichinosis",2014,0,0
-"Cryptosporidiosis",2014,584,13
-"Invasive pneumococcal disease",2014,488,10.8
-"Salmonellosis",2014,955,21.2
-"Haemophilus influenzae type b",2014,5,0.1
-"Giardiasis",2014,1709,37.9
-"Paratyphoid fever",2014,19,0.4
-"Yersiniosis",2014,680,15.1
-"Campylobacteriosis",2015,6218,135.4
-"Brucellosis",2015,1,0
-"Diphtheria",2015,2,0
-"Leprosy",2015,5,0.1
-"Arboviral diseases",2015,186,4
-"Rickettsial disease",2015,8,0.2
-"Hydatid disease",2015,4,0.1
-"Poliomyelitis",2015,0,0
-"Meningoencephalitis - primary amoebic",2015,0,0
-"Malaria",2015,38,0.8
-"Rabies and other lyssaviruses",2015,0,0
-"Meningococcal disease",2015,64,1.4
-"Taeniasis",2015,5,0.1
-"Q fever",2015,0,0
-"Rubella",2015,0,0
-"Cysticercosis",2015,1,0
-"Measles",2015,10,0.2
-"Acute gastroenteritis",2015,503,11
-"Cholera",2015,0,0
-"Toxic shellfish poisoning",2015,3,0.1
-"Pertussis",2015,1168,25.4
-"Mumps",2015,13,0.3
-"Salmonellosis",2015,1051,22.9
-"Giardiasis",2015,1510,32.9
-"Cryptosporidiosis",2015,696,15.2
-"Tuberculosis disease",2015,293,6.4
-"Rheumatic fever",2015,111,2.4
-"Shigellosis",2015,111,2.4
-"Listeriosis",2015,26,0.6
-"Paratyphoid fever",2015,34,0.7
-"Hepatitis B",2015,34,0.7
-"Tetanus",2015,1,0
-"Typhoid fever",2015,43,0.9
-"Trichinosis",2015,0,0
-"Yersiniosis",2015,634,13.8
-"Haemophilus influenzae type b",2015,3,0.1
-"Hepatitis C",2015,35,0.8
-"Legionellosis",2015,246,5.4
-"Hepatitis NOS",2015,4,0.1
-"Mpox",2015,0,0
-"Hepatitis A",2015,47,1
-"Leptospirosis",2015,63,1.4
-"Invasive pneumococcal disease",2015,446,9.7
-"VTEC/STEC infection",2015,330,7.2
-"Malaria",2016,26,0.6
-"Rubella",2016,3,0.1
-"Pertussis",2016,1093,23.3
-"Meningoencephalitis - primary amoebic",2016,0,0
-"Mumps",2016,20,0.4
-"Brucellosis",2016,0,0
-"Toxic shellfish poisoning",2016,3,0.1
-"Rabies and other lyssaviruses",2016,0,0
-"Tuberculosis disease",2016,295,6.3
-"Rheumatic fever",2016,136,2.9
-"Q fever",2016,0,0
-"Meningococcal disease",2016,75,1.6
-"Measles",2016,103,2.2
-"Rickettsial disease",2016,5,0.1
-"VTEC/STEC infection",2016,417,8.9
-"Listeriosis",2016,36,0.8
-"Leprosy",2016,0,0
-"Poliomyelitis",2016,0,0
-"Diphtheria",2016,1,0
-"Tetanus",2016,1,0
-"Invasive pneumococcal disease",2016,480,10.2
-"Trichinosis",2016,0,0
-"Taeniasis",2016,4,0.1
-"Cryptosporidiosis",2016,1062,22.6
-"Campylobacteriosis",2016,7457,159
-"Arboviral diseases",2016,323,6.9
-"Mpox",2016,0,0
-"Hepatitis B",2016,34,0.7
-"Legionellosis",2016,247,5.3
-"Acute gastroenteritis",2016,510,10.9
-"Cholera",2016,0,0
-"Haemophilus influenzae type b",2016,2,0
-"Typhoid fever",2016,38,0.8
-"Hepatitis C",2016,31,0.7
-"Leptospirosis",2016,85,1.8
-"Giardiasis",2016,1616,34.4
-"Hepatitis A",2016,35,0.7
-"Hydatid disease",2016,2,0
-"Yersiniosis",2016,858,18.3
-"Hepatitis NOS",2016,8,0.2
-"Shigellosis",2016,174,3.7
-"Cysticercosis",2016,0,0
-"Paratyphoid fever",2016,32,0.7
-"Salmonellosis",2016,1091,23.3
-"Poliomyelitis",2017,0,0
-"Brucellosis",2017,1,0
-"Campylobacteriosis",2017,6482,135.3
-"Rabies and other lyssaviruses",2017,0,0
-"Meningoencephalitis - primary amoebic",2017,0,0
-"Taeniasis",2017,4,0.1
-"Malaria",2017,42,0.9
-"Hydatid disease",2017,1,0
-"Rubella",2017,1,0
-"Measles",2017,15,0.3
-"Mumps",2017,1338,27.9
-"Tetanus",2017,0,0
-"Leprosy",2017,3,0.1
-"Cholera",2017,0,0
-"Pertussis",2017,2142,44.7
-"Diphtheria",2017,1,0
-"Meningococcal disease",2017,112,2.3
-"Trichinosis",2017,0,0
-"Giardiasis",2017,1648,34.4
-"Q fever",2017,0,0
-"Rheumatic fever",2017,152,3.2
-"Listeriosis",2017,21,0.4
-"Arboviral diseases",2017,187,3.9
-"Rickettsial disease",2017,4,0.1
-"Cysticercosis",2017,0,0
-"Acute gastroenteritis",2017,319,6.7
-"Toxic shellfish poisoning",2017,5,0.1
-"Haemophilus influenzae type b",2017,4,0.1
-"Typhoid fever",2017,59,1.2
-"Hepatitis C",2017,21,0.4
-"Salmonellosis",2017,1127,23.5
-"Leptospirosis",2017,138,2.9
-"Cryptosporidiosis",2017,1192,24.9
-"Hepatitis A",2017,58,1.2
-"Yersiniosis",2017,917,19.1
-"Hepatitis NOS",2017,10,0.2
-"Hepatitis B",2017,27,0.6
-"Paratyphoid fever",2017,37,0.8
-"VTEC/STEC infection",2017,547,11.4
-"Legionellosis",2017,221,4.6
-"Invasive pneumococcal disease",2017,521,10.9
-"Tuberculosis disease",2017,308,6.4
-"Mpox",2017,0,0
-"Shigellosis",2017,244,5.1
-"Poliomyelitis",2018,0,0
-"Toxic shellfish poisoning",2018,3,0.1
-"Rabies and other lyssaviruses",2018,0,0
-"Rheumatic fever",2018,187,3.8
-"Taeniasis",2018,4,0.1
-"Pertussis",2018,2955,60.3
-"Tuberculosis disease",2018,305,6.2
-"Arboviral diseases",2018,308,6.3
-"Measles",2018,30,0.6
-"Rickettsial disease",2018,3,0.1
-"Tetanus",2018,0,0
-"Malaria",2018,36,0.7
-"Cholera",2018,1,0
-"Mumps",2018,435,8.9
-"Invasive pneumococcal disease",2018,557,11.4
-"Hepatitis C",2018,34,0.7
-"Meningococcal disease",2018,120,2.4
-"Meningoencephalitis - primary amoebic",2018,0,0
-"Q fever",2018,0,0
-"Rubella",2018,1,0
-"Listeriosis",2018,30,0.6
-"VTEC/STEC infection",2018,925,18.9
-"Hepatitis B",2018,32,0.7
-"Cysticercosis",2018,1,0
-"Acute gastroenteritis",2018,228,4.7
-"Leprosy",2018,3,0.1
-"Brucellosis",2018,3,0.1
-"Diphtheria",2018,0,0
-"Campylobacteriosis",2018,6957,142
-"Trichinosis",2018,0,0
-"Giardiasis",2018,1585,32.3
-"Cryptosporidiosis",2018,1613,32.9
-"Paratyphoid fever",2018,18,0.4
-"Mpox",2018,0,0
-"Hepatitis NOS",2018,7,0.1
-"Shigellosis",2018,217,4.4
-"Typhoid fever",2018,53,1.1
-"Legionellosis",2018,175,3.6
-"Salmonellosis",2018,1100,22.4
-"Haemophilus influenzae type b",2018,3,0.1
-"Hydatid disease",2018,0,0
-"Yersiniosis",2018,1201,24.5
-"Leptospirosis",2018,109,2.2
-"Hepatitis A",2018,68,1.4
-"Mumps",2019,264,5.3
-"Taeniasis",2019,5,0.1
-"Brucellosis",2019,2,0
-"Rubella",2019,2,0
-"Measles",2019,2190,44
-"Toxic shellfish poisoning",2019,1,0
-"Rabies and other lyssaviruses",2019,0,0
-"Malaria",2019,27,0.5
-"Cholera",2019,0,0
-"Poliomyelitis",2019,0,0
-"Pertussis",2019,1206,24.2
-"Tuberculosis disease",2019,317,6.4
-"Rheumatic fever",2019,169,3.4
-"Meningoencephalitis - primary amoebic",2019,0,0
-"Invasive pneumococcal disease",2019,495,9.9
-"Q fever",2019,1,0
-"Campylobacteriosis",2019,6203,124.6
-"VTEC/STEC infection",2019,1103,22.2
-"Rickettsial disease",2019,4,0.1
-"Tetanus",2019,0,0
-"Acute gastroenteritis",2019,485,9.7
-"Leprosy",2019,6,0.1
-"Haemophilus influenzae type b",2019,2,0
-"Diphtheria",2019,1,0
-"Hepatitis C",2019,24,0.5
-"Meningococcal disease",2019,139,2.8
-"Giardiasis",2019,1749,35.1
-"Cryptosporidiosis",2019,1035,20.8
-"Hepatitis A",2019,67,1.3
-"Mpox",2019,0,0
-"Listeriosis",2019,31,0.6
-"Arboviral diseases",2019,245,4.9
-"Paratyphoid fever",2019,17,0.3
-"Legionellosis",2019,161,3.2
-"Trichinosis",2019,0,0
-"Leptospirosis",2019,89,1.8
-"Typhoid fever",2019,54,1.1
-"Shigellosis",2019,214,4.3
-"Hydatid disease",2019,1,0
-"Hepatitis NOS",2019,9,0.2
-"Hepatitis B",2019,28,0.6
-"Cysticercosis",2019,0,0
-"Salmonellosis",2019,1190,23.9
-"Yersiniosis",2019,1185,23.8
-"Brucellosis",2020,2,0
-"Mumps",2020,144,2.8
-"Cryptosporidiosis",2020,735,14.4
-"Acute gastroenteritis",2020,353,6.9
-"Toxic shellfish poisoning",2020,0,0
-"Arboviral diseases",2020,57,1.1
-"Pertussis",2020,170,3.3
-"Cholera",2020,0,0
-"Poliomyelitis",2020,0,0
-"Tetanus",2020,0,0
-"Tuberculosis disease",2020,318,6.2
-"VTEC/STEC infection",2020,845,16.6
-"Campylobacteriosis",2020,5292,104
-"Giardiasis",2020,1139,22.4
-"Q fever",2020,0,0
-"Rubella",2020,0,0
-"Cysticercosis",2020,0,0
-"Measles",2020,9,0.2
-"Rickettsial disease",2020,5,0.1
-"Malaria",2020,17,0.3
-"Rabies and other lyssaviruses",2020,0,0
-"Salmonellosis",2020,709,13.9
-"Invasive pneumococcal disease",2020,350,6.9
-"Hepatitis C",2020,28,0.6
-"Trichinosis",2020,0,0
-"Rheumatic fever",2020,151,3
-"Taeniasis",2020,3,0.1
-"Hydatid disease",2020,0,0
-"Paratyphoid fever",2020,17,0.3
-"Listeriosis",2020,35,0.7
-"Hepatitis B",2020,18,0.4
-"Diphtheria",2020,0,0
-"Legionellosis",2020,160,3.1
-"Leprosy",2020,3,0.1
-"Haemophilus influenzae type b",2020,3,0.1
-"Meningoencephalitis - primary amoebic",2020,0,0
-"Shigellosis",2020,60,1.2
-"Mpox",2020,0,0
-"Meningococcal disease",2020,35,0.7
-"Leptospirosis",2020,61,1.2
-"Yersiniosis",2020,1260,24.8
-"Hepatitis A",2020,21,0.4
-"Hepatitis NOS",2020,11,0.2
-"Typhoid fever",2020,24,0.5
-"Toxic shellfish poisoning",2021,3,0.1
-"Mumps",2021,1,0
-"Tuberculosis disease",2021,309,6
-"VTEC/STEC infection",2021,911,17.8
-"Measles",2021,0,0
-"Tetanus",2021,1,0
-"Brucellosis",2021,1,0
-"Rabies and other lyssaviruses",2021,0,0
-"Cholera",2021,0,0
-"Poliomyelitis",2021,0,0
-"Cryptosporidiosis",2021,702,13.7
-"Rubella",2021,0,0
-"Listeriosis",2021,32,0.6
-"Hepatitis B",2021,12,0.2
-"Rickettsial disease",2021,1,0
-"Pertussis",2021,41,0.8
-"Malaria",2021,8,0.2
-"Haemophilus influenzae type b",2021,3,0.1
-"Invasive pneumococcal disease",2021,468,9.2
-"Hepatitis C",2021,35,0.7
-"Trichinosis",2021,0,0
-"Rheumatic fever",2021,86,1.7
-"Taeniasis",2021,1,0
-"Hepatitis A",2021,8,0.2
-"Q fever",2021,0,0
-"Campylobacteriosis",2021,5729,112.1
-"Cysticercosis",2021,0,0
-"Acute gastroenteritis",2021,240,4.7
-"Diphtheria",2021,0,0
-"Legionellosis",2021,179,3.5
-"Leprosy",2021,5,0.1
-"Meningoencephalitis - primary amoebic",2021,0,0
-"Yersiniosis",2021,1410,27.6
-"Giardiasis",2021,1041,20.4
-"Meningococcal disease",2021,42,0.8
-"Paratyphoid fever",2021,2,0
-"Arboviral diseases",2021,8,0.2
-"Mpox",2021,0,0
-"Hepatitis NOS",2021,8,0.2
-"Typhoid fever",2021,3,0.1
-"Leptospirosis",2021,77,1.5
-"Salmonellosis",2021,714,14
-"Hydatid disease",2021,1,0
-"Shigellosis",2021,4,0.1
-"Tetanus",2022,1,0
-"Arboviral diseases",2022,28,0.5
-"Brucellosis",2022,1,0
-"Cholera",2022,1,0
-"Acute gastroenteritis",2022,329,6.4
-"Taeniasis",2022,3,0.1
-"Cryptosporidiosis",2022,612,12
-"Giardiasis",2022,707,13.8
-"Leprosy",2022,3,0.1
-"Paratyphoid fever",2022,15,0.3
-"Hepatitis B",2022,11,0.2
-"Rickettsial disease",2022,5,0.1
-"Campylobacteriosis",2022,5878,114.9
-"Toxic shellfish poisoning",2022,2,0
-"Poliomyelitis",2022,0,0
-"Pertussis",2022,18,0.4
-"Rabies and other lyssaviruses",2022,0,0
-"Trichinosis",2022,0,0
-"Meningoencephalitis - primary amoebic",2022,0,0
-"Tuberculosis disease",2022,267,5.2
-"Hepatitis C",2022,23,0.4
-"Hydatid disease",2022,3,0.1
-"Listeriosis",2022,39,0.8
-"Cysticercosis",2022,0,0
-"VTEC/STEC infection",2022,1022,20
-"Diphtheria",2022,2,0
-"Typhoid fever",2022,31,0.6
-"Mumps",2022,1,0
-"Salmonellosis",2022,749,14.6
-"Q fever",2022,0,0
-"Invasive pneumococcal disease",2022,631,12.3
-"Hepatitis NOS",2022,2,0
-"Yersiniosis",2022,1294,25.3
-"Rubella",2022,0,0
-"Rheumatic fever",2022,78,1.5
-"Measles",2022,0,0
-"Mpox",2022,41,0.8
-"Malaria",2022,18,0.4
-"Haemophilus influenzae type b",2022,0,0
-"Shigellosis",2022,69,1.3
-"Legionellosis",2022,234,4.6
-"Leptospirosis",2022,120,2.3
-"Meningococcal disease",2022,72,1.4
-"Hepatitis A",2022,58,1.1
-"Rubella",2023,0,0
-"Toxic shellfish poisoning",2023,0,0
-"Pertussis",2023,141,2.7
-"Rabies and other lyssaviruses",2023,1,0
-"Measles",2023,14,0.3
-"VTEC/STEC infection",2023,1005,19.2
-"Tuberculosis disease",2023,305,5.8
-"Hepatitis B",2023,19,0.4
-"Invasive pneumococcal disease",2023,757,14.5
-"Taeniasis",2023,0,0
-"Mpox",2023,8,0.2
-"Haemophilus influenzae type b",2023,4,0.1
-"Rheumatic fever",2023,183,3.5
-"Acute gastroenteritis",2023,462,8.8
-"Mumps",2023,16,0.3
-"Giardiasis",2023,898,17.2
-"Malaria",2023,54,1
-"Hepatitis C",2023,31,0.6
-"Meningoencephalitis - primary amoebic",2023,0,0
-"Listeriosis",2023,37,0.7
-"Q fever",2023,0,0
-"Meningococcal disease",2023,57,1.1
-"Legionellosis",2023,238,4.6
-"Tetanus",2023,1,0
-"Leptospirosis",2023,170,3.3
-"Paratyphoid fever",2023,28,0.5
-"Cholera",2023,1,0
-"Poliomyelitis",2023,0,0
-"Hepatitis NOS",2023,8,0.2
-"Typhoid fever",2023,71,1.4
-"Hepatitis A",2023,34,0.7
-"Yersiniosis",2023,1408,27
-"Rickettsial disease",2023,4,0.1
-"Hydatid disease",2023,2,0
-"Campylobacteriosis",2023,6092,116.6
-"Arboviral diseases",2023,68,1.3
-"Salmonellosis",2023,827,15.8
-"Brucellosis",2023,4,0.1
-"Trichinosis",2023,0,0
-"Leprosy",2023,4,0.1
-"Cysticercosis",2023,0,0
-"Cryptosporidiosis",2023,831,15.9
-"Shigellosis",2023,122,2.3
-"Diphtheria",2023,3,0.1
-"Tuberculosis disease",2024,365,6.8
-"Toxic shellfish poisoning",2024,1,0
-"Measles",2024,1,0
-"Hepatitis B",2024,12,0.2
-"Rheumatic fever",2024,208,3.9
-"VTEC/STEC infection",2024,1115,20.9
-"Pertussis",2024,1748,32.7
-"Haemophilus influenzae type b",2024,1,0
-"Rabies and other lyssaviruses",2024,0,0
-"Hepatitis C",2024,20,0.4
-"Acute gastroenteritis",2024,440,8.2
-"Brucellosis",2024,1,0
-"Mumps",2024,19,0.4
-"Meningococcal disease",2024,43,0.8
-"Taeniasis",2024,2,0
-"Listeriosis",2024,36,0.7
-"Q fever",2024,2,0
-"Paratyphoid fever",2024,14,0.3
-"Cysticercosis",2024,0,0
-"Legionellosis",2024,183,3.4
-"Tetanus",2024,2,0
-"Malaria",2024,29,0.5
-"Cholera",2024,1,0
-"Poliomyelitis",2024,0,0
-"Invasive pneumococcal disease",2024,718,13.5
-"Giardiasis",2024,844,15.8
-"Hepatitis A",2024,68,1.3
-"Meningoencephalitis - primary amoebic",2024,0,0
-"Hepatitis NOS",2024,5,0.1
-"Hydatid disease",2024,2,0
-"Campylobacteriosis",2024,5801,108.7
-"Rubella",2024,0,0
-"Arboviral diseases",2024,139,2.6
-"Rickettsial disease",2024,2,0
-"Typhoid fever",2024,63,1.2
-"Leprosy",2024,3,0.1
-"Salmonellosis",2024,844,15.8
-"Diphtheria",2024,2,0
-"Leptospirosis",2024,101,1.9
-"Trichinosis",2024,0,0
-"Yersiniosis",2024,1140,21.4
-"Cryptosporidiosis",2024,1234,23.1
-"Shigellosis",2024,157,2.9
-"Mpox",2024,23,0.4
+Disease,Report Year,Case Count,"Case rate per 100,000"
+Arboviral diseases,2006,21,0.5
+Pertussis,2006,1120,26.8
+Listeriosis,2006,19,0.5
+Hepatitis C,2006,35,0.8
+Q fever,2006,0,0
+Diphtheria,2006,0,0
+Paratyphoid fever,2006,23,0.5
+Brucellosis,2006,0,0
+Rheumatic fever,2006,108,2.6
+Malaria,2006,30,0.7
+Hepatitis NOS,2006,0,0
+Rabies and other lyssaviruses,2006,0,0
+Hydatid disease,2006,0,0
+Mpox,2006,0,0
+Campylobacteriosis,2006,15873,379.4
+Toxic shellfish poisoning,2006,1,suppressed
+Meningococcal disease,2006,160,3.8
+Haemophilus influenzae type b,2006,9,0.2
+Taeniasis,2006,0,0
+Leprosy,2006,4,suppressed
+Invasive group A streptococcal infection,2006,0,0
+Cholera,2006,0,0
+Tuberculosis disease,2006,350,8.4
+Measles,2006,18,0.4
+Hepatitis A,2006,123,2.9
+Tetanus,2006,1,suppressed
+Salmonellosis,2006,1335,31.9
+Typhoid fever,2006,42,1
+Cryptosporidiosis,2006,737,17.6
+VTEC/STEC infection,2006,87,2.1
+Mumps,2006,47,1.1
+Legionellosis,2006,52,1.2
+Trichinosis,2006,0,0
+Shigellosis,2006,102,2.4
+Yersiniosis,2006,453,10.8
+Acute gastroenteritis,2006,925,22.1
+Invasive pneumococcal disease,2006,0,0
+Rubella,2006,7,0.2
+Leptospirosis,2006,87,2.1
+Meningoencephalitis - primary amoebic,2006,0,0
+Poliomyelitis,2006,0,0
+Cysticercosis,2006,0,0
+Giardiasis,2006,1214,29
+Hepatitis B,2006,61,1.5
+Rickettsial disease,2006,13,0.3
+Giardiasis,2007,1402,33.2
+Pertussis,2007,332,7.9
+Brucellosis,2007,4,suppressed
+Mpox,2007,0,0
+Acute gastroenteritis,2007,614,14.5
+Paratyphoid fever,2007,23,0.5
+Invasive group A streptococcal infection,2007,0,0
+Cholera,2007,1,suppressed
+Arboviral diseases,2007,115,2.7
+Campylobacteriosis,2007,12778,302.6
+Cryptosporidiosis,2007,924,21.9
+Hydatid disease,2007,6,0.1
+Salmonellosis,2007,1275,30.2
+Typhoid fever,2007,48,1.1
+Listeriosis,2007,26,0.6
+Hepatitis C,2007,29,0.7
+Q fever,2007,0,0
+Diphtheria,2007,0,0
+Leprosy,2007,8,0.2
+Shigellosis,2007,129,3.1
+Rheumatic fever,2007,139,3.3
+Malaria,2007,25,0.6
+Hepatitis NOS,2007,1,suppressed
+Rabies and other lyssaviruses,2007,0,0
+Tetanus,2007,1,suppressed
+Meningoencephalitis - primary amoebic,2007,0,0
+Poliomyelitis,2007,0,0
+Toxic shellfish poisoning,2007,3,suppressed
+Meningococcal disease,2007,116,2.7
+Haemophilus influenzae type b,2007,15,0.4
+Taeniasis,2007,1,suppressed
+Trichinosis,2007,0,0
+Rickettsial disease,2007,2,suppressed
+Yersiniosis,2007,502,11.9
+Tuberculosis disease,2007,283,6.7
+Measles,2007,24,0.6
+Hepatitis A,2007,42,1
+Leptospirosis,2007,66,1.6
+Hepatitis B,2007,72,1.7
+Legionellosis,2007,64,1.5
+Cysticercosis,2007,2,suppressed
+VTEC/STEC infection,2007,100,2.4
+Mumps,2007,73,1.7
+Invasive pneumococcal disease,2007,0,0
+Rubella,2007,10,0.2
+Salmonellosis,2008,1337,31.4
+Shigellosis,2008,113,2.7
+Yersiniosis,2008,508,11.9
+Acute gastroenteritis,2008,675,15.8
+Paratyphoid fever,2008,25,0.6
+Cryptosporidiosis,2008,765,18
+Giardiasis,2008,1660,39
+Malaria,2008,40,0.9
+Typhoid fever,2008,29,0.7
+Cysticercosis,2008,0,0
+Brucellosis,2008,3,suppressed
+Cholera,2008,0,0
+Pertussis,2008,417,9.8
+Listeriosis,2008,27,0.6
+Hepatitis C,2008,22,0.5
+Q fever,2008,0,0
+Arboviral diseases,2008,115,2.7
+Campylobacteriosis,2008,6692,157.1
+Invasive group A streptococcal infection,2008,0,0
+Rheumatic fever,2008,155,3.6
+Tuberculosis disease,2008,293,6.9
+Hepatitis NOS,2008,2,suppressed
+Rabies and other lyssaviruses,2008,0,0
+Hydatid disease,2008,7,0.2
+Mpox,2008,0,0
+Poliomyelitis,2008,0,0
+Toxic shellfish poisoning,2008,1,suppressed
+Meningococcal disease,2008,122,2.9
+Haemophilus influenzae type b,2008,9,0.2
+Diphtheria,2008,0,0
+Leprosy,2008,5,0.1
+Rickettsial disease,2008,9,0.2
+Tetanus,2008,0,0
+Meningoencephalitis - primary amoebic,2008,0,0
+Measles,2008,12,0.3
+Hepatitis A,2008,89,2.1
+VTEC/STEC infection,2008,122,2.9
+Mumps,2008,76,1.8
+Taeniasis,2008,5,0.1
+Trichinosis,2008,0,0
+Rubella,2008,9,0.2
+Leptospirosis,2008,118,2.8
+Hepatitis B,2008,37,0.9
+Invasive pneumococcal disease,2008,124,2.9
+Legionellosis,2008,73,1.7
+Cryptosporidiosis,2009,854,19.9
+Giardiasis,2009,1639,38.1
+Cholera,2009,0,0
+Campylobacteriosis,2009,7177,166.8
+Rickettsial disease,2009,5,0.1
+Q fever,2009,0,0
+Acute gastroenteritis,2009,712,16.5
+Poliomyelitis,2009,0,0
+Paratyphoid fever,2009,25,0.6
+Shigellosis,2009,119,2.8
+Meningoencephalitis - primary amoebic,2009,0,0
+Arboviral diseases,2009,145,3.4
+Leprosy,2009,3,suppressed
+Hepatitis C,2009,32,0.7
+Haemophilus influenzae type b,2009,10,0.2
+Salmonellosis,2009,1128,26.2
+Typhoid fever,2009,34,0.8
+Cysticercosis,2009,0,0
+Brucellosis,2009,0,0
+Malaria,2009,50,1.2
+Hepatitis NOS,2009,2,suppressed
+Rabies and other lyssaviruses,2009,0,0
+Tetanus,2009,1,suppressed
+Yersiniosis,2009,430,10
+Diphtheria,2009,1,suppressed
+Listeriosis,2009,29,0.7
+Meningococcal disease,2009,132,3.1
+Mumps,2009,63,1.5
+Taeniasis,2009,3,suppressed
+Trichinosis,2009,0,0
+Invasive group A streptococcal infection,2009,0,0
+Hydatid disease,2009,2,suppressed
+Tuberculosis disease,2009,298,6.9
+Measles,2009,248,5.8
+Hepatitis A,2009,44,1
+Leptospirosis,2009,68,1.6
+Mpox,2009,0,0
+Pertussis,2009,1398,32.5
+Toxic shellfish poisoning,2009,1,suppressed
+VTEC/STEC infection,2009,143,3.3
+Rheumatic fever,2009,141,3.3
+Legionellosis,2009,74,1.7
+Invasive pneumococcal disease,2009,687,16
+Rubella,2009,4,suppressed
+Hepatitis B,2009,55,1.3
+Cryptosporidiosis,2010,954,21.9
+Salmonellosis,2010,1146,26.3
+Typhoid fever,2010,31,0.7
+Paratyphoid fever,2010,19,0.4
+Brucellosis,2010,1,suppressed
+Yersiniosis,2010,406,9.3
+Arboviral diseases,2010,55,1.3
+Campylobacteriosis,2010,7346,168.9
+Rickettsial disease,2010,13,0.3
+Giardiasis,2010,1985,45.6
+Taeniasis,2010,3,suppressed
+Trichinosis,2010,0,0
+Cysticercosis,2010,0,0
+Hydatid disease,2010,4,suppressed
+Cholera,2010,2,suppressed
+Acute gastroenteritis,2010,493,11.3
+Rabies and other lyssaviruses,2010,0,0
+Shigellosis,2010,104,2.4
+Hepatitis B,2010,50,1.1
+Diphtheria,2010,0,0
+Leprosy,2010,3,suppressed
+Leptospirosis,2010,81,1.9
+Q fever,2010,1,suppressed
+Pertussis,2010,872,20
+Listeriosis,2010,23,0.5
+Hepatitis C,2010,16,0.4
+Haemophilus influenzae type b,2010,8,0.2
+Meningoencephalitis - primary amoebic,2010,0,0
+Poliomyelitis,2010,0,0
+Invasive group A streptococcal infection,2010,0,0
+Tetanus,2010,7,0.2
+Malaria,2010,44,1
+Hepatitis NOS,2010,3,suppressed
+Hepatitis A,2010,46,1.1
+Meningococcal disease,2010,97,2.2
+Mpox,2010,0,0
+Legionellosis,2010,173,4
+Toxic shellfish poisoning,2010,9,0.2
+Rubella,2010,4,suppressed
+Mumps,2010,41,0.9
+Tuberculosis disease,2010,305,7
+Measles,2010,48,1.1
+Invasive pneumococcal disease,2010,530,12.2
+Rheumatic fever,2010,165,3.8
+VTEC/STEC infection,2010,138,3.2
+Giardiasis,2011,1934,44.1
+Cholera,2011,0,0
+Campylobacteriosis,2011,6686,152.5
+Cryptosporidiosis,2011,610,13.9
+Q fever,2011,1,suppressed
+Acute gastroenteritis,2011,567,12.9
+Leprosy,2011,1,suppressed
+Cysticercosis,2011,0,0
+Brucellosis,2011,0,0
+Salmonellosis,2011,1055,24.1
+Poliomyelitis,2011,0,0
+Paratyphoid fever,2011,13,0.3
+Shigellosis,2011,101,2.3
+Meningoencephalitis - primary amoebic,2011,0,0
+Arboviral diseases,2011,46,1
+Hepatitis A,2011,26,0.6
+Rickettsial disease,2011,5,0.1
+Malaria,2011,52,1.2
+Taeniasis,2011,9,0.2
+Typhoid fever,2011,45,1
+Hepatitis C,2011,26,0.6
+Hydatid disease,2011,6,0.1
+Legionellosis,2011,158,3.6
+Listeriosis,2011,26,0.6
+Rabies and other lyssaviruses,2011,0,0
+Tetanus,2011,0,0
+Yersiniosis,2011,513,11.7
+Diphtheria,2011,0,0
+Invasive group A streptococcal infection,2011,0,0
+Leptospirosis,2011,68,1.6
+Tuberculosis disease,2011,306,7
+Measles,2011,596,13.6
+Trichinosis,2011,0,0
+Meningococcal disease,2011,119,2.7
+Haemophilus influenzae type b,2011,8,0.2
+Pertussis,2011,1996,45.5
+Toxic shellfish poisoning,2011,3,suppressed
+Rubella,2011,22,0.5
+Mumps,2011,51,1.2
+Hepatitis B,2011,51,1.2
+Hepatitis NOS,2011,7,0.2
+Rheumatic fever,2011,160,3.6
+Mpox,2011,0,0
+Invasive pneumococcal disease,2011,539,12.3
+VTEC/STEC infection,2011,153,3.5
+Typhoid fever,2012,44,1
+Arboviral diseases,2012,77,1.7
+Cryptosporidiosis,2012,877,19.9
+Brucellosis,2012,0,0
+Cholera,2012,0,0
+Trichinosis,2012,0,0
+Paratyphoid fever,2012,22,0.5
+Shigellosis,2012,131,3
+Yersiniosis,2012,514,11.7
+Diphtheria,2012,0,0
+Campylobacteriosis,2012,7016,159.2
+Rickettsial disease,2012,4,suppressed
+Giardiasis,2012,1714,38.9
+Salmonellosis,2012,1081,24.5
+Rubella,2012,4,suppressed
+Cysticercosis,2012,0,0
+Hydatid disease,2012,1,suppressed
+Meningoencephalitis - primary amoebic,2012,0,0
+Acute gastroenteritis,2012,735,16.7
+Rabies and other lyssaviruses,2012,0,0
+Tetanus,2012,2,suppressed
+Hepatitis B,2012,39,0.9
+Hepatitis NOS,2012,2,suppressed
+Leprosy,2012,2,suppressed
+Leptospirosis,2012,108,2.5
+Q fever,2012,0,0
+Taeniasis,2012,6,0.1
+Invasive group A streptococcal infection,2012,0,0
+Hepatitis C,2012,31,0.7
+Haemophilus influenzae type b,2012,4,suppressed
+Legionellosis,2012,149,3.4
+Poliomyelitis,2012,0,0
+Meningococcal disease,2012,85,1.9
+Mumps,2012,26,0.6
+Pertussis,2012,5897,133.8
+Toxic shellfish poisoning,2012,30,0.7
+Hepatitis A,2012,82,1.9
+Rheumatic fever,2012,176,4
+Malaria,2012,38,0.9
+Measles,2012,68,1.5
+Listeriosis,2012,25,0.6
+VTEC/STEC infection,2012,147,3.3
+Tuberculosis disease,2012,291,6.6
+Invasive pneumococcal disease,2012,478,10.8
+Mpox,2012,0,0
+Salmonellosis,2013,1143,25.7
+Campylobacteriosis,2013,6837,153.9
+Shigellosis,2013,137,3.1
+Yersiniosis,2013,483,10.9
+Acute gastroenteritis,2013,557,12.5
+Leprosy,2013,7,0.2
+Cryptosporidiosis,2013,1348,30.3
+Giardiasis,2013,1729,38.9
+Taeniasis,2013,6,0.1
+Typhoid fever,2013,50,1.1
+Cysticercosis,2013,1,suppressed
+Brucellosis,2013,1,suppressed
+Cholera,2013,0,0
+Poliomyelitis,2013,0,0
+Paratyphoid fever,2013,25,0.6
+Tetanus,2013,1,suppressed
+Hepatitis B,2013,28,0.6
+Arboviral diseases,2013,110,2.5
+Hepatitis A,2013,91,2
+Rickettsial disease,2013,9,0.2
+Q fever,2013,0,0
+Measles,2013,8,0.2
+Trichinosis,2013,0,0
+Hepatitis C,2013,36,0.8
+Hydatid disease,2013,7,0.2
+Meningoencephalitis - primary amoebic,2013,0,0
+Listeriosis,2013,19,0.4
+Rabies and other lyssaviruses,2013,0,0
+Mumps,2013,23,0.5
+Pertussis,2013,3540,79.7
+Diphtheria,2013,0,0
+VTEC/STEC infection,2013,205,4.6
+Leptospirosis,2013,60,1.4
+Malaria,2013,47,1.1
+Legionellosis,2013,151,3.4
+Rubella,2013,1,suppressed
+Rheumatic fever,2013,204,4.6
+Haemophilus influenzae type b,2013,2,suppressed
+Tuberculosis disease,2013,274,6.2
+Invasive group A streptococcal infection,2013,0,0
+Meningococcal disease,2013,68,1.5
+Mpox,2013,0,0
+Hepatitis NOS,2013,1,suppressed
+Toxic shellfish poisoning,2013,1,suppressed
+Invasive pneumococcal disease,2013,472,10.6
+Giardiasis,2014,1709,37.8
+Paratyphoid fever,2014,19,0.4
+Shigellosis,2014,128,2.8
+Arboviral diseases,2014,280,6.2
+Typhoid fever,2014,43,1
+Cryptosporidiosis,2014,584,12.9
+Q fever,2014,0,0
+Salmonellosis,2014,955,21.1
+Acute gastroenteritis,2014,756,16.7
+Rabies and other lyssaviruses,2014,0,0
+Tetanus,2014,0,0
+Cholera,2014,0,0
+Diphtheria,2014,2,suppressed
+Campylobacteriosis,2014,6782,150.2
+Rickettsial disease,2014,6,0.1
+Malaria,2014,33,0.7
+Taeniasis,2014,5,0.1
+Trichinosis,2014,0,0
+Cysticercosis,2014,1,suppressed
+Brucellosis,2014,0,0
+Meningoencephalitis - primary amoebic,2014,0,0
+Poliomyelitis,2014,0,0
+Meningococcal disease,2014,45,1
+Mumps,2014,18,0.4
+Yersiniosis,2014,680,15.1
+Hepatitis NOS,2014,8,0.2
+Leprosy,2014,4,suppressed
+Leptospirosis,2014,56,1.2
+Hydatid disease,2014,4,suppressed
+Measles,2014,280,6.2
+Rubella,2014,4,suppressed
+Hepatitis C,2014,29,0.6
+Mpox,2014,0,0
+Legionellosis,2014,123,2.7
+Listeriosis,2014,25,0.6
+Hepatitis A,2014,74,1.6
+Rheumatic fever,2014,198,4.4
+Hepatitis B,2014,35,0.8
+Toxic shellfish poisoning,2014,18,0.4
+Invasive group A streptococcal infection,2014,0,0
+VTEC/STEC infection,2014,187,4.1
+Haemophilus influenzae type b,2014,5,0.1
+Invasive pneumococcal disease,2014,488,10.8
+Pertussis,2014,1099,24.3
+Tuberculosis disease,2014,301,6.7
+Acute gastroenteritis,2015,503,10.9
+Cryptosporidiosis,2015,696,15.1
+Rickettsial disease,2015,8,0.2
+Salmonellosis,2015,1051,22.8
+Paratyphoid fever,2015,34,0.7
+Rabies and other lyssaviruses,2015,0,0
+Yersiniosis,2015,634,13.8
+Poliomyelitis,2015,0,0
+Campylobacteriosis,2015,6218,134.9
+Giardiasis,2015,1510,32.8
+Q fever,2015,0,0
+Taeniasis,2015,5,0.1
+Typhoid fever,2015,43,0.9
+Leptospirosis,2015,63,1.4
+Brucellosis,2015,1,suppressed
+Cholera,2015,0,0
+Listeriosis,2015,26,0.6
+Meningococcal disease,2015,64,1.4
+Shigellosis,2015,111,2.4
+Hepatitis B,2015,34,0.7
+Arboviral diseases,2015,186,4
+Leprosy,2015,5,0.1
+Mpox,2015,0,0
+Malaria,2015,38,0.8
+Measles,2015,10,0.2
+Trichinosis,2015,0,0
+Cysticercosis,2015,1,suppressed
+Hydatid disease,2015,4,suppressed
+Meningoencephalitis - primary amoebic,2015,0,0
+Invasive group A streptococcal infection,2015,0,0
+Hepatitis A,2015,47,1
+Tetanus,2015,1,suppressed
+Pertussis,2015,1168,25.3
+Diphtheria,2015,2,suppressed
+Rubella,2015,0,0
+Hepatitis C,2015,35,0.8
+Haemophilus influenzae type b,2015,3,suppressed
+Legionellosis,2015,246,5.3
+Hepatitis NOS,2015,4,suppressed
+VTEC/STEC infection,2015,330,7.2
+Mumps,2015,13,0.3
+Tuberculosis disease,2015,293,6.4
+Invasive pneumococcal disease,2015,446,9.7
+Toxic shellfish poisoning,2015,3,suppressed
+Rheumatic fever,2015,110,2.4
+Giardiasis,2016,1616,34.3
+Acute gastroenteritis,2016,510,10.8
+Campylobacteriosis,2016,7457,158.2
+Cryptosporidiosis,2016,1062,22.5
+Shigellosis,2016,174,3.7
+Cholera,2016,0,0
+Poliomyelitis,2016,0,0
+Leprosy,2016,0,0
+Rickettsial disease,2016,5,0.1
+Q fever,2016,0,0
+Salmonellosis,2016,1091,23.1
+Listeriosis,2016,36,0.8
+Paratyphoid fever,2016,32,0.7
+Tetanus,2016,1,suppressed
+Meningoencephalitis - primary amoebic,2016,0,0
+Arboviral diseases,2016,323,6.9
+Hepatitis A,2016,35,0.7
+Leptospirosis,2016,85,1.8
+Malaria,2016,26,0.6
+Taeniasis,2016,4,suppressed
+Typhoid fever,2016,38,0.8
+Cysticercosis,2016,0,0
+Brucellosis,2016,0,0
+Legionellosis,2016,247,5.2
+Invasive group A streptococcal infection,2016,0,0
+Rabies and other lyssaviruses,2016,0,0
+Mumps,2016,20,0.4
+Yersiniosis,2016,858,18.2
+Diphtheria,2016,1,suppressed
+VTEC/STEC infection,2016,417,8.8
+Mpox,2016,0,0
+Hydatid disease,2016,2,suppressed
+Measles,2016,103,2.2
+Trichinosis,2016,0,0
+Hepatitis C,2016,31,0.7
+Rheumatic fever,2016,136,2.9
+Invasive pneumococcal disease,2016,480,10.2
+Hepatitis NOS,2016,8,0.2
+Meningococcal disease,2016,75,1.6
+Hepatitis B,2016,34,0.7
+Pertussis,2016,1093,23.2
+Rubella,2016,3,suppressed
+Haemophilus influenzae type b,2016,2,suppressed
+Tuberculosis disease,2016,295,6.3
+Toxic shellfish poisoning,2016,3,suppressed
+Cryptosporidiosis,2017,1192,24.8
+Paratyphoid fever,2017,37,0.8
+Campylobacteriosis,2017,6482,134.7
+Rickettsial disease,2017,4,suppressed
+Cholera,2017,0,0
+Arboviral diseases,2017,187,3.9
+Acute gastroenteritis,2017,319,6.6
+Rabies and other lyssaviruses,2017,0,0
+Giardiasis,2017,1648,34.2
+Meningoencephalitis - primary amoebic,2017,0,0
+Diphtheria,2017,1,suppressed
+Leprosy,2017,3,suppressed
+Brucellosis,2017,1,suppressed
+Q fever,2017,0,0
+Salmonellosis,2017,1127,23.4
+Typhoid fever,2017,59,1.2
+Leptospirosis,2017,138,2.9
+Hydatid disease,2017,1,suppressed
+Legionellosis,2017,221,4.6
+Poliomyelitis,2017,0,0
+Meningococcal disease,2017,112,2.3
+Shigellosis,2017,244,5.1
+Yersiniosis,2017,917,19.1
+Hepatitis NOS,2017,10,0.2
+Hepatitis A,2017,58,1.2
+Mpox,2017,0,0
+Malaria,2017,42,0.9
+Taeniasis,2017,4,suppressed
+Trichinosis,2017,0,0
+Cysticercosis,2017,0,0
+Haemophilus influenzae type b,2017,4,suppressed
+Invasive pneumococcal disease,2017,521,10.8
+Listeriosis,2017,21,0.4
+VTEC/STEC infection,2017,547,11.4
+Tetanus,2017,0,0
+Hepatitis B,2017,27,0.6
+Toxic shellfish poisoning,2017,5,0.1
+Rubella,2017,1,suppressed
+Hepatitis C,2017,21,0.4
+Tuberculosis disease,2017,308,6.4
+Measles,2017,15,0.3
+Invasive group A streptococcal infection,2017,0,0
+Mumps,2017,1338,27.8
+Pertussis,2017,2142,44.5
+Rheumatic fever,2017,152,3.2
+Campylobacteriosis,2018,6957,142
+Acute gastroenteritis,2018,228,4.7
+Poliomyelitis,2018,0,0
+Brucellosis,2018,3,suppressed
+Yersiniosis,2018,1201,24.5
+Arboviral diseases,2018,308,6.3
+Cryptosporidiosis,2018,1613,32.9
+Rickettsial disease,2018,3,suppressed
+Giardiasis,2018,1585,32.3
+Salmonellosis,2018,1100,22.4
+Leprosy,2018,3,suppressed
+Cysticercosis,2018,1,suppressed
+Hydatid disease,2018,0,0
+Cholera,2018,1,suppressed
+Listeriosis,2018,30,0.6
+Paratyphoid fever,2018,18,0.4
+Shigellosis,2018,217,4.4
+Hepatitis B,2018,32,0.7
+Diphtheria,2018,0,0
+Hepatitis A,2018,68,1.4
+Leptospirosis,2018,109,2.2
+Q fever,2018,0,0
+Taeniasis,2018,4,suppressed
+Typhoid fever,2018,53,1.1
+Hepatitis C,2018,34,0.7
+Haemophilus influenzae type b,2018,3,suppressed
+Meningoencephalitis - primary amoebic,2018,0,0
+Invasive group A streptococcal infection,2018,0,0
+Rabies and other lyssaviruses,2018,0,0
+Tetanus,2018,0,0
+Pertussis,2018,2955,60.3
+Hepatitis NOS,2018,7,0.1
+VTEC/STEC infection,2018,925,18.9
+Mpox,2018,0,0
+Malaria,2018,36,0.7
+Measles,2018,30,0.6
+Trichinosis,2018,0,0
+Rheumatic fever,2018,186,3.8
+Tuberculosis disease,2018,305,6.2
+Legionellosis,2018,175,3.6
+Toxic shellfish poisoning,2018,3,suppressed
+Meningococcal disease,2018,120,2.4
+Mumps,2018,435,8.9
+Invasive pneumococcal disease,2018,557,11.4
+Rubella,2018,1,suppressed
+Brucellosis,2019,2,suppressed
+Campylobacteriosis,2019,6203,124.8
+Cryptosporidiosis,2019,1035,20.8
+Cholera,2019,0,0
+Diphtheria,2019,1,suppressed
+Typhoid fever,2019,54,1.1
+Cysticercosis,2019,0,0
+Giardiasis,2019,1749,35.2
+Meningoencephalitis - primary amoebic,2019,0,0
+Acute gastroenteritis,2019,485,9.8
+Paratyphoid fever,2019,17,0.3
+Shigellosis,2019,214,4.3
+Yersiniosis,2019,1185,23.8
+Hepatitis NOS,2019,9,0.2
+Leprosy,2019,6,0.1
+Rickettsial disease,2019,4,suppressed
+Q fever,2019,1,suppressed
+Arboviral diseases,2019,245,4.9
+Trichinosis,2019,0,0
+Hepatitis C,2019,24,0.5
+Hydatid disease,2019,1,suppressed
+Legionellosis,2019,161,3.2
+Poliomyelitis,2019,0,0
+Rabies and other lyssaviruses,2019,0,0
+Tetanus,2019,0,0
+Hepatitis B,2019,28,0.6
+Toxic shellfish poisoning,2019,1,suppressed
+Hepatitis A,2019,67,1.3
+Leptospirosis,2019,89,1.8
+Malaria,2019,27,0.5
+Salmonellosis,2019,1190,23.9
+Rubella,2019,2,suppressed
+Rheumatic fever,2019,168,3.4
+Haemophilus influenzae type b,2019,2,suppressed
+Invasive pneumococcal disease,2019,495,10
+Listeriosis,2019,31,0.6
+Meningococcal disease,2019,139,2.8
+Mumps,2019,264,5.3
+Pertussis,2019,1206,24.3
+Taeniasis,2019,5,0.1
+VTEC/STEC infection,2019,1103,22.2
+Mpox,2019,0,0
+Tuberculosis disease,2019,317,6.4
+Invasive group A streptococcal infection,2019,0,0
+Measles,2019,2190,44.1
+Cholera,2020,0,0
+Campylobacteriosis,2020,5293,104.4
+Brucellosis,2020,2,suppressed
+Giardiasis,2020,1139,22.5
+Poliomyelitis,2020,0,0
+Rabies and other lyssaviruses,2020,0,0
+Shigellosis,2020,60,1.2
+Salmonellosis,2020,709,14
+Acute gastroenteritis,2020,353,7
+Paratyphoid fever,2020,17,0.3
+Rickettsial disease,2020,5,0.1
+Yersiniosis,2020,1260,24.8
+Taeniasis,2020,3,suppressed
+Typhoid fever,2020,24,0.5
+Cryptosporidiosis,2020,735,14.5
+Hydatid disease,2020,0,0
+Arboviral diseases,2020,57,1.1
+Listeriosis,2020,35,0.7
+Meningococcal disease,2020,35,0.7
+Tetanus,2020,0,0
+Hepatitis B,2020,18,0.4
+Diphtheria,2020,0,0
+Leprosy,2020,3,suppressed
+Leptospirosis,2020,61,1.2
+Q fever,2020,0,0
+Measles,2020,9,0.2
+Trichinosis,2020,0,0
+Cysticercosis,2020,0,0
+Haemophilus influenzae type b,2020,3,suppressed
+Meningoencephalitis - primary amoebic,2020,0,0
+Invasive group A streptococcal infection,2020,0,0
+Hepatitis A,2020,21,0.4
+Mumps,2020,144,2.8
+Pertussis,2020,169,3.3
+Hepatitis NOS,2020,11,0.2
+Rubella,2020,0,0
+Mpox,2020,0,0
+Malaria,2020,17,0.3
+Legionellosis,2020,160,3.2
+Toxic shellfish poisoning,2020,0,0
+Hepatitis C,2020,28,0.6
+Tuberculosis disease,2020,318,6.3
+Invasive pneumococcal disease,2020,350,6.9
+VTEC/STEC infection,2020,845,16.7
+Rheumatic fever,2020,150,3
+Cholera,2021,0,0
+Giardiasis,2021,1041,20.5
+Campylobacteriosis,2021,5729,112.7
+Typhoid fever,2021,3,suppressed
+Cryptosporidiosis,2021,702,13.8
+Shigellosis,2021,4,suppressed
+Salmonellosis,2021,714,14
+Acute gastroenteritis,2021,240,4.7
+Leprosy,2021,5,0.1
+Brucellosis,2021,1,suppressed
+Yersiniosis,2021,1410,27.7
+Meningoencephalitis - primary amoebic,2021,0,0
+Poliomyelitis,2021,0,0
+Cysticercosis,2021,0,0
+Tetanus,2021,1,suppressed
+Arboviral diseases,2021,8,0.2
+Hepatitis NOS,2021,8,0.2
+Hepatitis A,2021,8,0.2
+Rickettsial disease,2021,1,suppressed
+Q fever,2021,0,0
+Diphtheria,2021,0,0
+Paratyphoid fever,2021,2,suppressed
+Hepatitis C,2021,35,0.7
+Hydatid disease,2021,1,suppressed
+Legionellosis,2021,179,3.5
+Listeriosis,2021,32,0.6
+Rabies and other lyssaviruses,2021,0,0
+Mumps,2021,1,suppressed
+Hepatitis B,2021,12,0.2
+Toxic shellfish poisoning,2021,3,suppressed
+VTEC/STEC infection,2021,911,17.9
+Leptospirosis,2021,77,1.5
+Malaria,2021,8,0.2
+Taeniasis,2021,1,suppressed
+Trichinosis,2021,0,0
+Rheumatic fever,2021,86,1.7
+Haemophilus influenzae type b,2021,3,suppressed
+Invasive pneumococcal disease,2021,468,9.2
+Invasive group A streptococcal infection,2021,0,0
+Meningococcal disease,2021,41,0.8
+Mpox,2021,0,0
+Pertussis,2021,41,0.8
+Measles,2021,0,0
+Rubella,2021,0,0
+Tuberculosis disease,2021,309,6.1
+Rabies and other lyssaviruses,2022,0,0
+Salmonellosis,2022,749,14.7
+Campylobacteriosis,2022,5878,115.7
+Leprosy,2022,3,suppressed
+Giardiasis,2022,707,13.9
+Cholera,2022,1,suppressed
+Acute gastroenteritis,2022,329,6.5
+Paratyphoid fever,2022,15,0.3
+Brucellosis,2022,1,suppressed
+Hydatid disease,2022,3,suppressed
+Meningoencephalitis - primary amoebic,2022,0,0
+Typhoid fever,2022,31,0.6
+Cryptosporidiosis,2022,612,12
+Leptospirosis,2022,120,2.4
+Arboviral diseases,2022,28,0.6
+Taeniasis,2022,3,suppressed
+Trichinosis,2022,0,0
+Shigellosis,2022,69,1.4
+Yersiniosis,2022,1294,25.5
+Diphtheria,2022,2,suppressed
+Listeriosis,2022,39,0.8
+Meningococcal disease,2022,72,1.4
+Tetanus,2022,1,suppressed
+Hepatitis B,2022,11,0.2
+Poliomyelitis,2022,0,0
+Cysticercosis,2022,0,0
+Mpox,2022,41,0.8
+Malaria,2022,18,0.4
+Measles,2022,0,0
+Rubella,2022,0,0
+Rickettsial disease,2022,5,0.1
+Q fever,2022,0,0
+Legionellosis,2022,234,4.6
+Invasive group A streptococcal infection,2022,0,0
+Hepatitis A,2022,58,1.1
+Mumps,2022,1,suppressed
+Pertussis,2022,18,0.4
+Hepatitis NOS,2022,2,suppressed
+Toxic shellfish poisoning,2022,2,suppressed
+Hepatitis C,2022,23,0.5
+Haemophilus influenzae type b,2022,0,0
+Invasive pneumococcal disease,2022,631,12.4
+VTEC/STEC infection,2022,1022,20.1
+Rheumatic fever,2022,78,1.5
+Tuberculosis disease,2022,267,5.3
+Leprosy,2023,4,suppressed
+Campylobacteriosis,2023,6092,117.2
+Rabies and other lyssaviruses,2023,1,suppressed
+Hydatid disease,2023,2,suppressed
+Salmonellosis,2023,827,15.9
+Taeniasis,2023,0,0
+Trichinosis,2023,0,0
+Shigellosis,2023,122,2.3
+Cholera,2023,1,suppressed
+Meningoencephalitis - primary amoebic,2023,0,0
+Typhoid fever,2023,71,1.4
+Hepatitis A,2023,34,0.7
+Tetanus,2023,1,suppressed
+Haemophilus influenzae type b,2023,4,suppressed
+Legionellosis,2023,238,4.6
+Listeriosis,2023,37,0.7
+Rickettsial disease,2023,4,suppressed
+Yersiniosis,2023,1408,27.1
+Acute gastroenteritis,2023,462,8.9
+Hepatitis NOS,2023,8,0.2
+Brucellosis,2023,4,suppressed
+Leptospirosis,2023,170,3.3
+Hepatitis B,2023,19,0.4
+Poliomyelitis,2023,0,0
+Cryptosporidiosis,2023,831,16
+Giardiasis,2023,898,17.3
+Arboviral diseases,2023,68,1.3
+Invasive pneumococcal disease,2023,757,14.6
+Invasive group A streptococcal infection,2023,0,0
+Hepatitis C,2023,31,0.6
+Q fever,2023,0,0
+Diphtheria,2023,3,suppressed
+Paratyphoid fever,2023,28,0.5
+VTEC/STEC infection,2023,1005,19.3
+Mpox,2023,8,0.2
+Malaria,2023,54,1
+Measles,2023,14,0.3
+Cysticercosis,2023,0,0
+Rheumatic fever,2023,179,3.4
+Tuberculosis disease,2023,305,5.9
+Pertussis,2023,141,2.7
+Toxic shellfish poisoning,2023,0,0
+Meningococcal disease,2023,57,1.1
+Mumps,2023,16,0.3
+Rubella,2023,0,0
+Salmonellosis,2024,844,16
+Campylobacteriosis,2024,5800,109.6
+Shigellosis,2024,157,3
+Cholera,2024,1,suppressed
+Malaria,2024,29,0.5
+Leprosy,2024,3,suppressed
+Rabies and other lyssaviruses,2024,0,0
+Hydatid disease,2024,2,suppressed
+Meningoencephalitis - primary amoebic,2024,0,0
+Typhoid fever,2024,62,1.2
+Cryptosporidiosis,2024,1234,23.3
+Meningococcal disease,2024,43,0.8
+Haemophilus influenzae type b,2024,1,suppressed
+Taeniasis,2024,2,suppressed
+Trichinosis,2024,0,0
+Rickettsial disease,2024,2,suppressed
+Yersiniosis,2024,1140,21.6
+Acute gastroenteritis,2024,435,8.2
+Hepatitis NOS,2024,5,0.1
+Hepatitis A,2024,68,1.3
+Tetanus,2024,2,suppressed
+Hepatitis B,2024,12,0.2
+Poliomyelitis,2024,0,0
+Cysticercosis,2024,0,0
+Giardiasis,2024,844,16
+Mumps,2024,19,0.4
+Legionellosis,2024,181,3.4
+Listeriosis,2024,36,0.7
+Hepatitis C,2024,20,0.4
+Q fever,2024,2,suppressed
+Diphtheria,2024,2,suppressed
+Measles,2024,1,suppressed
+Rubella,2024,0,0
+Leptospirosis,2024,102,1.9
+Tuberculosis disease,2024,360,6.8
+Invasive pneumococcal disease,2024,718,13.6
+Invasive group A streptococcal infection,2024,145,2.7
+VTEC/STEC infection,2024,1112,21
+Arboviral diseases,2024,139,2.6
+Pertussis,2024,1745,33
+Toxic shellfish poisoning,2024,1,suppressed
+Brucellosis,2024,1,suppressed
+Mpox,2024,23,0.4
+Paratyphoid fever,2024,14,0.3
+Rheumatic fever,2024,207,3.9
+Haemophilus influenzae type b,2025,1,suppressed
+Rabies and other lyssaviruses,2025,0,0
+Rheumatic fever,2025,207,3.9
+Malaria,2025,48,0.9
+Hepatitis NOS,2025,2,suppressed
+Hepatitis A,2025,65,1.2
+Hydatid disease,2025,5,0.1
+Salmonellosis,2025,1104,20.7
+Campylobacteriosis,2025,5816,109.2
+Toxic shellfish poisoning,2025,1,suppressed
+Meningococcal disease,2025,41,0.8
+Mumps,2025,19,0.4
+Taeniasis,2025,2,suppressed
+Leprosy,2025,4,suppressed
+Shigellosis,2025,175,3.3
+Cholera,2025,0,0
+Tuberculosis disease,2025,383,7.2
+Measles,2025,58,1.1
+Rubella,2025,0,0
+Tetanus,2025,0,0
+Meningoencephalitis - primary amoebic,2025,0,0
+Typhoid fever,2025,50,0.9
+Cryptosporidiosis,2025,870,16.3
+VTEC/STEC infection,2025,1191,22.4
+Arboviral diseases,2025,456,8.6
+Legionellosis,2025,168,3.2
+Trichinosis,2025,0,0
+Rickettsial disease,2025,5,0.1
+Yersiniosis,2025,1112,20.9
+Acute gastroenteritis,2025,477,9
+Invasive pneumococcal disease,2025,720,13.5
+Brucellosis,2025,1,suppressed
+Leptospirosis,2025,77,1.4
+Hepatitis B,2025,15,0.3
+Poliomyelitis,2025,0,0
+Cysticercosis,2025,0,0
+Giardiasis,2025,865,16.2
+Mpox,2025,41,0.8
+Pertussis,2025,2678,50.3
+Listeriosis,2025,41,0.8
+Hepatitis C,2025,18,0.3
+Q fever,2025,1,suppressed
+Diphtheria,2025,4,suppressed
+Paratyphoid fever,2025,11,0.2
+Invasive group A streptococcal infection,2025,645,12.1
